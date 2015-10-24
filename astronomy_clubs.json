@@ -145,34 +145,34 @@
     "website": "http://www.adia.3000.it"
   },
   "adirondack public observatory": {
+    "address": "P.O. Box 1332",
     "location": "Tupper Lake,New York",
     "name": "Adirondack Public Observatory",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.apobservatory.org",
-    "zipcode": "P.O. Box 1332"
+    "website": "http://www.apobservatory.org"
   },
   "adirondack skywatchers astronomy club": {
+    "address": "72 Harrison Ave",
     "location": "Hudson Falls,New York",
     "name": "Adirondack Skywatchers Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": "72 Harrison Ave"
+    "website": "/"
   },
   "aerospace employees association astronomy club": {
+    "address": "",
     "location": ",California",
     "name": "Aerospace Employees Association Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/www.astronomicalview.blogspot.com",
-    "zipcode": ""
+    "website": "/www.astronomicalview.blogspot.com"
   },
   "agrupaci n astron mica de alicante": {
     "address": "P.O. Box 616, Alicante,  Spain",
@@ -319,24 +319,24 @@
     "website": ""
   },
   "alachua astronomy club": {
+    "address": "PO Box 141591",
     "location": "Gainesville,Florida",
     "name": "Alachua Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/www.alachuaastronomyclub.org",
-    "zipcode": "PO Box 141591"
+    "website": "/www.alachuaastronomyclub.org"
   },
   "alamogordo astronomy club": {
+    "address": "P.O. Box 4151",
     "location": "Alamogordo,New Mexico",
     "name": "Alamogordo Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.zianet.com/aacwp",
-    "zipcode": "P.O. Box 4151"
+    "website": "http://www.zianet.com/aacwp"
   },
   "alaufaq": {
     "address": "No. 331 koki qtrs. Kano, Kano state, nigeria",
@@ -350,14 +350,14 @@
     "website": ""
   },
   "albany area amateur astronomers": {
+    "address": "",
     "location": ",New York",
     "name": "Albany Area Amateur Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.dudleyobservatory.org/AAAA/home.html",
-    "zipcode": ""
+    "website": "http://www.dudleyobservatory.org/AAAA/home.html"
   },
   "albion college observatory": {
     "# members": "",
@@ -383,14 +383,14 @@
     "website": ""
   },
   "albuquerque astronomical society": {
+    "address": "P.O. Box 50581",
     "location": "Albuquerque,New Mexico",
     "name": "Albuquerque Astronomical Society",
     "phone": "505-254-8227",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.taas.org",
-    "zipcode": "P.O. Box 50581"
+    "website": "http://www.taas.org"
   },
   "alingsas astronomiklubb": {
     "address": "Kopman Sgatan 29, Alingsas, 44141 Sweden",
@@ -438,14 +438,14 @@
     "website": "http://www.almukantarat.pl/english.html"
   },
   "amarillo astronomy club": {
+    "address": "",
     "location": "Amarillo,Texas",
     "name": "Amarillo Astronomy Club",
     "phone": "806-359-8988",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://aacstars.org",
-    "zipcode": ""
+    "website": "http://aacstars.org"
   },
   "amatersko astronomsko dru tvo teleskop": {
     "address": "Vitovlje 71c, empas, 65261 Slovenia",
@@ -514,34 +514,34 @@
     "website": "http://www.kurdastros.org"
   },
   "amateur astronomers association of pittsburgh": {
+    "address": "P.O. Box 314",
     "location": "Glenshaw,Pennsylvania",
     "name": "Amateur Astronomers Association of Pittsburgh",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.3ap.org",
-    "zipcode": "P.O. Box 314"
+    "website": "http://www.3ap.org"
   },
   "amateur astronomers of jackson": {
+    "address": "",
     "location": "Jackson,Michigan",
     "name": "Amateur Astronomers of Jackson",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://aaoj.info/",
-    "zipcode": ""
+    "website": "http://aaoj.info/"
   },
   "amateur observers society of new york": {
+    "address": "",
     "location": "New York,New York",
     "name": "Amateur Observers Society of New York",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.aosny.org",
-    "zipcode": ""
+    "website": "http://www.aosny.org"
   },
   "amateurastronomen max valier": {
     "address": "P.O. Box 28, Bozen Bolzano BZ, 39100 Italy",
@@ -555,14 +555,14 @@
     "website": "http://www.maxvalier.org"
   },
   "ames area amateur astronomers": {
+    "address": "",
     "location": "Ames,Iowa",
     "name": "Ames Area Amateur Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.amesastronomers.org/",
-    "zipcode": ""
+    "website": "http://www.amesastronomers.org/"
   },
   "amherst college obs.": {
     "# members": "",
@@ -588,14 +588,14 @@
     "website": "http://anasa-carlsagan.blogspot.com/"
   },
   "ancient city astronomy club": {
+    "address": "149 Cedar Ridge Circle",
     "location": "St. Augustine,Florida",
     "name": "Ancient City Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "",
-    "zipcode": "149 Cedar Ridge Circle"
+    "website": ""
   },
   "ancient light astronomy club": {
     "address": "5236 50th Street (BOX 7948), DRAYTON VALLEY, AB, CANADA, T7A 1S9",
@@ -675,14 +675,14 @@
     "website": "http://www.gruppoantares.com"
   },
   "antelope valley astronomy club, inc.": {
+    "address": "P.O. Box 8545",
     "location": "Lancaster,California",
     "name": "Antelope Valley Astronomy Club, Inc.",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.avastronomyclub.org",
-    "zipcode": "P.O. Box 8545"
+    "website": "http://www.avastronomyclub.org"
   },
   "anushandhitshu observatory  n 23  42 55   e 90  29 48": {
     "address": "Anushandhitshu Chokro Science Org. 48/1 South Mugdapara, Dhaka",
@@ -731,24 +731,24 @@
     "website": ""
   },
   "appalachian astronomy association": {
+    "address": "",
     "location": "Mallie,Kentucky",
     "name": "Appalachian Astronomy Association",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": ""
+    "website": "/"
   },
   "apple valley astronomers": {
+    "address": "",
     "location": ",Washington",
     "name": "Apple Valley Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": ""
+    "website": "/"
   },
   "arbeitsgemeinschaft volkssternwarte hagen e v": {
     "address": "Am Eugen-Richter-Turm, Postfach 146, Hagen, 58001 Germany",
@@ -808,24 +808,24 @@
     "website": "http://www.argonavisbrasil.com"
   },
   "arizona desert skygazer astronomy club": {
+    "address": "PO Box 1134",
     "location": "Pima, AZ,Arizona",
     "name": "Arizona Desert Skygazer Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.discoverypark.com",
-    "zipcode": "PO Box 1134"
+    "website": "http://www.discoverypark.com"
   },
   "arkansas oklahoma astronomical society": {
+    "address": "",
     "location": "Van Buren,Arkansas",
     "name": "Arkansas Oklahoma Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.aoas.org",
-    "zipcode": ""
+    "website": "http://www.aoas.org"
   },
   "arkansas tech. observatory": {
     "# members": "",
@@ -852,14 +852,14 @@
     "website": ""
   },
   "army and navy academy astronomy club": {
+    "address": "",
     "location": "Oceanside,California",
     "name": "Army and Navy Academy Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/boyce-astro.org/ana.html",
-    "zipcode": ""
+    "website": "/boyce-astro.org/ana.html"
   },
   "aruba astro research int": {
     "address": "Congoweg 47, San Nicolas, Aruba Dutch Caribbean",
@@ -2197,14 +2197,14 @@
     "website": "http://groups.yahoo.com/group/AstroCrazy/"
   },
   "astroday institute": {
+    "address": "",
     "location": "Hilo,Hawaii",
     "name": "Astroday Institute",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.astroday.net",
-    "zipcode": ""
+    "website": "http://www.astroday.net"
   },
   "astroept": {
     "address": "Ecole Polytechnique de Tunisie B.P. 743 - 2078 La Marsa Tunisie",
@@ -2375,14 +2375,14 @@
     "website": ""
   },
   "astronomical association of southern illinois": {
+    "address": "",
     "location": "Carbondale,Illinois",
     "name": "Astronomical Association of Southern Illinois",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://tech.groups.yahoo.com/group/AASI/",
-    "zipcode": ""
+    "website": "http://tech.groups.yahoo.com/group/AASI/"
   },
   "astronomical association sofia": {
     "address": "49 Tzar Asen Str., Sofia, 1463 Bulgaria",
@@ -2442,14 +2442,14 @@
     "website": ""
   },
   "astronomical league": {
+    "address": "9201 Ward Parkway, Suite 100",
     "location": "Kansas City,Missouri",
     "name": "Astronomical League",
     "phone": "(816) 444-4878",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.astroleague.org",
-    "zipcode": "9201 Ward Parkway, Suite 100"
+    "website": "http://www.astroleague.org"
   },
   "astronomical league of the philippines": {
     "address": "Manila, Philippines",
@@ -2521,14 +2521,14 @@
     "website": ""
   },
   "astronomical society of eastern missouri": {
+    "address": "3 Brookhurst Ct",
     "location": "Dardenne Prairie,Missouri",
     "name": "Astronomical Society of Eastern Missouri",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://asemonline.org",
-    "zipcode": "3 Brookhurst Ct"
+    "website": "http://asemonline.org"
   },
   "astronomical society of frauenfeld": {
     "address": "Oberfeldstr. 6, Frauenfeld, 8500 Switzerland",
@@ -2542,34 +2542,34 @@
     "website": ""
   },
   "astronomical society of greenbelt": {
+    "address": "P. O. Box 727",
     "location": "Greenbelt,Maryland",
     "name": "Astronomical Society of Greenbelt",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.greenbeltastro.org",
-    "zipcode": "P. O. Box 727"
+    "website": "http://www.greenbeltastro.org"
   },
   "astronomical society of kansas city": {
+    "address": "PO Box 400",
     "location": "Blue Springs,Missouri",
     "name": "Astronomical Society of Kansas City",
     "phone": "(913) 837-5305",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.askc.org",
-    "zipcode": "PO Box 400"
+    "website": "http://www.askc.org"
   },
   "astronomical society of las cruces": {
+    "address": "P.O. Box 921",
     "location": "Las Cruces,New Mexico",
     "name": "Astronomical Society of Las Cruces",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://aslc-nm.org/",
-    "zipcode": "P.O. Box 921"
+    "website": "http://aslc-nm.org/"
   },
   "astronomical society of limassol": {
     "address": "Limassol, Cyprus",
@@ -2583,14 +2583,14 @@
     "website": "http://www.cyastronomy.com"
   },
   "astronomical society of long island": {
+    "address": "",
     "location": ",New York",
     "name": "Astronomical Society of Long Island",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.asliclub.org",
-    "zipcode": ""
+    "website": "http://www.asliclub.org"
   },
   "astronomical society of nepal": {
     "address": "Pipal Bot,Dilli Bazar,Kathmandu,Nepal",
@@ -2604,24 +2604,24 @@
     "website": "http://www.tason.org"
   },
   "astronomical society of nevada - las vegas": {
+    "address": "",
     "location": "Las Vegas,Nevada",
     "name": "Astronomical Society of Nevada - Las Vegas",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.asnlv.org",
-    "zipcode": ""
+    "website": "http://www.asnlv.org"
   },
   "astronomical society of new england": {
+    "address": "225 High Street",
     "location": "Taunton,Massachussettes",
     "name": "Astronomical Society of New England",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.assne.org",
-    "zipcode": "225 High Street"
+    "website": "http://www.assne.org"
   },
   "astronomical society of new south wales": {
     "address": "Sydney, NSW",
@@ -2635,44 +2635,44 @@
     "website": "http://www.asnsw.com"
   },
   "astronomical society of north texas": {
+    "address": "",
     "location": "Sherman,Texas",
     "name": "Astronomical Society of North Texas",
     "phone": "903-893-0752",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.ntxastro.org/",
-    "zipcode": ""
+    "website": "http://www.ntxastro.org/"
   },
   "astronomical society of northern new england": {
+    "address": "P.O. Box 1338",
     "location": "Kennebunk,Maine",
     "name": "Astronomical Society of Northern New England",
     "phone": "207-216-2475",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.asnne.org/",
-    "zipcode": "P.O. Box 1338"
+    "website": "http://www.asnne.org/"
   },
   "astronomical society of nw arkansas": {
+    "address": "",
     "location": "Fayetteville,Arkansas",
     "name": "Astronomical Society of NW Arkansas",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": ""
+    "website": "/"
   },
   "astronomical society of south east texas": {
+    "address": "P. O. Box 7943",
     "location": "Beaumont,Texas",
     "name": "Astronomical Society of South East Texas",
     "phone": "409-670-9048",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.asset-astronomer.org",
-    "zipcode": "P. O. Box 7943"
+    "website": "http://www.asset-astronomer.org"
   },
   "astronomical society of the hunter": {
     "address": "21 Brooks St Kurr1 Kurri NSW 2327",
@@ -2686,14 +2686,14 @@
     "website": ""
   },
   "astronomical society of the palm beaches": {
+    "address": "P.O. Box 19652",
     "location": "West Palm Beach,Florida",
     "name": "Astronomical Society of the Palm Beaches",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.palmbeachastro.org/",
-    "zipcode": "P.O. Box 19652"
+    "website": "http://www.palmbeachastro.org/"
   },
   "astronomical society of the south west": {
     "address": "Bunbury,  Australia",
@@ -2707,14 +2707,14 @@
     "website": ""
   },
   "astronomical society of toms river area": {
+    "address": "c/o Robert J. Novins Planetarium, Ocean County College; P.O. Box 2001",
     "location": "Toms River,New Jersey",
     "name": "Astronomical Society of Toms River Area",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.astra-nj.org",
-    "zipcode": "c/o Robert J. Novins Planetarium, Ocean County College; P.O. Box 2001"
+    "website": "http://www.astra-nj.org"
   },
   "astronomical society of victoria  inc": {
     "address": "P O Box 1059J, Melbourne, Victoria 3001,  Australia",
@@ -3281,14 +3281,14 @@
     "website": "http://api-apis.org"
   },
   "astronomy associates of lawrence": {
+    "address": "c/o Department of Physics and Astronomy,University of Kansas, 1251 Wescoe Hall Drive, room 1082",
     "location": "Lawrence,Kansas",
     "name": "Astronomy Associates of Lawrence",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://groups.ku.edu/~astronomy/index.html",
-    "zipcode": "c/o Department of Physics and Astronomy,University of Kansas, 1251 Wescoe Hall Drive, room 1082"
+    "website": "http://groups.ku.edu/~astronomy/index.html"
   },
   "astronomy club": {
     "address": "Komperta Gunung Simping 37 Cilacap, Central Java, Indonesia",
@@ -3357,24 +3357,24 @@
     "website": ""
   },
   "astronomy club of asheville": {
+    "address": "75 St. Dunstan's Circle",
     "location": "Asheville,North Carolina",
     "name": "Astronomy Club of Asheville",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.astroasheville.org",
-    "zipcode": "75 St. Dunstan's Circle"
+    "website": "http://www.astroasheville.org"
   },
   "astronomy club of augusta": {
+    "address": "",
     "location": "Aiken,Georgia",
     "name": "Astronomy Club of Augusta",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.angelfire.com/ga/astronomyclubaugusta",
-    "zipcode": ""
+    "website": "http://www.angelfire.com/ga/astronomyclubaugusta"
   },
   "astronomy club of gandhidham": {
     "address": "\"DEVIKA\" Plot 127, Sector 4A",
@@ -3421,14 +3421,14 @@
     "website": "http://www.obs.ee"
   },
   "astronomy club of tulsa": {
+    "address": "P. O. Box 470611",
     "location": "Tulsa,Oklahoma",
     "name": "Astronomy Club of Tulsa",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.astrotulsa.com",
-    "zipcode": "P. O. Box 470611"
+    "website": "http://www.astrotulsa.com"
   },
   "astronomy club of usm": {
     "address": "Universiti Sains Malaysia, Gelugor, Penang, Malaysia",
@@ -3464,24 +3464,24 @@
     "website": "http://www.aaf.lv"
   },
   "astronomy enthusiasts of lancaster county": {
+    "address": "116 Timber Cove",
     "location": "Lebanon,Pennsylvania",
     "name": "Astronomy Enthusiasts of Lancaster County",
     "phone": "717-964-2104",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://aelc.us",
-    "zipcode": "116 Timber Cove"
+    "website": "http://aelc.us"
   },
   "astronomy in the parks society": {
+    "address": "",
     "location": "Hendersonville,Tennessee",
     "name": "Astronomy in the Parks Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "",
-    "zipcode": ""
+    "website": ""
   },
   "astronomy ireland": {
     "address": "P.O. Box 2888, Dublin 5,  Ireland",
@@ -3639,34 +3639,34 @@
     "website": ""
   },
   "athens astronomical association": {
+    "address": "",
     "location": "Athens,Georgia",
     "name": "Athens Astronomical Association",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": ""
+    "website": "/"
   },
   "atlanta astronomy club, inc.": {
+    "address": "PMB 305, 3595 Canton Road, Suite A-9",
     "location": "Marietta,Georgia",
     "name": "Atlanta Astronomy Club, Inc.",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.AtlantaAstronomy.org",
-    "zipcode": "PMB 305, 3595 Canton Road, Suite A-9"
+    "website": "http://www.AtlantaAstronomy.org"
   },
   "auburn astronomical society": {
+    "address": "",
     "location": "Auburn,Alabama",
     "name": "Auburn Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.auburnastro.org/",
-    "zipcode": ""
+    "website": "http://www.auburnastro.org/"
   },
   "auckland observatory": {
     "# members": "",
@@ -3681,14 +3681,14 @@
     "website": "http://www.stardome.org.nz"
   },
   "austin astronomical society": {
+    "address": "P. O. Box 12831",
     "location": "Austin,Texas",
     "name": "Austin Astronomical Society",
     "phone": "(512) 323-5574",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.austinastro.org",
-    "zipcode": "P. O. Box 12831"
+    "website": "http://www.austinastro.org"
   },
   "avakashvedh": {
     "address": "Satyavijay Society, Hatiskar Marg, Old Prabhadevi, Mumbai - 400025 India",
@@ -3747,14 +3747,14 @@
     "website": "http://www.milton.edu"
   },
   "back bay amateur astronomers": {
+    "address": "BBAA, P. O. Box 9877",
     "location": "Virginia Beach,Virginia",
     "name": "Back Bay Amateur Astronomers",
     "phone": "757-427-3894",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.backbayastro.org/",
-    "zipcode": "BBAA, P. O. Box 9877"
+    "website": "http://www.backbayastro.org/"
   },
   "baldwin observatory": {
     "# members": "",
@@ -3837,64 +3837,64 @@
     "website": "http://www.bareket-astro.com/amuta/bareketEN.htm"
   },
   "barnard astronomical society": {
+    "address": "",
     "location": "Chattanooga,Tennessee",
     "name": "Barnard Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://barnardstar.org",
-    "zipcode": ""
+    "website": "http://barnardstar.org"
   },
   "barnard-seyfert astronomical society": {
+    "address": "P.O. Box 150713",
     "location": "Nashville,Tennessee",
     "name": "Barnard-Seyfert Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.bsasnashville.com",
-    "zipcode": "P.O. Box 150713"
+    "website": "http://www.bsasnashville.com"
   },
   "bartlesville astronomy club": {
+    "address": "",
     "location": "Bartlesville,Oklahoma",
     "name": "Bartlesville Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://sites.google.com/site/bartlesvilleastronomyclub/",
-    "zipcode": ""
+    "website": "http://sites.google.com/site/bartlesvilleastronomyclub/"
   },
   "baton rouge astronomical society": {
+    "address": "",
     "location": "Baton Rougue,Louisianna",
     "name": "Baton Rouge Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.brastro.org/",
-    "zipcode": ""
+    "website": "http://www.brastro.org/"
   },
   "battle point astronomical association": {
+    "address": "P. O. Box 10914",
     "location": "Bainbridge Island,Washington",
     "name": "Battle Point Astronomical Association",
     "phone": "(206) 842-9152",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.bpastro.org",
-    "zipcode": "P. O. Box 10914"
+    "website": "http://www.bpastro.org"
   },
   "bays mountain astronomy club": {
+    "address": "853 Bays Mountain Park Road",
     "location": "Kingsport,Tennessee",
     "name": "Bays Mountain Astronomy Club",
     "phone": "423-299-9447",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.baysmountain.com/astronomy/astronomy-club",
-    "zipcode": "853 Bays Mountain Park Road"
+    "website": "http://www.baysmountain.com/astronomy/astronomy-club"
   },
   "beausejour astronomy club astronomie beausejour": {
     "address": "410 Eunice Avenue, Dieppe, NB E1A 5V6 Canada",
@@ -4010,14 +4010,14 @@
     "website": ""
   },
   "big bear city astronomical society": {
+    "address": "",
     "location": "Big Bear City,California",
     "name": "Big Bear City Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/www.bearvalleyastronomers.org",
-    "zipcode": ""
+    "website": "/www.bearvalleyastronomers.org"
   },
   "big bear solar obs.": {
     "# members": "",
@@ -4032,14 +4032,14 @@
     "website": "http://www.bbso.njit.edu"
   },
   "big bend astronomers": {
+    "address": "",
     "location": "Fort Davis,Texas",
     "name": "Big Bend Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": ""
+    "website": "/"
   },
   "big sky astronomical society": {
     "address": "Box 510, Vulcan, AB T0L 2B0 Canada",
@@ -4064,14 +4064,14 @@
     "website": ""
   },
   "birmingham astronomical society": {
+    "address": "",
     "location": "Birminingham,Alabama",
     "name": "Birmingham Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.bas-astro.com",
-    "zipcode": ""
+    "website": "http://www.bas-astro.com"
   },
   "biruni observatory": {
     "# members": "",
@@ -4108,14 +4108,14 @@
     "website": ""
   },
   "black canyon astronomical society": {
+    "address": "",
     "location": "Montrose,Colorado",
     "name": "Black Canyon Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.blackcanyonastronomy.com",
-    "zipcode": ""
+    "website": "http://www.blackcanyonastronomy.com"
   },
   "black forest observatory": {
     "# members": "",
@@ -4130,14 +4130,14 @@
     "website": ""
   },
   "black hawk astronomy club": {
+    "address": "Grout Museum of History and Science, 503 South Street",
     "location": "Waterloo,Iowa",
     "name": "Black Hawk Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": "Grout Museum of History and Science, 503 South Street"
+    "website": "/"
   },
   "black hole observatory": {
     "# members": "",
@@ -4164,34 +4164,34 @@
     "website": ""
   },
   "blue ridge astronomy club": {
+    "address": "P. O. Box 441",
     "location": "Forest,Virginia",
     "name": "Blue Ridge Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.blueridgeastronomy.org",
-    "zipcode": "P. O. Box 441"
+    "website": "http://www.blueridgeastronomy.org"
   },
   "blue ridge skywatch astrophotography society": {
+    "address": "3356 Absalom Smith Road",
     "location": "Salem,Virginia",
     "name": "Blue Ridge Skywatch Astrophotography Society",
     "phone": "540-384-6391",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": "3356 Absalom Smith Road"
+    "website": "/"
   },
   "bluegrass amateur astronomy club": {
+    "address": "",
     "location": "Lexington,Kentucky",
     "name": "Bluegrass Amateur Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.bgaac.org",
-    "zipcode": ""
+    "website": "http://www.bgaac.org"
   },
   "bodo astronomiske forening": {
     "address": "Postboks 236, Bodo, 8001 Norway",
@@ -4217,24 +4217,24 @@
     "website": ""
   },
   "boise astronomical society": {
+    "address": "P.O. Box 7002",
     "location": "Boise,Idaho",
     "name": "Boise Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.boiseastro.org",
-    "zipcode": "P.O. Box 7002"
+    "website": "http://www.boiseastro.org"
   },
   "boulder astronomy and space society": {
+    "address": "PO Box 17203",
     "location": "Boulder,Colorado",
     "name": "Boulder Astronomy and Space Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.boulderastro.org",
-    "zipcode": "PO Box 17203"
+    "website": "http://www.boulderastro.org"
   },
   "bradley obs.": {
     "# members": "",
@@ -4272,14 +4272,14 @@
     "website": "http://www.mts.net/~tbryant/BAC/main.html"
   },
   "brazos valley astronomy club": {
+    "address": "P. O. Box 10315",
     "location": "College Station,Texas",
     "name": "Brazos Valley Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://tech.groups.yahoo.com/group/brazosastro/",
-    "zipcode": "P. O. Box 10315"
+    "website": "http://tech.groups.yahoo.com/group/brazosastro/"
   },
   "brec, lsu, bras highland road park observatory": {
     "# members": "",
@@ -4294,24 +4294,24 @@
     "website": "http://www.bro.lsu.edu/"
   },
   "brevard astronomical society": {
+    "address": "PO Box 410092",
     "location": "Melbourne,Florida",
     "name": "Brevard Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.brevardastro.org",
-    "zipcode": "PO Box 410092"
+    "website": "http://www.brevardastro.org"
   },
   "bristol astronomy club": {
+    "address": "",
     "location": "Bristol Astronomy Club,Tennessee",
     "name": "Bristol Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.bristolastronomy.org",
-    "zipcode": ""
+    "website": "http://www.bristolastronomy.org"
   },
   "brockville astronomical society": {
     "address": "14 Bramshot Ave., Brockville, ON K6V 1Y5 Canada",
@@ -4325,14 +4325,14 @@
     "website": ""
   },
   "broken arrow sidewalk astronomer": {
+    "address": "",
     "location": "Broken Arrow,Oklahoma",
     "name": "Broken Arrow Sidewalk Astronomer",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.BASidewalkAstro.com",
-    "zipcode": ""
+    "website": "http://www.BASidewalkAstro.com"
   },
   "brooks nature center obs.": {
     "# members": "",
@@ -4405,14 +4405,14 @@
     "website": ""
   },
   "bucks-mont astronomical association": {
+    "address": "",
     "location": "Doylestown,Pennsylvania",
     "name": "Bucks-Mont Astronomical Association",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.bma2.org/",
-    "zipcode": ""
+    "website": "http://www.bma2.org/"
   },
   "burke-gaffney obs.": {
     "# members": "",
@@ -4635,24 +4635,24 @@
     "website": ""
   },
   "cape fear astronomy club": {
+    "address": "",
     "location": "Wilmington,North Carolina",
     "name": "Cape Fear Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.capefearastro.org",
-    "zipcode": ""
+    "website": "http://www.capefearastro.org"
   },
   "capital area astronomy association": {
+    "address": "",
     "location": "Lansing,Michigan",
     "name": "Capital Area Astronomy Association",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.pa.msu.edu/abrams/AstronomyClub/",
-    "zipcode": ""
+    "website": "http://www.pa.msu.edu/abrams/AstronomyClub/"
   },
   "caritas chan chun ha field studies centre": {
     "# members": "",
@@ -4700,94 +4700,94 @@
     "website": "http://groups.yahoo.com/group/C-A-S-P"
   },
   "cedar amateur astronomers, inc.": {
+    "address": "P.O. Box 10786",
     "location": "Cedar Rapids,Iowa",
     "name": "Cedar Amateur Astronomers, Inc.",
     "phone": "319.848.2068",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.cedar-astronomers.org",
-    "zipcode": "P.O. Box 10786"
+    "website": "http://www.cedar-astronomers.org"
   },
   "central appalachian astronomy club": {
+    "address": "P. O. Box 1862",
     "location": "Clarksburg,West Virginia",
     "name": "Central Appalachian Astronomy Club",
     "phone": "304-745-4842",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.caacwv.com",
-    "zipcode": "P. O. Box 1862"
+    "website": "http://www.caacwv.com"
   },
   "central arkansas astronomical society": {
+    "address": "",
     "location": "Cabot,Arkansas",
     "name": "Central Arkansas Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.caasastro.org",
-    "zipcode": ""
+    "website": "http://www.caasastro.org"
   },
   "central florida astronomical society, inc.": {
+    "address": "P.O. Box 620907",
     "location": "Oviedo,Florida",
     "name": "Central Florida Astronomical Society, Inc.",
     "phone": "407-971-0143",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/www.cfas.org",
-    "zipcode": "P.O. Box 620907"
+    "website": "/www.cfas.org"
   },
   "central maine astronomical society": {
+    "address": "",
     "location": "Warren,Maine",
     "name": "Central Maine Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.maineastro.com",
-    "zipcode": ""
+    "website": "http://www.maineastro.com"
   },
   "central missouri amateur astronomers": {
+    "address": "",
     "location": "Columbia,Missouri",
     "name": "Central Missouri Amateur Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.cmaaastro.com/",
-    "zipcode": ""
+    "website": "http://www.cmaaastro.com/"
   },
   "central pennsylvania observers": {
+    "address": "P. O. Box 947",
     "location": "State College,Pennsylvania",
     "name": "Central Pennsylvania Observers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.cpoclub.org",
-    "zipcode": "P. O. Box 947"
+    "website": "http://www.cpoclub.org"
   },
   "central texas astronomical society, inc.": {
+    "address": "10509 Lone Star Dr.",
     "location": "Waco,Texas",
     "name": "Central Texas Astronomical Society, Inc.",
     "phone": "254-778-7892",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.centexastronomy.org",
-    "zipcode": "10509 Lone Star Dr."
+    "website": "http://www.centexastronomy.org"
   },
   "central valley astronomers": {
+    "address": "P.O. Box 3063",
     "location": "Pinedale,California",
     "name": "Central Valley Astronomers",
     "phone": "209-435-8232",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.cvastro.cjb.net",
-    "zipcode": "P.O. Box 3063"
+    "website": "http://www.cvastro.cjb.net"
   },
   "centro astrofili bolzano": {
     "address": "c/o A.R.C.I., via M. Longon, 3, Bolzano, 39100 Italy",
@@ -4958,14 +4958,14 @@
     "website": "http://www.du.edu/~rstencel"
   },
   "champaign-urbana astronomical society": {
+    "address": "c/o Staerkel Planetarium, 2400 West Bradley Ave",
     "location": "Champaign,Illinois",
     "name": "Champaign-Urbana Astronomical Society",
     "phone": "217-351-2567",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/www.cuas.org",
-    "zipcode": "c/o Staerkel Planetarium, 2400 West Bradley Ave"
+    "website": "/www.cuas.org"
   },
   "chandra astro club": {
     "address": "Singapore",
@@ -4979,14 +4979,14 @@
     "website": ""
   },
   "chapel hill astronomical and observational soc.": {
+    "address": "P.O. Box 3001",
     "location": "Chapel Hill,North Carolina",
     "name": "Chapel Hill Astronomical and Observational Soc.",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.rtpnet.org/chaos",
-    "zipcode": "P.O. Box 3001"
+    "website": "http://www.rtpnet.org/chaos"
   },
   "charles douglas observatory": {
     "# members": "",
@@ -5025,14 +5025,14 @@
     "website": ""
   },
   "charlottesville astronomical society": {
+    "address": "",
     "location": "Charlottesville,Virginia",
     "name": "Charlottesville Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.cvilleastro.org",
-    "zipcode": ""
+    "website": "http://www.cvilleastro.org"
   },
   "charlottetown centre  rasc": {
     "address": "316 N. Queen Elizabeth Dr. Charlottetown, PEI C1A7N4 Canada",
@@ -5057,44 +5057,44 @@
     "website": ""
   },
   "chesmont astronomical society": {
+    "address": "",
     "location": "Pottstown,Pennsylvania",
     "name": "Chesmont Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.chesmontastro.org",
-    "zipcode": ""
+    "website": "http://www.chesmontastro.org"
   },
   "chester county astronomical society": {
+    "address": "",
     "location": "West Chester,Pennsylvania",
     "name": "Chester County Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.ccas.us",
-    "zipcode": ""
+    "website": "http://www.ccas.us"
   },
   "cheyenne astronomical society": {
+    "address": "",
     "location": "Cheyenne,Wyoming",
     "name": "Cheyenne Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://home.bresnan.net/~curranm/",
-    "zipcode": ""
+    "website": "http://home.bresnan.net/~curranm/"
   },
   "chicago astronomical society": {
+    "address": "P. O. Box 30287",
     "location": "Chicago,Illinois",
     "name": "Chicago Astronomical Society",
     "phone": "773-233.5037",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.chicagoastronomicalsociety.org",
-    "zipcode": "P. O. Box 30287"
+    "website": "http://www.chicagoastronomicalsociety.org"
   },
   "chidi friend club of nigeria": {
     "address": "5 umuzike",
@@ -5108,14 +5108,14 @@
     "website": ""
   },
   "chippewa valley astronomical society": {
+    "address": "S1 County Road K",
     "location": "Fall Creek,Wisconsin",
     "name": "Chippewa Valley Astronomical Society",
     "phone": "715-839-0995",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.cvastro.org",
-    "zipcode": "S1 County Road K"
+    "website": "http://www.cvastro.org"
   },
   "chong hwa high school astronomy club": {
     "address": "Jalan Sekolah Chong Hwa, 86000 Kluang, Johor, Malaysia",
@@ -5152,14 +5152,14 @@
     "website": ""
   },
   "cincinnati astronomical society": {
+    "address": "5274 Zion Rd",
     "location": "Cleves,Ohio",
     "name": "Cincinnati Astronomical Society",
     "phone": "513-941-1981",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.cinastro.org",
-    "zipcode": "5274 Zion Rd"
+    "website": "http://www.cinastro.org"
   },
   "circolo astrofili bergamaschi": {
     "address": "via Martinelli 11, Aviatico Fraz. Ganda BG, 24020 Italy",
@@ -5294,14 +5294,14 @@
     "website": ""
   },
   "city lights astronomical society for students": {
+    "address": "1409 Sequoia Drive",
     "location": "Plano,Texas",
     "name": "City Lights Astronomical Society for Students",
     "phone": "(972) 442-1886",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.citylightsusa.org",
-    "zipcode": "1409 Sequoia Drive"
+    "website": "http://www.citylightsusa.org"
   },
   "city observatory": {
     "# members": "",
@@ -5316,24 +5316,24 @@
     "website": ""
   },
   "clemson area amateur astronomers": {
+    "address": "",
     "location": "Seneca,South Carolina",
     "name": "Clemson Area Amateur Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.oconeeskies.com/caaa/",
-    "zipcode": ""
+    "website": "http://www.oconeeskies.com/caaa/"
   },
   "cleveland county astronomical society": {
+    "address": "Williams Observatory, Gardner-Webb University",
     "location": "Boiling Springs,North Carolina",
     "name": "Cleveland County Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.ccastro.org",
-    "zipcode": "Williams Observatory, Gardner-Webb University"
+    "website": "http://www.ccastro.org"
   },
   "cleveland state community college obs.": {
     "# members": "",
@@ -5360,14 +5360,14 @@
     "website": "http://astrowww.phys.uvic.ca"
   },
   "clovis astronomy club": {
+    "address": "1610SR 209",
     "location": "Clovis,New Mexico",
     "name": "Clovis Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": "1610SR 209"
+    "website": "/"
   },
   "club ajaccien des amateurs d astronomie": {
     "address": "Centre Scientifique de Vignola,, route des Sanguinaires, Ajaccio, 20000 France",
@@ -5870,24 +5870,24 @@
     "website": ""
   },
   "colorado river astronomy club": {
+    "address": "P.O. Box 444",
     "location": "Blythe,California",
     "name": "Colorado River Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.cracblythe.org/index.html",
-    "zipcode": "P.O. Box 444"
+    "website": "http://www.cracblythe.org/index.html"
   },
   "colorado springs astronomical society": {
+    "address": "PO Box 16318",
     "location": "Colorado Springs,Colorado",
     "name": "Colorado Springs Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.csastro.org",
-    "zipcode": "PO Box 16318"
+    "website": "http://www.csastro.org"
   },
   "community college of rhode island obs.": {
     "# members": "",
@@ -5970,14 +5970,14 @@
     "website": ""
   },
   "corpus christi astronomical society": {
+    "address": "",
     "location": "Corpus Christi,Texas",
     "name": "Corpus Christi Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.ccstargazers.org",
-    "zipcode": ""
+    "website": "http://www.ccstargazers.org"
   },
   "cosmic explorers club": {
     "address": "#562, 6th Cross, Vivekananda Road, T.Dasarahalli, Bangalore-560057",
@@ -6038,34 +6038,34 @@
     "website": "http://marylandsciencecenter.org/exhibits/observatory"
   },
   "crossroads astronomy club": {
+    "address": "P. O. Box 180",
     "location": "Nursery,Texas",
     "name": "Crossroads Astronomy Club",
     "phone": "512-578-7942",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.geocites.com/janethallmark/astro1.html",
-    "zipcode": "P. O. Box 180"
+    "website": "http://www.geocites.com/janethallmark/astro1.html"
   },
   "cumberland astronomical society": {
+    "address": "P. O. Box 1733",
     "location": "Gallatin,Tennessee",
     "name": "Cumberland Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://personal.bna.bellsouth.net/s/p/spsmith/default.htm",
-    "zipcode": "P. O. Box 1733"
+    "website": "http://personal.bna.bellsouth.net/s/p/spsmith/default.htm"
   },
   "cumberland astronomy club": {
+    "address": "",
     "location": "Frostburg,Maryland",
     "name": "Cumberland Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://antoine.frostburg.edu/phys/luzader/cac/",
-    "zipcode": ""
+    "website": "http://antoine.frostburg.edu/phys/luzader/cac/"
   },
   "custer institute obs.": {
     "# members": "",
@@ -6172,14 +6172,14 @@
     "website": "http://www.astro.nwu.edu"
   },
   "decatur area astronomy club": {
+    "address": "39 Whippoorwill Dr.",
     "location": "Decataur,Illinois",
     "name": "Decatur Area Astronomy Club",
     "phone": "(217) 636-4243",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.decaturastronomy.com",
-    "zipcode": "39 Whippoorwill Dr."
+    "website": "http://www.decaturastronomy.com"
   },
   "deep river astronomy club": {
     "address": "P.O. Box 153, Deep River, ON K0J 1P0 Canada",
@@ -6250,34 +6250,34 @@
     "website": "http://www.deiseastronomy.com"
   },
   "delaware astronomical society": {
+    "address": "",
     "location": "Greenville,Delaware",
     "name": "Delaware Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.cis.udel.edu/~case/das.html",
-    "zipcode": ""
+    "website": "http://www.cis.udel.edu/~case/das.html"
   },
   "delaware valley amateur astronomers": {
+    "address": "",
     "location": "Philadelphia,Pennsylvania",
     "name": "Delaware Valley Amateur Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.dvaa.org",
-    "zipcode": ""
+    "website": "http://www.dvaa.org"
   },
   "denver astronomical society": {
+    "address": "Chamberlin Observatory, 2930 E Warren Avenue",
     "location": "Denver,Colorado",
     "name": "Denver Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.denverastro.org",
-    "zipcode": "Chamberlin Observatory, 2930 E Warren Avenue"
+    "website": "http://www.denverastro.org"
   },
   "department of astronomy at research society  vladimir mandic - manda": {
     "address": "Bircaninova 128, 14 000 Valjevo, Serbia",
@@ -6291,24 +6291,24 @@
     "website": "http://www.istrazivaci.org.yu"
   },
   "des moines astronomical society, inc": {
+    "address": "P.O. Box 111",
     "location": "Des Moines,Iowa",
     "name": "Des Moines Astronomical Society, Inc",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.dmasonline.org",
-    "zipcode": "P.O. Box 111"
+    "website": "http://www.dmasonline.org"
   },
   "desert foothills astronomy club": {
+    "address": "",
     "location": "New River,Arizona",
     "name": "Desert Foothills Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.dfacaz.org",
-    "zipcode": ""
+    "website": "http://www.dfacaz.org"
   },
   "desert skygazer astronomy club": {
     "# members": "",
@@ -6371,14 +6371,14 @@
     "website": ""
   },
   "door peninsula astronomical society": {
+    "address": "2041 Michigan Street",
     "location": "Sturgeon Bay,Wisconsin",
     "name": "Door Peninsula Astronomical Society",
     "phone": "920-746-0428",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.doorastronomy.org",
-    "zipcode": "2041 Michigan Street"
+    "website": "http://www.doorastronomy.org"
   },
   "dorval astronomy club": {
     "address": "70 La Presentation St., Dorval, QC H9S 3L3 Canada",
@@ -6404,14 +6404,14 @@
     "website": ""
   },
   "downeast amateur astronomy club": {
+    "address": "P.O. Box K",
     "location": "Pembroke,Maine",
     "name": "Downeast Amateur Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.downeastaa.com/",
-    "zipcode": "P.O. Box K"
+    "website": "http://www.downeastaa.com/"
   },
   "droke observatory": {
     "# members": "",
@@ -6507,24 +6507,24 @@
     "website": ""
   },
   "east central minnesota astronomy club": {
+    "address": "620 South Union Street",
     "location": "Mora,Minnesota",
     "name": "East Central Minnesota Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.ecmnastronomyclub.org",
-    "zipcode": "620 South Union Street"
+    "website": "http://www.ecmnastronomyclub.org"
   },
   "east valley astronomy club": {
+    "address": "P.O. Box 2202",
     "location": "Mesa,Arizona",
     "name": "East Valley Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.evaconline.org",
-    "zipcode": "P.O. Box 2202"
+    "website": "http://www.evaconline.org"
   },
   "eastern college observatory and planetarium": {
     "# members": "",
@@ -6539,34 +6539,34 @@
     "website": ""
   },
   "eastern missouri dark sky observers": {
+    "address": "c/o Richard Schwentker, 75 Greenshire Road",
     "location": "Marthasville,Missouri",
     "name": "Eastern Missouri Dark Sky Observers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://emdso.org/",
-    "zipcode": "c/o Richard Schwentker, 75 Greenshire Road"
+    "website": "http://emdso.org/"
   },
   "eastern ozark astronomical society": {
+    "address": "",
     "location": "Fredericktown,Missouri",
     "name": "Eastern Ozark Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "",
-    "zipcode": ""
+    "website": ""
   },
   "echo ridge astronomical society": {
+    "address": "P. O. Box 86",
     "location": "Elk Creek,Virginia",
     "name": "Echo Ridge Astronomical Society",
     "phone": "(540) 655-4895",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.echoridgeastronomyclub.com",
-    "zipcode": "P. O. Box 86"
+    "website": "http://www.echoridgeastronomyclub.com"
   },
   "ed richie observatory": {
     "# members": "",
@@ -6593,14 +6593,14 @@
     "website": ""
   },
   "edison high astronomy club": {
+    "address": "21400 Magnolia St",
     "location": "Huntington Beach,California",
     "name": "Edison High Astronomy Club",
     "phone": "714-904-6734",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/www.edisonchargers.com",
-    "zipcode": "21400 Magnolia St"
+    "website": "/www.edisonchargers.com"
   },
   "edmonton centre  rasc": {
     "address": "Odyssium, 11211 142nd St., Edmonton, AB T5M 4A1 Canada",
@@ -6765,14 +6765,14 @@
     "website": ""
   },
   "escambia amateur astronomers' assn.": {
+    "address": "",
     "location": "Pensacola,Florida",
     "name": "Escambia Amateur Astronomers' Assn.",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.eaaa.net/",
-    "zipcode": ""
+    "website": "http://www.eaaa.net/"
   },
   "estacion de observacion solar eos": {
     "# members": "",
@@ -6787,14 +6787,14 @@
     "website": ""
   },
   "estes valley astronomical society": {
+    "address": "P.O. Box 2483",
     "location": "Estes Park,Colorado",
     "name": "Estes Valley Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://webpages.charter.net/evastro/",
-    "zipcode": "P.O. Box 2483"
+    "website": "http://webpages.charter.net/evastro/"
   },
   "estonian astronomical society  vega": {
     "address": "Tallinn Observatory, Tahetorni 2,, Tallinn, EE-0016 Estonia",
@@ -6819,14 +6819,14 @@
     "website": "http://www.ursa.fi/yhd/nova"
   },
   "etna astros, the": {
+    "address": "3625 N. Highway 3",
     "location": "Etna,California",
     "name": "Etna Astros, The",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.etnaastros.com",
-    "zipcode": "3625 N. Highway 3"
+    "website": "http://www.etnaastros.com"
   },
   "eudemos observatory of rhodes": {
     "# members": "",
@@ -6841,14 +6841,14 @@
     "website": ""
   },
   "eugene astronomical society": {
+    "address": "P. O. Box 7264",
     "location": "Springfield,Oregon",
     "name": "Eugene Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.eugeneastro.org",
-    "zipcode": "P. O. Box 7264"
+    "website": "http://www.eugeneastro.org"
   },
   "euregio publiekscentrum voor sterrenkunde": {
     "# members": "",
@@ -6875,34 +6875,34 @@
     "website": ""
   },
   "evansville astronomical society": {
+    "address": "",
     "location": "Evansville,Indiana",
     "name": "Evansville Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://evansvilleastro.org/",
-    "zipcode": ""
+    "website": "http://evansvilleastro.org/"
   },
   "everett astronomical society": {
+    "address": "P.O. Box 12746",
     "location": "Everett,Washington",
     "name": "Everett Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://members.tripod.com/everett_astronomy",
-    "zipcode": "P.O. Box 12746"
+    "website": "http://members.tripod.com/everett_astronomy"
   },
   "everglades astronomical society": {
+    "address": "",
     "location": "Naples,Florida",
     "name": "Everglades Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.naples.net/clubs/eas",
-    "zipcode": ""
+    "website": "http://www.naples.net/clubs/eas"
   },
   "extraordinary": {
     "address": "Lot 179,Lorong4,Jln Airport,Taman Fajar,Sandakan,sabah.",
@@ -6939,14 +6939,14 @@
     "website": "http://www.faaq.org"
   },
   "fairbanks astronomical unit": {
+    "address": "Box 82210",
     "location": "Fairbanks,Alaska",
     "name": "Fairbanks Astronomical Unit",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "",
-    "zipcode": "Box 82210"
+    "website": ""
   },
   "falak syarie maahad muhammadi lelaki": {
     "address": "Kota Bharu Kelantan",
@@ -6960,14 +6960,14 @@
     "website": ""
   },
   "fargo-moorhead astronomy club": {
+    "address": "MSUM Planetarium, Minn. State University Moorhead",
     "location": "Moorhead,Minnesota",
     "name": "Fargo-Moorhead Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.fmastronomy.com",
-    "zipcode": "MSUM Planetarium, Minn. State University Moorhead"
+    "website": "http://www.fmastronomy.com"
   },
   "farpoint obs.": {
     "# members": "",
@@ -7017,14 +7017,14 @@
     "website": ""
   },
   "flint river astronomy club": {
+    "address": "1212 Everee Inn Road",
     "location": "Griffin,Georgia",
     "name": "Flint River Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.flintriverastronomy.org/",
-    "zipcode": "1212 Everee Inn Road"
+    "website": "http://www.flintriverastronomy.org/"
   },
   "foggy bottom obs.": {
     "# members": "",
@@ -7063,44 +7063,44 @@
     "website": "http://www.pastro.org"
   },
   "ford amateur astronomy club": {
+    "address": "P.O. Box 7527",
     "location": "Dearborn,Michigan",
     "name": "Ford Amateur Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.fordastronomyclub.com",
-    "zipcode": "P.O. Box 7527"
+    "website": "http://www.fordastronomyclub.com"
   },
   "forsyth astronomical society": {
+    "address": "P.O. Box 30128",
     "location": "Winston-Salem,North Carolina",
     "name": "Forsyth Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://fas37.org",
-    "zipcode": "P.O. Box 30128"
+    "website": "http://fas37.org"
   },
   "fort bend astronomy club": {
+    "address": "P. O. Box 947",
     "location": "Stafford,Texas",
     "name": "Fort Bend Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.fbac.org",
-    "zipcode": "P. O. Box 947"
+    "website": "http://www.fbac.org"
   },
   "fort worth astronomical society": {
+    "address": "P. O. Box 471162",
     "location": "Fort Worth,Texas",
     "name": "Fort Worth Astronomical Society",
     "phone": "817-294-8330",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.fortworthastro.com",
-    "zipcode": "P. O. Box 471162"
+    "website": "http://www.fortworthastro.com"
   },
   "forum espacial": {
     "address": "R. Misericordia, 78, Suite 162, Lisboa, 1200 Portugal",
@@ -7138,14 +7138,14 @@
     "website": ""
   },
   "fox valley sky watchers": {
+    "address": "164 Hilltop Lane",
     "location": "Sleepy Hollow,Illinois",
     "name": "Fox Valley Sky Watchers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": "164 Hilltop Lane"
+    "website": "/"
   },
   "frank p. brackett obs. & millikan planetarium": {
     "# members": "",
@@ -7242,14 +7242,14 @@
     "website": "http://www.apobservatory.org"
   },
   "friends of pine mountain observatory": {
+    "address": "P. O. Box 5795",
     "location": "Eugene,Oregon",
     "name": "Friends of Pine Mountain Observatory",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://pmo-sun.uoregon.edu/~pmo/",
-    "zipcode": "P. O. Box 5795"
+    "website": "http://pmo-sun.uoregon.edu/~pmo/"
   },
   "frosty drew observatory & sky theatre": {
     "# members": "",
@@ -7479,14 +7479,14 @@
     "website": ""
   },
   "goddard astronomy club": {
+    "address": "",
     "location": ",Maryland",
     "name": "Goddard Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://gewa.gsfc.nasa.gov/clubs/astronomy/",
-    "zipcode": ""
+    "website": "http://gewa.gsfc.nasa.gov/clubs/astronomy/"
   },
   "goethe link obs.": {
     "# members": "",
@@ -7631,14 +7631,14 @@
     "website": "http://www.3towers.com"
   },
   "great lakes region": {
+    "address": "",
     "location": "Beaver Creek,",
     "name": "Great Lakes Region",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "",
-    "zipcode": ""
+    "website": ""
   },
   "green mountain obs.": {
     "# members": "",
@@ -7653,14 +7653,14 @@
     "website": ""
   },
   "greenbrier valley astronomy association": {
+    "address": "",
     "location": ",West Virginia",
     "name": "Greenbrier Valley Astronomy Association",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": ""
+    "website": "/"
   },
   "greenhawk observatory": {
     "# members": "",
@@ -7675,14 +7675,14 @@
     "website": "http://www.greenhawkobservatory.com"
   },
   "greensboro astronomy club": {
+    "address": "Greensboro Natural Science Center, 4301 Longdale Drive",
     "location": "Greensboro,North Carolina",
     "name": "Greensboro Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://greensboroastronomyclub.org",
-    "zipcode": "Greensboro Natural Science Center, 4301 Longdale Drive"
+    "website": "http://greensboroastronomyclub.org"
   },
   "grenland og omegn astronomiske forenings observatorium": {
     "address": "Bregneveien 6E, Stathelle, 3960 Norway",
@@ -8435,24 +8435,24 @@
     "website": "http://www.lead.it/SoleItalia/"
   },
   "gunnison valley astronomical society": {
+    "address": "P. O. Box 1227",
     "location": "Gunnison,Colorado",
     "name": "Gunnison Valley Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": "P. O. Box 1227"
+    "website": "/"
   },
   "gunnison valley observatory": {
+    "address": "P. O. Box 1227",
     "location": "Gunnison,Colorado",
     "name": "Gunnison Valley Observatory",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.gunnisonobservatory.org",
-    "zipcode": "P. O. Box 1227"
+    "website": "http://www.gunnisonobservatory.org"
   },
   "hagar-observatoriet": {
     "# members": "",
@@ -8479,14 +8479,14 @@
     "website": ""
   },
   "haleakala amateur astronomers": {
+    "address": "",
     "location": "Maui,Hawaii",
     "name": "Haleakala Amateur Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.astroday.net/HAA.html",
-    "zipcode": ""
+    "website": "http://www.astroday.net/HAA.html"
   },
   "halifax centre  rasc": {
     "address": "P.O. Box 31011, Halifax, NS B3K 5T9 Canada",
@@ -8580,14 +8580,14 @@
     "website": "http://www.chara.gsu.edu"
   },
   "harford county astronomical society": {
+    "address": "P.O. Box 906",
     "location": "Bel Air,Maryland",
     "name": "Harford County Astronomical Society",
     "phone": "410-836-7285",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.harfordastro.org",
-    "zipcode": "P.O. Box 906"
+    "website": "http://www.harfordastro.org"
   },
   "harry astronomy club": {
     "address": "14/5 I.T.I Road, Aligarh, UP-202001",
@@ -8661,14 +8661,14 @@
     "website": ""
   },
   "hawaiian astronomical society": {
+    "address": "P.O. Box 17671",
     "location": "Honolulu,Hawaii",
     "name": "Hawaiian Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.hawastsoc.org/",
-    "zipcode": "P.O. Box 17671"
+    "website": "http://www.hawastsoc.org/"
   },
   "hegyhati csillagvizsgalo  -  hegyhati observatory": {
     "address": "H-9915 HEGYHATSAL, Fo u. 19.",
@@ -8693,14 +8693,14 @@
     "website": "http://www.observatory.hu"
   },
   "helena astronomical society": {
+    "address": "",
     "location": "Helena,Montana",
     "name": "Helena Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": ""
+    "website": "/"
   },
   "helix observatory": {
     "# members": "3",
@@ -8738,24 +8738,24 @@
     "website": ""
   },
   "high desert astronomical society, inc.": {
+    "address": "17500 Mana Road",
     "location": "Apple Valley,California",
     "name": "High Desert Astronomical Society, Inc.",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.hidasonline.com",
-    "zipcode": "17500 Mana Road"
+    "website": "http://www.hidasonline.com"
   },
   "high desert astronomy club, inc.": {
+    "address": "",
     "location": "Kingman,Arizona",
     "name": "High Desert Astronomy Club, Inc.",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/www.hdac-az.com",
-    "zipcode": ""
+    "website": "/www.hdac-az.com"
   },
   "highland road park observatory": {
     "# members": "",
@@ -8770,24 +8770,24 @@
     "website": "http://hrpo.lsu.edu"
   },
   "hill country astronomers": {
+    "address": "P.O. Box 2043",
     "location": "Fredericksburg,Texas",
     "name": "Hill Country Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": "P.O. Box 2043"
+    "website": "/"
   },
   "hilltopper astronomy club": {
+    "address": "c/o Physics and Astronomy Dept.; 1, 1 Big Red Way",
     "location": "Bowling Green, KY,Kentucky",
     "name": "Hilltopper Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://hac.wku.edu",
-    "zipcode": "c/o Physics and Astronomy Dept.; 1, 1 Big Red Way"
+    "website": "http://hac.wku.edu"
   },
   "historical and astronomical association": {
     "address": "Poziarna 1644/10, Puchov 02001",
@@ -8907,24 +8907,24 @@
     "website": "http://www.villabelmar.com"
   },
   "houston astronomical society": {
+    "address": "P. O. Box 20332",
     "location": "Houston,Texas",
     "name": "Houston Astronomical Society",
     "phone": "713-721-5077",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.astronomyhouston.org",
-    "zipcode": "P. O. Box 20332"
+    "website": "http://www.astronomyhouston.org"
   },
   "howard astronomical league of central maryland": {
+    "address": "",
     "location": "Columbia,Maryland",
     "name": "Howard Astronomical League of Central Maryland",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.howardastro.org",
-    "zipcode": ""
+    "website": "http://www.howardastro.org"
   },
   "hrvatski astronomski savez - croatian astronomical union": {
     "address": "Zagrebacka 2, HR-51550 Mali Losinj, Hrvatska/Croatia",
@@ -8938,14 +8938,14 @@
     "website": "www.astronomskisavez.hr"
   },
   "huachuca astronomy club": {
+    "address": "P.O Box 922",
     "location": "Sierra Vista,Arizona",
     "name": "Huachuca Astronomy Club",
     "phone": "520-432-6099",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.hacastronomy.com",
-    "zipcode": "P.O Box 922"
+    "website": "http://www.hacastronomy.com"
   },
   "hulbert observatory (cranbrook institute of science)": {
     "# members": "",
@@ -8994,14 +8994,14 @@
     "website": "http://www.mcse.hu"
   },
   "huron valley astronomers group": {
+    "address": "",
     "location": "Toledo,Ohio",
     "name": "Huron Valley Astronomers Group",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://skytourgroup.org",
-    "zipcode": ""
+    "website": "http://skytourgroup.org"
   },
   "hyde memorial obs.": {
     "# members": "",
@@ -9050,14 +9050,14 @@
     "website": ""
   },
   "idaho falls astronomical society": {
+    "address": "",
     "location": "Idaho Falls,Idaho",
     "name": "Idaho Falls Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://ifastro.org/",
-    "zipcode": ""
+    "website": "http://ifastro.org/"
   },
   "ifas": {
     "address": "Irish Federation of Astronomical Societies",
@@ -9082,14 +9082,14 @@
     "website": "http://www.astropa.unipa.it"
   },
   "indiana astronomical society": {
+    "address": "P.O. Box 703",
     "location": "Mooresville,Indiana",
     "name": "Indiana Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.iasindy.org",
-    "zipcode": "P.O. Box 703"
+    "website": "http://www.iasindy.org"
   },
   "indo sky gazer": {
     "address": "Jakarta",
@@ -9149,14 +9149,14 @@
     "website": "http://www.castrop-rauxel.netsurf.de/homepages/ewald.goitowski/ig_star..."
   },
   "iowa county astronomers": {
+    "address": "",
     "location": ",Wisconsin",
     "name": "Iowa County Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/www.icastro.org",
-    "zipcode": ""
+    "website": "/www.icastro.org"
   },
   "irian astronomy club": {
     "address": "iriansyahputra",
@@ -9215,14 +9215,14 @@
     "website": "http://www.espacioprofundo.com.ar"
   },
   "island county astronomical society": {
+    "address": "4514 Blakely Drive",
     "location": "Anacortes,Washington",
     "name": "Island County Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.icas-wa.webs.com",
-    "zipcode": "4514 Blakely Drive"
+    "website": "http://www.icas-wa.webs.com"
   },
   "israeli astronomical association": {
     "address": "Gan HaAliyah HaShniya, HaMeri pinat Bereshit, Givatayim",
@@ -9259,14 +9259,14 @@
     "website": ""
   },
   "jackson astronomical association": {
+    "address": "P. O. Box 766",
     "location": "Clinton,Mississippi",
     "name": "Jackson Astronomical Association",
     "phone": "39060",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.jacksonastro.org",
-    "zipcode": "P. O. Box 766"
+    "website": "http://www.jacksonastro.org"
   },
   "james and barbara moore observatory": {
     "# members": "",
@@ -9550,14 +9550,14 @@
     "website": ""
   },
   "kalamazoo astronomical society": {
+    "address": "c/o KAMSC, 600 West Vine, Suite 400",
     "location": "Kalamazoo,Michigan",
     "name": "Kalamazoo Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.kasonline.org/",
-    "zipcode": "c/o KAMSC, 600 West Vine, Suite 400"
+    "website": "http://www.kasonline.org/"
   },
   "kamloops astronomical society": {
     "address": "106-670 McBeth Place, Kamloops, BC Canada V2C 5V9",
@@ -9571,14 +9571,14 @@
     "website": ""
   },
   "kansas astronomical observers": {
+    "address": "220 N. Wood",
     "location": "Wichita,Kansas",
     "name": "Kansas Astronomical Observers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.kaowichita.com/",
-    "zipcode": "220 N. Wood"
+    "website": "http://www.kaowichita.com/"
   },
   "kansas wesleyan univ. obs.": {
     "# members": "",
@@ -9626,14 +9626,14 @@
     "website": ""
   },
   "kauai educational association for science and astronomy": {
+    "address": "P.O. Box 1295, Lawai",
     "location": "Kauai,Hawaii",
     "name": "Kauai Educational Association for Science and Astronomy",
     "phone": "(808) 332-7827",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.keasa.org",
-    "zipcode": "P.O. Box 1295, Lawai"
+    "website": "http://www.keasa.org"
   },
   "keeble obs.": {
     "# members": "",
@@ -9648,14 +9648,14 @@
     "website": ""
   },
   "keene amateur astronomers": {
+    "address": "",
     "location": "Laconia,New Hampshire",
     "name": "Keene Amateur Astronomers",
     "phone": "802.257.9358",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": ""
+    "website": "/"
   },
   "kelab astronomi universiti darul iman malaysia": {
     "address": "UDM kampus KUSZA, 21300 Gong Badak KT",
@@ -9692,14 +9692,14 @@
     "website": ""
   },
   "kern astronomical society": {
+    "address": "",
     "location": "Bakersfield,California",
     "name": "Kern Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/www.kernastro.org",
-    "zipcode": ""
+    "website": "/www.kernastro.org"
   },
   "kerry astronomy club": {
     "address": "Tralee, Co. Kerry",
@@ -9781,24 +9781,24 @@
     "website": "http://www.rasc.ca/kingston"
   },
   "kingsville astronomical society": {
+    "address": "",
     "location": "Kingsville,Texas",
     "name": "Kingsville Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": ""
+    "website": "/"
   },
   "kiski astronomers": {
+    "address": "",
     "location": "Leechbury,Pennsylvania",
     "name": "Kiski Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://home.comcast.net/~kiskiastronomers/",
-    "zipcode": ""
+    "website": "http://home.comcast.net/~kiskiastronomers/"
   },
   "kissimmee park observatory": {
     "# members": "Kissimmee Park Observatory is dedicated to the study and imaging of the night sky, and performing astronomy outreach for individuals and groups.",
@@ -9858,14 +9858,14 @@
     "website": ""
   },
   "knoxville observers, the": {
+    "address": "4402 Mockingbird Dr",
     "location": "Knoxville,Tennessee",
     "name": "Knoxville Observers, The",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.knoxobservers.org",
-    "zipcode": "4402 Mockingbird Dr"
+    "website": "http://www.knoxobservers.org"
   },
   "koninklijk sterrenkundig genootschap van antwerpen": {
     "address": "Kapelsesteenweg 340, Brasschaat, 2930 Belgium",
@@ -9891,24 +9891,24 @@
     "website": ""
   },
   "kootenai stargazers astronomy club": {
+    "address": "",
     "location": "Libby,Montana",
     "name": "Kootenai Stargazers Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.lckweb.com/stargazers",
-    "zipcode": ""
+    "website": "http://www.lckweb.com/stargazers"
   },
   "kopernik astronomical society": {
+    "address": "Kopernik Observatory, 698 Underwood Road",
     "location": "Vestal,New York",
     "name": "Kopernik Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.kopernikastro.org",
-    "zipcode": "Kopernik Observatory, 698 Underwood Road"
+    "website": "http://www.kopernikastro.org"
   },
   "kosmandu astronomical society": {
     "address": "Kathmandu",
@@ -10092,14 +10092,14 @@
     "website": "http://langitselatan.com"
   },
   "laramie astronomical society and space observers": {
+    "address": "1860 North 23rd Street",
     "location": "Laramie,Wyoming",
     "name": "Laramie Astronomical Society and Space Observers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.lariat.org/LASSO",
-    "zipcode": "1860 North 23rd Street"
+    "website": "http://www.lariat.org/LASSO"
   },
   "las brisas obs.": {
     "# members": "",
@@ -10114,14 +10114,14 @@
     "website": "http://www.LBO.teuton.org"
   },
   "las vegas astronomical society": {
+    "address": "c/o CSN Planetarium, Sort Code S1A, 3200 E. Cheyenne Ave",
     "location": "Las Vegas,Nevada",
     "name": "Las Vegas Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://w.lvastronomy.com",
-    "zipcode": "c/o CSN Planetarium, Sort Code S1A, 3200 E. Cheyenne Ave"
+    "website": "http://w.lvastronomy.com"
   },
   "latvian astronomical society": {
     "address": "P.O. Box 332, Riga, LV-1098 Latvia",
@@ -10216,14 +10216,14 @@
     "website": "http://astro.sps.edu"
   },
   "leonardo's star quest astronomy club": {
+    "address": "200 East Maple Street",
     "location": "Enid,Oklahoma",
     "name": "Leonardo's Star Quest Astronomy Club",
     "phone": "(508) 233-2787",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.leonardos.org",
-    "zipcode": "200 East Maple Street"
+    "website": "http://www.leonardos.org"
   },
   "les amis de la cit  du cosmos": {
     "address": "Observatoire, Saint-Aubin-de-Courteraie, 61560 France",
@@ -10316,24 +10316,24 @@
     "website": "http:// www.sternwarte.at"
   },
   "litchfield hills amateur astronomy club": {
+    "address": "155 Sycamore Drive",
     "location": "Torrington,Connecticut",
     "name": "Litchfield Hills Amateur Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.lhastro.org",
-    "zipcode": "155 Sycamore Drive"
+    "website": "http://www.lhastro.org"
   },
   "little colorado river valley astronomy club": {
+    "address": "",
     "location": "Snowflake,Arizona",
     "name": "Little Colorado River Valley Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.lcrvac.org",
-    "zipcode": ""
+    "website": "http://www.lcrvac.org"
   },
   "little thompson observatory": {
     "# members": "",
@@ -10348,14 +10348,14 @@
     "website": "http://www.starkids.org"
   },
   "local group of deep sky observers": {
+    "address": "2311 23 Avenue, West",
     "location": "Bradenton,Florida",
     "name": "Local Group of Deep Sky Observers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.lgdso.com/LGDSO/Home.html",
-    "zipcode": "2311 23 Avenue, West"
+    "website": "http://www.lgdso.com/LGDSO/Home.html"
   },
   "lollands astronomiske forening": {
     "address": "Sdr. Boulevard 90, Maribo, 4930 Denmark",
@@ -10380,14 +10380,14 @@
     "website": "http://www.rasc.ca/london"
   },
   "longmont astronomical society": {
+    "address": "P.O. Box 806",
     "location": "Longmont,Colorado",
     "name": "Longmont Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.longmontastro.org",
-    "zipcode": "P.O. Box 806"
+    "website": "http://www.longmontastro.org"
   },
   "lowell observatory": {
     "# members": "",
@@ -10493,14 +10493,14 @@
     "website": "http://www.macastro.org.au"
   },
   "magic valley astronomical society": {
+    "address": "",
     "location": "Twin Falls,Idaho",
     "name": "Magic Valley Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.mvastro.org",
-    "zipcode": ""
+    "website": "http://www.mvastro.org"
   },
   "maison des jeunes et de la culture  section astronomie  imphy": {
     "address": "82ter, rue des Commes, Imphy, 58160 France",
@@ -10559,14 +10559,14 @@
     "website": ""
   },
   "marquette astronomical society": {
+    "address": "Shiras Planetarium, 1201 W. Fair Avenue",
     "location": "Marquette,Michigan",
     "name": "Marquette Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.geocities.com/sstobbelaar/MASmembership.html",
-    "zipcode": "Shiras Planetarium, 1201 W. Fair Avenue"
+    "website": "http://www.geocities.com/sstobbelaar/MASmembership.html"
   },
   "maryland space grant consortium obs.": {
     "# members": "",
@@ -10581,14 +10581,14 @@
     "website": ""
   },
   "mason star gazers": {
+    "address": "410 Post Hill",
     "location": "Mason,Texas",
     "name": "Mason Star Gazers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/www.msgastronomy.blog.com",
-    "zipcode": "410 Post Hill"
+    "website": "/www.msgastronomy.blog.com"
   },
   "mauna kea obs.": {
     "# members": "",
@@ -10650,14 +10650,14 @@
     "website": "http://www.depauw.edu/phys/mckim.htm"
   },
   "melbourne astronomical society": {
+    "address": "",
     "location": "Melbourne,Florida",
     "name": "Melbourne Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.mlbastro.org",
-    "zipcode": ""
+    "website": "http://www.mlbastro.org"
   },
   "melton memorial obs.": {
     "# members": "",
@@ -10694,24 +10694,24 @@
     "website": ""
   },
   "miami valley astronomical society": {
+    "address": "",
     "location": "Dayton,Ohio",
     "name": "Miami Valley Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.mvas.org",
-    "zipcode": ""
+    "website": "http://www.mvas.org"
   },
   "michiana astronomical society": {
+    "address": "PO Box 262",
     "location": "South Bend,Indiana",
     "name": "Michiana Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.michiana-astro.org/",
-    "zipcode": "PO Box 262"
+    "website": "http://www.michiana-astro.org/"
   },
   "michigan state univ. obs.": {
     "# members": "",
@@ -10726,54 +10726,54 @@
     "website": ""
   },
   "mid east region": {
+    "address": "",
     "location": ",",
     "name": "Mid East Region",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "",
-    "zipcode": ""
+    "website": ""
   },
   "mid states region": {
+    "address": "",
     "location": ",",
     "name": "Mid States Region",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.msral.org/",
-    "zipcode": ""
+    "website": "http://www.msral.org/"
   },
   "mid-ohio observers group, llc": {
+    "address": "",
     "location": "Reyoldsburg,Ohio",
     "name": "Mid-Ohio Observers Group, LLC",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": ""
+    "website": "/"
   },
   "mid-western astronomers": {
+    "address": "",
     "location": ",Ohio",
     "name": "Mid-Western Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": ""
+    "website": "/"
   },
   "middle georgia astronomical society": {
+    "address": "",
     "location": "Macon,Georgia",
     "name": "Middle Georgia Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.mgas.org/",
-    "zipcode": ""
+    "website": "http://www.mgas.org/"
   },
   "middle tennessee state univ. obs.": {
     "# members": "",
@@ -10788,14 +10788,14 @@
     "website": ""
   },
   "midlands astronomy club, inc.": {
+    "address": "PO Box 2527",
     "location": "Columbia,South Carolina",
     "name": "Midlands Astronomy Club, Inc.",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://midlandsastronomyclub.org/",
-    "zipcode": "PO Box 2527"
+    "website": "http://midlandsastronomyclub.org/"
   },
   "midtjysk astronomiforening": {
     "address": "Kragelund Mollevej 25, Silkeborg, 8600 Denmark",
@@ -10879,24 +10879,24 @@
     "website": ""
   },
   "millstream astronomy club": {
+    "address": "",
     "location": "Findlay,Ohio",
     "name": "Millstream Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.MAC-Astronomy.org",
-    "zipcode": ""
+    "website": "http://www.MAC-Astronomy.org"
   },
   "milwaukee astronomical society": {
+    "address": "MAS Observatory, 18850 W. Observatory Road",
     "location": "New Berlin,Wisconsin",
     "name": "Milwaukee Astronomical Society",
     "phone": "414-542-9071",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.milwaukeeastro.org",
-    "zipcode": "MAS Observatory, 18850 W. Observatory Road"
+    "website": "http://www.milwaukeeastro.org"
   },
   "minas astronomy group": {
     "address": "RR #2, Cambridge Station, NS B0P 1G0 Canada",
@@ -10910,14 +10910,14 @@
     "website": "http://ace.acadiau.ca/bns/mag/mag.htm"
   },
   "minnesota astronomical society": {
+    "address": "P.O. Box 14931",
     "location": "Minneapolis,Minnesota",
     "name": "Minnesota Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.mnastro.org",
-    "zipcode": "P.O. Box 14931"
+    "website": "http://www.mnastro.org"
   },
   "mission  avishkar": {
     "address": "C/o-69-Godavari,Ulkanagari,Aurangabad, Maharastra,INDIA",
@@ -10989,14 +10989,14 @@
     "website": ""
   },
   "mobile astronomical society": {
+    "address": "6101 Girby Road",
     "location": "Mobile,Alabama",
     "name": "Mobile Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://skywatch.brainiac.com/astroland/",
-    "zipcode": "6101 Girby Road"
+    "website": "http://skywatch.brainiac.com/astroland/"
   },
   "moerser astronomische organisation": {
     "address": "Postfach 101811, Moers, 47408 Germany",
@@ -11021,14 +11021,14 @@
     "website": "http://astronomybangla.com"
   },
   "mohawk valley astronomical society": {
+    "address": "P.O. Box 52",
     "location": "Clinton,New York",
     "name": "Mohawk Valley Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://mvas-ny.org",
-    "zipcode": "P.O. Box 52"
+    "website": "http://mvas-ny.org"
   },
   "monterey institute for research in astronomy": {
     "# members": "",
@@ -11113,14 +11113,14 @@
     "website": "http://sbast3.ess.sunysb.edu/astro/home.html"
   },
   "mountain area research section": {
+    "address": "",
     "location": "Denver,",
     "name": "Mountain Area Research Section",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "",
-    "zipcode": ""
+    "website": ""
   },
   "mountain skies observatory": {
     "# members": "",
@@ -11192,14 +11192,14 @@
     "website": ""
   },
   "mt. shasta stargazers": {
+    "address": "",
     "location": "Mt. Shasta,California",
     "name": "Mt. Shasta Stargazers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.mtshastastargazers.com",
-    "zipcode": ""
+    "website": "http://www.mtshastastargazers.com"
   },
   "muelimatt": {
     "# members": "",
@@ -11238,14 +11238,14 @@
     "website": ""
   },
   "murfreesboro astronomy club": {
+    "address": "",
     "location": "Murfreesboro,Tennessee",
     "name": "Murfreesboro Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://murfreesboroastronomyclub.com",
-    "zipcode": ""
+    "website": "http://murfreesboroastronomyclub.com"
   },
   "museo della specola": {
     "address": "Palazzo dei Normanni, Piazza Parlamento, 1- 90134 Palermo",
@@ -11259,14 +11259,14 @@
     "website": "http://www.astropa.unipa.it/museo/homemuseo.html"
   },
   "museum astronomical resource society": {
+    "address": "",
     "location": "Tampa,Florida",
     "name": "Museum Astronomical Resource Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.marsastro.org",
-    "zipcode": ""
+    "website": "http://www.marsastro.org"
   },
   "n. a. richardson astronomical obs.": {
     "# members": "",
@@ -11348,24 +11348,24 @@
     "website": "http://www.smas.us"
   },
   "naperville astronomical association": {
+    "address": "",
     "location": "Naperville,Illinois",
     "name": "Naperville Astronomical Association",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.naperastro.org",
-    "zipcode": ""
+    "website": "http://www.naperastro.org"
   },
   "national capital astronomers": {
+    "address": "",
     "location": ",District of Columbia",
     "name": "National Capital Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.capitalastronomers.org.",
-    "zipcode": ""
+    "website": "http://www.capitalastronomers.org."
   },
   "national optical astronomy observatories": {
     "# members": "",
@@ -11503,14 +11503,14 @@
     "website": "9"
   },
   "neville public museum astronomical society": {
+    "address": "210 Museum St.",
     "location": "Green Bay,Wisconsin",
     "name": "Neville Public Museum Astronomical Society",
     "phone": "(920) 676-6363",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.npmas.org/",
-    "zipcode": "210 Museum St."
+    "website": "http://www.npmas.org/"
   },
   "new brunswick astronomy - astronomie noveau brunswick  inc": {
     "address": "177 rue Bellefeuille, Shippagan, NB E8S 1G5 Canada",
@@ -11524,14 +11524,14 @@
     "website": "http://osco.nb.ca/nbanb"
   },
   "new hampshire astronomical society": {
+    "address": "P.O. Box 5823",
     "location": "Manchester,New Hampshire",
     "name": "New Hampshire Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/www.nhastro.org",
-    "zipcode": "P.O. Box 5823"
+    "website": "/www.nhastro.org"
   },
   "newcastle university observatory": {
     "# members": "",
@@ -11568,14 +11568,14 @@
     "website": "http://www.rasc.ca/niagara"
   },
   "night sky 45 astronomy club": {
+    "address": "",
     "location": "Salem,Oregon",
     "name": "Night Sky 45 Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.nightsky45.com",
-    "zipcode": ""
+    "website": "http://www.nightsky45.com"
   },
   "nlc can am  noctilucent cloud observers": {
     "address": "#7 14130 80 Street Edmonton, AB T5C 1L6",
@@ -11634,34 +11634,34 @@
     "website": "http://www.gateway-to-the-universe.org"
   },
   "north central region": {
+    "address": "",
     "location": ",",
     "name": "North Central Region",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "https://ncral.wordpress.org",
-    "zipcode": ""
+    "website": "https://ncral.wordpress.org"
   },
   "north east region": {
+    "address": "",
     "location": ",",
     "name": "North East Region",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.nral.org",
-    "zipcode": ""
+    "website": "http://www.nral.org"
   },
   "north east wisconsin stargazers": {
+    "address": "NEWSTAR, 2626 E Wisconsin Avenue",
     "location": "Appleton,Wisconsin",
     "name": "North East Wisconsin Stargazers",
     "phone": "920-426-2286",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.new-star.org",
-    "zipcode": "NEWSTAR, 2626 E Wisconsin Avenue"
+    "website": "http://www.new-star.org"
   },
   "north georgia college obs.": {
     "# members": "",
@@ -11676,14 +11676,14 @@
     "website": ""
   },
   "north houston astronomy club": {
+    "address": "Kingwood College, 20000 Kingwood Drive",
     "location": "Kingwood,Texas",
     "name": "North Houston Astronomy Club",
     "phone": "284-852-4467",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.astronomyclub.org",
-    "zipcode": "Kingwood College, 20000 Kingwood Drive"
+    "website": "http://www.astronomyclub.org"
   },
   "north york astronomical assn": {
     "address": "26 Cryessa Ave., Toronto, ON M6N 4T5 Canada",
@@ -11697,34 +11697,34 @@
     "website": "http://www.nyaa.ca/"
   },
   "northeast florida astronomical society": {
+    "address": "",
     "location": "Jacksonville,Florida",
     "name": "Northeast Florida Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.nefas.org",
-    "zipcode": ""
+    "website": "http://www.nefas.org"
   },
   "northeast kansas amateur astronomer's league, inc.": {
+    "address": "P.O. Box 951",
     "location": "Topeka,Kansas",
     "name": "Northeast Kansas Amateur Astronomer's League, Inc.",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.nekaal.org",
-    "zipcode": "P.O. Box 951"
+    "website": "http://www.nekaal.org"
   },
   "northeast nebraska astronomy club": {
+    "address": "",
     "location": ",Nebraska",
     "name": "Northeast Nebraska Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "https://nenacstars.wordpress.com/",
-    "zipcode": ""
+    "website": "https://nenacstars.wordpress.com/"
   },
   "northern aegean astronomy society  galileo": {
     "address": "P.O.Box 85, GR-81100, Mytilene",
@@ -11750,24 +11750,24 @@
     "website": ""
   },
   "northern colorado astronomical society": {
+    "address": "",
     "location": "Fort Collins,Colorado",
     "name": "Northern Colorado Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.ncastro.org",
-    "zipcode": ""
+    "website": "http://www.ncastro.org"
   },
   "northern cross science foundation": {
+    "address": "",
     "location": "Grafton,Wisconsin",
     "name": "Northern Cross Science Foundation",
     "phone": "(262) 338-8614",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.ncsf.info",
-    "zipcode": ""
+    "website": "http://www.ncsf.info"
   },
   "northern lights astronomers": {
     "address": "Box 2692 The Pas, Manitoba R9A 1M5",
@@ -11781,24 +11781,24 @@
     "website": ""
   },
   "northern sky astronomical society": {
+    "address": "",
     "location": "Grand Forks,North Dakota",
     "name": "Northern Sky Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.und.edu/org/nsas/",
-    "zipcode": ""
+    "website": "http://www.und.edu/org/nsas/"
   },
   "northern virginia astronomy club": {
+    "address": "",
     "location": "Fairfax,Virginia",
     "name": "Northern Virginia Astronomy Club",
     "phone": "703-250-8280",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.novac.com",
-    "zipcode": ""
+    "website": "http://www.novac.com"
   },
   "northwest kansas astronomical society deep sky eye obs.": {
     "# members": "",
@@ -11813,24 +11813,24 @@
     "website": ""
   },
   "northwest region": {
+    "address": "",
     "location": ",",
     "name": "Northwest Region",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.nwral.org/",
-    "zipcode": ""
+    "website": "http://www.nwral.org/"
   },
   "northwest suburban astronomers": {
+    "address": "",
     "location": "Hoffman Estates,Illinois",
     "name": "Northwest Suburban Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.nsaclub.org",
-    "zipcode": ""
+    "website": "http://www.nsaclub.org"
   },
   "norton obs.": {
     "# members": "",
@@ -11891,14 +11891,14 @@
     "website": ""
   },
   "oakland astronomy club": {
+    "address": "9496 Longmeadow St.",
     "location": "Fenton,Michigan",
     "name": "Oakland Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.oaklandastronomy.org",
-    "zipcode": "9496 Longmeadow St."
+    "website": "http://www.oaklandastronomy.org"
   },
   "oakley observatory": {
     "# members": "",
@@ -12327,34 +12327,34 @@
     "website": ""
   },
   "odyssey astronomy club": {
+    "address": "30222 Slaughterville Rd.",
     "location": "Tribbey,Oklahoma",
     "name": "Odyssey Astronomy Club",
     "phone": "405-899-4016",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "",
-    "zipcode": "30222 Slaughterville Rd."
+    "website": ""
   },
   "ogden astronomical society": {
+    "address": "839 W 1875N",
     "location": "Clinton,Utah",
     "name": "Ogden Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.ogdenastronomy.com",
-    "zipcode": "839 W 1875N"
+    "website": "http://www.ogdenastronomy.com"
   },
   "oglethorpe astronomical association": {
+    "address": "PO Box 16562",
     "location": "Savannah,Georgia",
     "name": "Oglethorpe Astronomical Association",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.savannahastronomy.org",
-    "zipcode": "PO Box 16562"
+    "website": "http://www.savannahastronomy.org"
   },
   "ohcejoga ursa ry": {
     "address": "Ringitie, Utsjoki, 99980 Finland",
@@ -12368,24 +12368,24 @@
     "website": ""
   },
   "ohio valley astronomical society": {
+    "address": "",
     "location": "Huntington,West Virginia",
     "name": "Ohio Valley Astronomical Society",
     "phone": "(304) 525-9614",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.ovas.org",
-    "zipcode": ""
+    "website": "http://www.ovas.org"
   },
   "oil region astronomical society, inc.": {
+    "address": "P. O. Box 1253",
     "location": "Oil City,Pennsylvania",
     "name": "Oil Region Astronomical Society, Inc.",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.oras.org",
-    "zipcode": "P. O. Box 1253"
+    "website": "http://www.oras.org"
   },
   "okanagan astronomical society": {
     "address": "P. O. Box 22104, Penticton BC V2A 8L1 CANADA",
@@ -12410,14 +12410,14 @@
     "website": "http://www.rasc.ca/okanagan"
   },
   "oklahoma city astronomy club": {
+    "address": "P. O. Box 22804",
     "location": "Oklahoma City,Oklahoma",
     "name": "Oklahoma City Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.okcastroclub.com",
-    "zipcode": "P. O. Box 22804"
+    "website": "http://www.okcastroclub.com"
   },
   "old royal observatory & caird planetarium": {
     "# members": "",
@@ -12444,14 +12444,14 @@
     "website": ""
   },
   "olympic astronomical society": {
+    "address": "PO Box 8607",
     "location": "Port Orchard,Washington",
     "name": "Olympic Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.olympicastronomicalsociety.org",
-    "zipcode": "PO Box 8607"
+    "website": "http://www.olympicastronomicalsociety.org"
   },
   "olympus mons": {
     "address": "University of Texas at Arlington, Physics Dept., Arlington, TX 76019 USA",
@@ -12465,14 +12465,14 @@
     "website": ""
   },
   "omaha astronomical society": {
+    "address": "P.O. Box 540424",
     "location": "Omaha,Nebraska",
     "name": "Omaha Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.omahaastro.com",
-    "zipcode": "P.O. Box 540424"
+    "website": "http://www.omahaastro.com"
   },
   "omilos filon astronomias   friends of astronomy club": {
     "address": "Alexandreias 113, 54646 Thessaloniki, Greece",
@@ -12543,14 +12543,14 @@
     "website": ""
   },
   "orange county astronomers": {
+    "address": "PO Box 1762",
     "location": "Costa Mesa,California",
     "name": "Orange County Astronomers",
     "phone": "714-751-5381",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/www.ocastronomers.org",
-    "zipcode": "PO Box 1762"
+    "website": "/www.ocastronomers.org"
   },
   "orange county astronomers observatory": {
     "# members": "",
@@ -12577,14 +12577,14 @@
     "website": ""
   },
   "orion (oak ridge isochronous observation network)": {
+    "address": "P. O. Box 7114",
     "location": "Oak Ridge,Tennessee",
     "name": "ORION (Oak Ridge Isochronous Observation Network)",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://home.att.net/~orionridge",
-    "zipcode": "P. O. Box 7114"
+    "website": "http://home.att.net/~orionridge"
   },
   "orion - astronomical society of patras": {
     "address": "Astronomy Laboratory, Building B, University of Patras, Patras, GREECE",
@@ -13059,14 +13059,14 @@
     "website": ""
   },
   "ouachita valley astronomy league": {
+    "address": "",
     "location": "Monroe,Louisianna",
     "name": "Ouachita Valley Astronomy League",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.ovalskies.com",
-    "zipcode": ""
+    "website": "http://www.ovalskies.com"
   },
   "oude sterrenwacht van de rug": {
     "# members": "",
@@ -13093,14 +13093,14 @@
     "website": ""
   },
   "ozarks amateur astronomers club": {
+    "address": "901 S. National Ave, Missouri State University - Physics",
     "location": "Springfield,Missouri",
     "name": "Ozarks Amateur Astronomers Club",
     "phone": "417-836-5131",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "",
-    "zipcode": "901 S. National Ave, Missouri State University - Physics"
+    "website": ""
   },
   "p t m a  - gliwice": {
     "address": "ul. Jagiellonska 21, Gliwice, 44-100 Poland",
@@ -13214,24 +13214,24 @@
     "website": ""
   },
   "palouse astronomical society": {
+    "address": "",
     "location": "Pullman,Washington",
     "name": "Palouse Astronomical Society",
     "phone": "(509) 335-4994",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.palouseastro.wsu.edu",
-    "zipcode": ""
+    "website": "http://www.palouseastro.wsu.edu"
   },
   "panhandle astronomy club": {
+    "address": "P.O. Box 987",
     "location": "Scottsbluff,Nebraska",
     "name": "Panhandle Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.panhandleastronomyclub.com",
-    "zipcode": "P.O. Box 987"
+    "website": "http://www.panhandleastronomyclub.com"
   },
   "pankaj tiwari06": {
     "address": "30, Babar Road Delhi",
@@ -13257,14 +13257,14 @@
     "website": ""
   },
   "penobscot valley stargazers": {
+    "address": "72 Carmel Road South",
     "location": "Hampden,Maine",
     "name": "Penobscot Valley Stargazers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.gazers.org",
-    "zipcode": "72 Carmel Road South"
+    "website": "http://www.gazers.org"
   },
   "penteli astronomical station": {
     "# members": "",
@@ -13315,14 +13315,14 @@
     "website": ""
   },
   "peoria astronomical society": {
+    "address": "PO BOX 10111",
     "location": "Peoria,Illinois",
     "name": "Peoria Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.astronomical.org",
-    "zipcode": "PO BOX 10111"
+    "website": "http://www.astronomical.org"
   },
   "perkins obs.": {
     "# members": "",
@@ -13371,14 +13371,14 @@
     "website": "http://www.exeter.edu/observatory/"
   },
   "phoenix astronomical society, inc.": {
+    "address": "10828 N. Biltmore Dr #141",
     "location": "Phoenix,Arizona",
     "name": "Phoenix Astronomical Society, Inc.",
     "phone": "602-561-5398",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.pasaz.org",
-    "zipcode": "10828 N. Biltmore Dr #141"
+    "website": "http://www.pasaz.org"
   },
   "phoenix public observatory": {
     "# members": "",
@@ -13529,24 +13529,24 @@
     "website": "http://www.planetarysocietyindia.org"
   },
   "platte valley astronomical observers": {
+    "address": "P.O. Box 6257",
     "location": "Omaha,Nebraska",
     "name": "Platte Valley Astronomical Observers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.pvao.us/",
-    "zipcode": "P.O. Box 6257"
+    "website": "http://www.pvao.us/"
   },
   "plymouth star gazers": {
+    "address": "",
     "location": "Cascade,Wisconsin",
     "name": "Plymouth Star Gazers",
     "phone": "(920) 528-8659",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": ""
+    "website": "/"
   },
   "polaris csillagvizsgalo": {
     "# members": "",
@@ -13572,34 +13572,34 @@
     "website": "http://www.ptma-krosno.teleskopy.pl/Ptmaeng.html"
   },
   "pomona valley amateur astronomers": {
+    "address": "P.O. Box 162",
     "location": "Upland,California",
     "name": "Pomona Valley Amateur Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.pvaa.us",
-    "zipcode": "P.O. Box 162"
+    "website": "http://www.pvaa.us"
   },
   "pontchartrain astronomy society, inc.": {
+    "address": "",
     "location": "Covington,Louisianna",
     "name": "Pontchartrain Astronomy Society, Inc.",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.pasnola.org",
-    "zipcode": ""
+    "website": "http://www.pasnola.org"
   },
   "popular astronomy club": {
+    "address": "",
     "location": "Rock Island,Illinois",
     "name": "Popular Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.pacastronomy.50megs.com",
-    "zipcode": ""
+    "website": "http://www.pacastronomy.50megs.com"
   },
   "porin karhunvartijat ry": {
     "address": "Hakuninkatu 5, 29200 Harjavalta, Finland",
@@ -13682,14 +13682,14 @@
     "website": "http://www.ozma.astronomia.pl"
   },
   "prairie astronomy club, inc.": {
+    "address": "P. O. Box 5585",
     "location": "Lincoln,Nebraska",
     "name": "Prairie Astronomy Club, Inc.",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.prairieastronomyclub.org",
-    "zipcode": "P. O. Box 5585"
+    "website": "http://www.prairieastronomyclub.org"
   },
   "prairie grass observatory": {
     "# members": "",
@@ -13704,24 +13704,24 @@
     "website": "http://indianastars.us"
   },
   "prairie skies astronomical association": {
+    "address": "P. O Box 794",
     "location": "Park Forest,Illinois",
     "name": "Prairie Skies Astronomical Association",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.prairieskies.org",
-    "zipcode": "P. O Box 794"
+    "website": "http://www.prairieskies.org"
   },
   "prescott astronomy club": {
+    "address": "324 West Gurley Street",
     "location": "Prescott,Arizona",
     "name": "Prescott Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.prescottastronomyclub.org",
-    "zipcode": "324 West Gurley Street"
+    "website": "http://www.prescottastronomyclub.org"
   },
   "prince chinedu okanumee": {
     "address": "no 7 nwafor lane nkpor agu",
@@ -13861,14 +13861,14 @@
     "website": "http://www.astro.unibas.ch"
   },
   "racine astronomical society": {
+    "address": "112 63rd Drive",
     "location": "Union Grove,Wisconsin",
     "name": "Racine Astronomical Society",
     "phone": "262-878-2774",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.rasastro.org",
-    "zipcode": "112 63rd Drive"
+    "website": "http://www.rasastro.org"
   },
   "raiffeisen volkssternwarte mariazellerland": {
     "# members": "",
@@ -13907,34 +13907,34 @@
     "website": "http://raonwaterobservatory.org"
   },
   "raleigh astronomy club, inc.": {
+    "address": "P. O. Box 10643",
     "location": "Raleigh,North Carolina",
     "name": "Raleigh Astronomy Club, Inc.",
     "phone": "(919) 460-7900",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.raleighastro.org/rac",
-    "zipcode": "P. O. Box 10643"
+    "website": "http://www.raleighastro.org/rac"
   },
   "rancho bernardo/murrieta astronomical society": {
+    "address": "",
     "location": "San Diego,California",
     "name": "Rancho Bernardo/Murrieta Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "",
-    "zipcode": ""
+    "website": ""
   },
   "rappahannock astronomy club": {
+    "address": "P. O. Box 868",
     "location": "Spotsylvania,Virginia",
     "name": "Rappahannock Astronomy Club",
     "phone": "(540) 972-0023",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.raclub.org",
-    "zipcode": "P. O. Box 868"
+    "website": "http://www.raclub.org"
   },
   "rasc -- belleville": {
     "address": "50 Bridge St. E. Belleville Ont, K8N 1L6",
@@ -14027,14 +14027,14 @@
     "website": "http://www.redastro.cjb.net"
   },
   "red river astronomy club": {
+    "address": "P. O. Box 3392",
     "location": "Texarkana,Texas",
     "name": "Red River Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.rrac.org",
-    "zipcode": "P. O. Box 3392"
+    "website": "http://www.rrac.org"
   },
   "reepham observatory": {
     "# members": "",
@@ -14118,24 +14118,24 @@
     "website": ""
   },
   "richland astronomical society": {
+    "address": "",
     "location": "Caledonia,Ohio",
     "name": "Richland Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.wro.org",
-    "zipcode": ""
+    "website": "http://www.wro.org"
   },
   "richmond astronomical society": {
+    "address": "",
     "location": "Richmonad,Virginia",
     "name": "Richmond Astronomical Society",
     "phone": "804-744-2444",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.richastro.org",
-    "zipcode": ""
+    "website": "http://www.richastro.org"
   },
   "rifle camp park observatory": {
     "# members": "",
@@ -14161,14 +14161,14 @@
     "website": "http://www.aad.hr"
   },
   "rio rancho astronomical society": {
+    "address": "609 Valley Meadows Dr.",
     "location": "Rio Rancho,New Mexico",
     "name": "Rio Rancho Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.rrastro.org",
-    "zipcode": "609 Valley Meadows Dr."
+    "website": "http://www.rrastro.org"
   },
   "ritchie observatory": {
     "# members": "",
@@ -14183,24 +14183,24 @@
     "website": "http://bicomnet.com/ritchieobs/"
   },
   "river bend astronomy club": {
+    "address": "c/o Gary Kronk",
     "location": "132 Jessica Drive, St. Jacob,Illinois",
     "name": "River Bend Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.riverbendastro.org",
-    "zipcode": "c/o Gary Kronk"
+    "website": "http://www.riverbendastro.org"
   },
   "riverside telescope makers conference, inc.": {
+    "address": "",
     "location": "LaCanada,California",
     "name": "Riverside Telescope Makers Conference, Inc.",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.rtmcastronomyexpo.org ",
-    "zipcode": ""
+    "website": "http://www.rtmcastronomyexpo.org "
   },
   "rmcc obs.": {
     "# members": "",
@@ -14215,14 +14215,14 @@
     "website": "http://www.astrotulsa.com"
   },
   "roanoke valley astronomical society": {
+    "address": "",
     "location": "Roanoke,Virginia",
     "name": "Roanoke Valley Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.rvasclub.org",
-    "zipcode": ""
+    "website": "http://www.rvasclub.org"
   },
   "robert ferguson observatory": {
     "# members": "100+",
@@ -14273,44 +14273,44 @@
     "website": ""
   },
   "rochester astronomy club": {
+    "address": "",
     "location": "Rochester,Minnesota",
     "name": "Rochester Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.rochesterskies.org",
-    "zipcode": ""
+    "website": "http://www.rochesterskies.org"
   },
   "rock valley astronomical society": {
+    "address": "",
     "location": "Beloit,Wisconsin",
     "name": "Rock Valley Astronomical Society",
     "phone": "608-362-0432",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": ""
+    "website": "/"
   },
   "rockford amateur astronomers, inc.": {
+    "address": "Lockwood Park Observatory, 5209 Safford Rd.",
     "location": "Rockford,Illinois",
     "name": "Rockford Amateur Astronomers, Inc.",
     "phone": "(815)964-6457",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.rockfordamateurastronomers.com",
-    "zipcode": "Lockwood Park Observatory, 5209 Safford Rd."
+    "website": "http://www.rockfordamateurastronomers.com"
   },
   "rockland astronomy club": {
+    "address": "225 Route 59",
     "location": "Suffern,New York",
     "name": "Rockland Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.rocklandastronomy.com",
-    "zipcode": "225 Route 59"
+    "website": "http://www.rocklandastronomy.com"
   },
   "rolnick observatory": {
     "# members": "",
@@ -14325,24 +14325,24 @@
     "website": "http://www.was-ct.org/"
   },
   "rose city astronomers": {
+    "address": "",
     "location": "Portland,Oregon",
     "name": "Rose City Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.rosecityastronomers.org",
-    "zipcode": ""
+    "website": "http://www.rosecityastronomers.org"
   },
   "roswell astronomy club": {
+    "address": "Robert H. Goddard Planetarium, 11th & North Main",
     "location": "Roswell,New Mexico",
     "name": "Roswell Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://wwww.roswellastronomyclub,com",
-    "zipcode": "Robert H. Goddard Planetarium, 11th & North Main"
+    "website": "http://wwww.roswellastronomyclub,com"
   },
   "rothney astrophysical obs.": {
     "# members": "",
@@ -14438,14 +14438,14 @@
     "website": ""
   },
   "s.t.a.r. astronomy society": {
+    "address": "P. O. Box 863",
     "location": "Red Bank,New Jersey",
     "name": "S.T.A.R. Astronomy Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.starastronomy.org",
-    "zipcode": "P. O. Box 863"
+    "website": "http://www.starastronomy.org"
   },
   "sac of india   sudents astronomy club of india": {
     "address": "h.no. 3-4-465,YMCA road,narayanaguda,hyderabad-27.A.P.INDIA.",
@@ -14492,24 +14492,24 @@
     "website": "http://sjacnb.tripod.com/"
   },
   "salem astronomy club": {
+    "address": "",
     "location": "Salem,New York",
     "name": "Salem Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "",
-    "zipcode": ""
+    "website": ""
   },
   "salt lake astronomical society": {
+    "address": "P. O. Box 26114",
     "location": "Salt Lake City,Utah",
     "name": "Salt Lake Astronomical Society",
     "phone": "801-253-2201",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://slas.us",
-    "zipcode": "P. O. Box 26114"
+    "website": "http://slas.us"
   },
   "salzburger sterngucker": {
     "address": "Himmelreichstr.30, A-5071 WALS",
@@ -14535,44 +14535,44 @@
     "website": ""
   },
   "san angelo astronomy association": {
+    "address": "P. O. Box 60391",
     "location": "San Angelo,Texas",
     "name": "San Angelo Astronomy Association",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.AngeloAstronomy.com ",
-    "zipcode": "P. O. Box 60391"
+    "website": "http://www.AngeloAstronomy.com "
   },
   "san antonio astronomical association": {
+    "address": "P.O. Box 701261",
     "location": "San Antonio,Texas",
     "name": "San Antonio Astronomical Association",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.sanantoniostronomy.org",
-    "zipcode": "P.O. Box 701261"
+    "website": "http://www.sanantoniostronomy.org"
   },
   "san antonio league of sidewalk astronomers": {
+    "address": "",
     "location": "San Antonio,Texas",
     "name": "San Antonio League of Sidewalk Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.salsa-astro.com",
-    "zipcode": ""
+    "website": "http://www.salsa-astro.com"
   },
   "san bernadino valley amateur astronomers": {
+    "address": "",
     "location": "Rialto,California",
     "name": "San Bernadino Valley Amateur Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.sbvaa.org",
-    "zipcode": ""
+    "website": "http://www.sbvaa.org"
   },
   "san fernando obs.": {
     "# members": "",
@@ -14599,44 +14599,44 @@
     "website": ""
   },
   "san juan stargazers": {
+    "address": "",
     "location": "Pagosa Springs,Colorado",
     "name": "San Juan Stargazers",
     "phone": "970-335-8286",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.SanJuanStargazers.com",
-    "zipcode": ""
+    "website": "http://www.SanJuanStargazers.com"
   },
   "san mateo county astronomical society": {
+    "address": "P.O. Box 974 Station A",
     "location": "San Mateo,California",
     "name": "San Mateo County Astronomical Society",
     "phone": "650-862-9602",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.smcas.com",
-    "zipcode": "P.O. Box 974 Station A"
+    "website": "http://www.smcas.com"
   },
   "sandusky valley amateur astronomy club": {
+    "address": "",
     "location": "Tiffin,Ohio",
     "name": "Sandusky Valley Amateur Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": ""
+    "website": "/"
   },
   "sangamon astronomical society": {
+    "address": "P.O. Box 9461",
     "location": "Springfield,Illinois",
     "name": "Sangamon Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.sas-sky.org",
-    "zipcode": "P.O. Box 9461"
+    "website": "http://www.sas-sky.org"
   },
   "sanskuti astronomy & natue academy": {
     "# members": "50",
@@ -14812,14 +14812,14 @@
     "website": "http://www.theskyscrapers.org"
   },
   "seattle astronomical society": {
+    "address": "P. O. Box 31746",
     "location": "Seattle,Washington",
     "name": "Seattle Astronomical Society",
     "phone": "206-789-0599",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.seattleastro.org",
-    "zipcode": "P. O. Box 31746"
+    "website": "http://www.seattleastro.org"
   },
   "seccao de astronomia": {
     "address": "Rua Padre Antonio Vieira, 1, Coimbra, 3000 Portugal",
@@ -14958,34 +14958,34 @@
     "website": ""
   },
   "sheboygan astronomical society, inc.": {
+    "address": "P. O. Box 1373",
     "location": "Sheboygan,Wisconsin",
     "name": "Sheboygan Astronomical Society, Inc.",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.shebastro.org",
-    "zipcode": "P. O. Box 1373"
+    "website": "http://www.shebastro.org"
   },
   "shenandoah astronomical society": {
+    "address": "",
     "location": "Winchester,Virginia",
     "name": "Shenandoah Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://shenandoahastronomical.org/",
-    "zipcode": ""
+    "website": "http://shenandoahastronomical.org/"
   },
   "shenandoah valley stargazers": {
+    "address": "",
     "location": "Harrisonburg,Virginia",
     "name": "Shenandoah Valley Stargazers",
     "phone": "504-494-5484",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.valleystargazers.com",
-    "zipcode": ""
+    "website": "http://www.valleystargazers.com"
   },
   "sheratons  the astronomy club  sbmjc": {
     "address": "",
@@ -15023,34 +15023,34 @@
     "website": "http://web.mit.edu/taalebi/www/soscof/"
   },
   "shoals astronomy club": {
+    "address": "",
     "location": "Florence,Alabama",
     "name": "Shoals Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.shoalsastronomyclub.blogspot.com",
-    "zipcode": ""
+    "website": "http://www.shoalsastronomyclub.blogspot.com"
   },
   "shoreline amateur astronomical association": {
+    "address": "PO Box 1832",
     "location": "Holland,Michigan",
     "name": "Shoreline Amateur Astronomical Association",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.holland-saaa.org/",
-    "zipcode": "PO Box 1832"
+    "website": "http://www.holland-saaa.org/"
   },
   "shreveport-bossier astronomical society, inc.": {
+    "address": "353 Ockley Drive",
     "location": "Shreveport,Louisianna",
     "name": "Shreveport-Bossier Astronomical Society, Inc.",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.shreveportastronomy.com",
-    "zipcode": "353 Ockley Drive"
+    "website": "http://www.shreveportastronomy.com"
   },
   "simo": {
     "# members": "",
@@ -15076,14 +15076,14 @@
     "website": "http://www.singastro.org"
   },
   "sir isaac newton astronomical society": {
+    "address": "",
     "location": "Kane,Pennsylvania",
     "name": "Sir Isaac Newton Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": ""
+    "website": "/"
   },
   "sir thomas brisbane planetarium": {
     "address": "Mt Coot-tha Road, Toowong, Brisbane, Qld 4066, Australia",
@@ -15132,14 +15132,14 @@
     "website": ""
   },
   "skokie valley astronomers": {
+    "address": "",
     "location": "Deerfield,Illinois",
     "name": "Skokie Valley Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.skokievalleyastronomers.org",
-    "zipcode": ""
+    "website": "http://www.skokievalleyastronomers.org"
   },
   "sky watchers  association": {
     "address": "47/1 Beni Banerjee Avenue, Kolkata , 700 031 India",
@@ -15153,14 +15153,14 @@
     "website": "http://www.geocities.com/skywatchercal"
   },
   "skylight astronomical society, inc.": {
+    "address": "P. O. Box 561",
     "location": "Acton,Massachussettes",
     "name": "Skylight Astronomical Society, Inc.",
     "phone": "978-635-6097",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.sasobservatory.org",
-    "zipcode": "P. O. Box 561"
+    "website": "http://www.sasobservatory.org"
   },
   "skylight observatory": {
     "# members": "20-50",
@@ -15197,14 +15197,14 @@
     "website": "http://www.smaa.cl"
   },
   "smoky mountain astronomical society": {
+    "address": "P. O. Box 53265",
     "location": "Knoxville,Tennessee",
     "name": "Smoky Mountain Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.smokymtnastro.org/",
-    "zipcode": "P. O. Box 53265"
+    "website": "http://www.smokymtnastro.org/"
   },
   "smolian astronomicheska observatoriya": {
     "# members": "",
@@ -15804,14 +15804,14 @@
     "website": "http://www.sonnenobservatorium.de"
   },
   "sonoma county astronomical society": {
+    "address": "P. O. Box 183",
     "location": "Santa Rosa,California",
     "name": "Sonoma County Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.sonomaskies.org/",
-    "zipcode": "P. O. Box 183"
+    "website": "http://www.sonomaskies.org/"
   },
   "sonoma state univ. observatory": {
     "# members": "",
@@ -15826,14 +15826,14 @@
     "website": ""
   },
   "sonora astronomical society": {
+    "address": "P.O. Box 1081",
     "location": "Green Valley,Arizona",
     "name": "Sonora Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.sonoraastronomicalsociety.org/",
-    "zipcode": "P.O. Box 1081"
+    "website": "http://www.sonoraastronomicalsociety.org/"
   },
   "south african astronomical observatory": {
     "# members": "",
@@ -15848,14 +15848,14 @@
     "website": "http://www.saao.ac.za"
   },
   "south bay astronomical society": {
+    "address": "P.O. Box 1937",
     "location": "Redondo Beach, CA,California",
     "name": "South Bay Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.geocities.com/sbas_elcamino/firstlight/index.html",
-    "zipcode": "P.O. Box 1937"
+    "website": "http://www.geocities.com/sbas_elcamino/firstlight/index.html"
   },
   "south dublin astronomical society": {
     "address": "c/o Gonzaga College, Ranelagh, Dublin",
@@ -15880,24 +15880,24 @@
     "website": "http://www.seqas.org"
   },
   "south plains astronomy club": {
+    "address": "",
     "location": ",Texas",
     "name": "South Plains Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://southplainsastronomy.org",
-    "zipcode": ""
+    "website": "http://southplainsastronomy.org"
   },
   "south shore astronomical society, the": {
+    "address": "P. O. Box 155",
     "location": "Norwell,Massachussettes",
     "name": "South Shore Astronomical Society, The",
     "phone": "(508) 746-3428",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://ssastros.org",
-    "zipcode": "P. O. Box 155"
+    "website": "http://ssastros.org"
   },
   "south simcoe amateur astronomers": {
     "address": "10 Brownsville Court, Schomberg , ON L0G-1T0 Canada",
@@ -15923,114 +15923,114 @@
     "website": ""
   },
   "southampton astronomers": {
+    "address": "",
     "location": "Franklin,Virginia",
     "name": "Southampton Astronomers",
     "phone": "757-562-7391",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://groups.hamptonroads.com/SouthamptonAstronomers/",
-    "zipcode": ""
+    "website": "http://groups.hamptonroads.com/SouthamptonAstronomers/"
   },
   "southeast region": {
+    "address": "",
     "location": ",",
     "name": "Southeast Region",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.gardner-webb.edu/GWU/Naturalsci/physics/seralonline.htm",
-    "zipcode": ""
+    "website": "http://www.gardner-webb.edu/GWU/Naturalsci/physics/seralonline.htm"
   },
   "southeastern iowa astronomy club": {
+    "address": "PO Box 14",
     "location": "West Burlington,Iowa",
     "name": "Southeastern Iowa Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.seiac.com",
-    "zipcode": "PO Box 14"
+    "website": "http://www.seiac.com"
   },
   "southern colorado astronomical society": {
+    "address": "PO Box 9023",
     "location": "Pueblo,Colorado",
     "name": "Southern Colorado Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.scaspueblo.com/",
-    "zipcode": "PO Box 9023"
+    "website": "http://www.scaspueblo.com/"
   },
   "southern cross astronomical society": {
+    "address": "",
     "location": "Miami,Florida",
     "name": "Southern Cross Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.scas.org",
-    "zipcode": ""
+    "website": "http://www.scas.org"
   },
   "southern maine astronomers": {
+    "address": "PO Box 216",
     "location": "Cumberland,Maine",
     "name": "Southern Maine Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.southernmaineastronomers.org",
-    "zipcode": "PO Box 216"
+    "website": "http://www.southernmaineastronomers.org"
   },
   "southern oregon skywatchers": {
+    "address": "",
     "location": "Medford,Oregon",
     "name": "Southern Oregon Skywatchers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "",
-    "zipcode": ""
+    "website": ""
   },
   "southern vermon astronomy group, inc.": {
+    "address": "PO Box 424",
     "location": "Chester,Vermont",
     "name": "Southern Vermon Astronomy Group, Inc.",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.sovera.org",
-    "zipcode": "PO Box 424"
+    "website": "http://www.sovera.org"
   },
   "southwest florida astronomical society, inc.": {
+    "address": "",
     "location": "Ft. Meyers,Florida",
     "name": "Southwest Florida Astronomical Society, Inc.",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.theeyepiece.org",
-    "zipcode": ""
+    "website": "http://www.theeyepiece.org"
   },
   "southwest montana astronomical society": {
+    "address": "Museum of the Rockies, 600 West Kagy Boulevard",
     "location": "Bozeman, MT,Montana",
     "name": "Southwest Montana Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://smasweb.org/",
-    "zipcode": "Museum of the Rockies, 600 West Kagy Boulevard"
+    "website": "http://smasweb.org/"
   },
   "southwest region": {
+    "address": "",
     "location": ",",
     "name": "Southwest Region",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "",
-    "zipcode": ""
+    "website": ""
   },
   "space": {
     "address": "WZ-19, Asalatpur, A-3 Block, Janak Puri, New Delhi-58",
@@ -16101,34 +16101,34 @@
     "website": ""
   },
   "spokane astronomical society": {
+    "address": "P. O. Box 8114",
     "location": "Spokane,Washington",
     "name": "Spokane Astronomical Society",
     "phone": "509-458-7632",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.spokaneastronomical.org",
-    "zipcode": "P. O. Box 8114"
+    "website": "http://www.spokaneastronomical.org"
   },
   "springfield astronomical society": {
+    "address": "",
     "location": "Billings,Missouri",
     "name": "Springfield Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.springfieldastronomy.org",
-    "zipcode": ""
+    "website": "http://www.springfieldastronomy.org"
   },
   "springfield telescope makers": {
+    "address": "P. O. Box 601, Breezy Hill Road",
     "location": "Springtfield,Vermont",
     "name": "Springfield Telescope Makers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://stellafane.org",
-    "zipcode": "P. O. Box 601, Breezy Hill Road"
+    "website": "http://stellafane.org"
   },
   "st  john astronomy club": {
     "address": "390 Kingsville Rd., St. John, NB E2M 4T2 Canada",
@@ -16187,14 +16187,14 @@
     "website": ""
   },
   "st. louis astronomical society": {
+    "address": "",
     "location": "St. Louis,Missouri",
     "name": "St. Louis Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.slasonline.org",
-    "zipcode": ""
+    "website": "http://www.slasonline.org"
   },
   "star astronomy club": {
     "address": "S-1 , E-8/234 TRILANGA COLONY BHOPAL",
@@ -16220,14 +16220,14 @@
     "website": ""
   },
   "star city astronomy network": {
+    "address": "3578 Berry Hill Dr.,",
     "location": "Roanoke,Virginia",
     "name": "Star City Astronomy Network",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.starcityastronomy.org",
-    "zipcode": "3578 Berry Hill Dr.,"
+    "website": "http://www.starcityastronomy.org"
   },
   "star cruiser observatory": {
     "# members": "",
@@ -16265,14 +16265,14 @@
     "website": "http://www.asnne.org"
   },
   "stargarden foundation": {
+    "address": "",
     "location": "Warrensburg,Missouri",
     "name": "Stargarden Foundation",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.icstars.com",
-    "zipcode": ""
+    "website": "http://www.icstars.com"
   },
   "stargate observatory": {
     "# members": "134",
@@ -16333,14 +16333,14 @@
     "website": ""
   },
   "starlight astronomy club": {
+    "address": "",
     "location": "Altoona,Pennsylvania",
     "name": "Starlight Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.starlightastronomyclub.org",
-    "zipcode": ""
+    "website": "http://www.starlightastronomyclub.org"
   },
   "starscan": {
     "address": "",
@@ -16354,14 +16354,14 @@
     "website": ""
   },
   "starsplitters of wyalusing": {
+    "address": "P. O. Box 544",
     "location": "Prairie Du Chien,Wisconsin",
     "name": "Starsplitters of Wyalusing",
     "phone": "608-583-3010",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.wyalusing.org/starsplit.htm",
-    "zipcode": "P. O. Box 544"
+    "website": "http://www.wyalusing.org/starsplit.htm"
   },
   "station astronomique jansky": {
     "address": "Prairie de Merignan, La Ferte St. Aubin, 45240 France",
@@ -16421,14 +16421,14 @@
     "website": ""
   },
   "steele county astronomical society": {
+    "address": "",
     "location": "Owatonna,Minnesota",
     "name": "Steele County Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://minnesotasky.tripod.com",
-    "zipcode": ""
+    "website": "http://minnesotasky.tripod.com"
   },
   "steirischer astronomen verein": {
     "address": "Johannes Kepler Volkssternwarte, Steinberg 104, A-8052 Steinberg/Graz",
@@ -16756,14 +16756,14 @@
     "website": ""
   },
   "stillwater stargazers": {
+    "address": "Bruckner Nature Center, 5995 Horseshoe Bend Road",
     "location": "Troy,Ohio",
     "name": "Stillwater Stargazers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.dma1.org/~wagner",
-    "zipcode": "Bruckner Nature Center, 5995 Horseshoe Bend Road"
+    "website": "http://www.dma1.org/~wagner"
   },
   "stjornuskodunarfelag seltjarnarness": {
     "address": "v/Skolabraut, 170 Seltjarnarnes",
@@ -16789,14 +16789,14 @@
     "website": ""
   },
   "stonebelt stargazers": {
+    "address": "P.O. Box 1112",
     "location": "Bedford,Indiana",
     "name": "Stonebelt Stargazers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://mainbyte.com/stargazers/index.html",
-    "zipcode": "P.O. Box 1112"
+    "website": "http://mainbyte.com/stargazers/index.html"
   },
   "stratford astronomy group": {
     "address": "STRATFORD, ON Canada",
@@ -16833,24 +16833,24 @@
     "website": "http://www.sudburyastronomyclub.com"
   },
   "sugar creek astronomical society": {
+    "address": "",
     "location": "Bentonville,Arkansas",
     "name": "Sugar Creek Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.cox-internet.com/sugarcreekastronomicalsociety/",
-    "zipcode": ""
+    "website": "http://www.cox-internet.com/sugarcreekastronomicalsociety/"
   },
   "sun city oro valley astronomy club": {
+    "address": "",
     "location": ",Arizona",
     "name": "Sun City Oro Valley Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://suncityorovalley.com/clubs/astronomy",
-    "zipcode": ""
+    "website": "http://suncityorovalley.com/clubs/astronomy"
   },
   "suncoast astronomical society": {
     "address": "5 Tibrogargan drive Beerburrum , Brisbane , Queensland , 4517 Australia",
@@ -16978,24 +16978,24 @@
     "website": ""
   },
   "tac - al (the astronomy connection)": {
+    "address": "",
     "location": "Salinas,California",
     "name": "TAC - AL (The Astronomy Connection)",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://observers.org/affiliates/TAC-AL.shtml",
-    "zipcode": ""
+    "website": "http://observers.org/affiliates/TAC-AL.shtml"
   },
   "tallahassee astronomical society": {
+    "address": "",
     "location": "Tallahassee,Florida",
     "name": "Tallahassee Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.stargazers.org",
-    "zipcode": ""
+    "website": "http://www.stargazers.org"
   },
   "tampereen ursa ry": {
     "address": "PL 18, Tampere, 33501 Finland",
@@ -17020,14 +17020,14 @@
     "website": "http://n.a."
   },
   "tarrant co. college, ne campus, astronomy club": {
+    "address": "c/o Student Activities; Tarrant County College Northeast Campus, 828 Harwood Road: Attention Dr. M.L. McCurdy",
     "location": "Hurst,Texas",
     "name": "Tarrant Co. College, NE Campus, Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.tccd.net/campus_ne/nsc/astrclub/",
-    "zipcode": "c/o Student Activities; Tarrant County College Northeast Campus, 828 Harwood Road: Attention Dr. M.L. McCurdy"
+    "website": "http://www.tccd.net/campus_ne/nsc/astrclub/"
   },
   "taurus hill observatory": {
     "address": "",
@@ -17064,14 +17064,14 @@
     "website": "http://astroclub.tau.ac.il/index_en.html"
   },
   "temecula valley astronomers": {
+    "address": "",
     "location": "Lake Elsinore,California",
     "name": "Temecula Valley Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": ""
+    "website": "/"
   },
   "texas a&m observatory": {
     "# members": "",
@@ -17086,44 +17086,44 @@
     "website": "http://observatory.tamu.edu/"
   },
   "texas astronomical society of dallas": {
+    "address": "P. O Box 25162,Preston Station",
     "location": "Dallas,Texas",
     "name": "Texas Astronomical Society of Dallas",
     "phone": "214-800-6000",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.texasastro.org",
-    "zipcode": "P. O Box 25162,Preston Station"
+    "website": "http://www.texasastro.org"
   },
   "texas star party, inc.": {
+    "address": "1000 Cloudview Cover",
     "location": "Cedar Park,Texas",
     "name": "Texas Star Party, Inc.",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.texasstarparty.org",
-    "zipcode": "1000 Cloudview Cover"
+    "website": "http://www.texasstarparty.org"
   },
   "texas star society, inc": {
+    "address": "",
     "location": ",Texas",
     "name": "Texas Star Society, Inc",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": ""
+    "website": "/"
   },
   "thames amateur astronomical society": {
+    "address": "",
     "location": ",Connecticut",
     "name": "Thames Amateur Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.taasct.net/TAASCT/Welcome.html",
-    "zipcode": ""
+    "website": "http://www.taasct.net/TAASCT/Welcome.html"
   },
   "the alians group": {
     "address": "Tribhuvannagar Municipaliti- 11 Ghorahi, Dang",
@@ -17362,14 +17362,14 @@
     "website": "http://www.timminsastronomy.com"
   },
   "toledo astronomical association": {
+    "address": "",
     "location": "Toledo,Ohio",
     "name": "Toledo Astronomical Association",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://toledoastronomy.org",
-    "zipcode": ""
+    "website": "http://toledoastronomy.org"
   },
   "tomchin planetarium": {
     "# members": "",
@@ -17384,14 +17384,14 @@
     "website": ""
   },
   "tonopah astronomical society": {
+    "address": "P.O. Box 462",
     "location": "Tonopah,Nevada",
     "name": "Tonopah Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://tas.astronomynv.org",
-    "zipcode": "P.O. Box 462"
+    "website": "http://tas.astronomynv.org"
   },
   "toronto centre  rasc": {
     "address": "Ontario Science Centre, 770 Don Mills Rd., Don Mills, Toronto, ON M3C 1T3 Canada",
@@ -17416,14 +17416,14 @@
     "website": "http://www.tourismindochina.cm"
   },
   "treasure coast astronomical society": {
+    "address": "",
     "location": "Fort Pierce,Florida",
     "name": "Treasure Coast Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://treasurecoastastronomy.org",
-    "zipcode": ""
+    "website": "http://treasurecoastastronomy.org"
   },
   "tri cities astronomy society": {
     "address": "315A Evergreen Dr., Port Moody, BC V3H 1S1 Canada",
@@ -17448,64 +17448,64 @@
     "website": ""
   },
   "tri-city astronomy club": {
+    "address": "P. O. Box 651",
     "location": "Richland,Washington",
     "name": "Tri-City Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.stargazing.net/tcac",
-    "zipcode": "P. O. Box 651"
+    "website": "http://www.stargazing.net/tcac"
   },
   "tri-state astronomers": {
+    "address": "",
     "location": ",Maryland",
     "name": "Tri-State Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.tristateastronomers.org",
-    "zipcode": ""
+    "website": "http://www.tristateastronomers.org"
   },
   "tri-valley stargazers": {
+    "address": "PO Box 2476",
     "location": "Livermore,California",
     "name": "Tri-Valley Stargazers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.trivalleystargazers.org/",
-    "zipcode": "PO Box 2476"
+    "website": "http://www.trivalleystargazers.org/"
   },
   "trinity christian academy astronomy club": {
+    "address": "17001 Addison Road, Attn: Joseph Acker",
     "location": "Addison,Texas",
     "name": "Trinity Christian Academy Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "/",
-    "zipcode": "17001 Addison Road, Attn: Joseph Acker"
+    "website": "/"
   },
   "tucson amateur astronomy association": {
+    "address": "P. O. Box 41254",
     "location": "Tucson,Arizona",
     "name": "Tucson Amateur Astronomy Association",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.tucsonastronomy.org",
-    "zipcode": "P. O. Box 41254"
+    "website": "http://www.tucsonastronomy.org"
   },
   "tulare astronomical association": {
+    "address": "P.O. Box 7753",
     "location": "Visalia,California",
     "name": "Tulare Astronomical Association",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://tulareastro.org/Tulare_Astronomical_Association/Home.html",
-    "zipcode": "P.O. Box 7753"
+    "website": "http://tulareastro.org/Tulare_Astronomical_Association/Home.html"
   },
   "tullamore astronomical society": {
     "address": "145 Arden Vale, Tullamore, Offaly Ireland",
@@ -17531,14 +17531,14 @@
     "website": "http://www.bph.ruhr-uni-bochum.de/~axelm/tso/tso.htm"
   },
   "twin city amateur astronomers, inc.": {
+    "address": "TCAA c/o Duane Yockey , 508 Normal Ave",
     "location": "Normal,Illinois",
     "name": "Twin City Amateur Astronomers, Inc.",
     "phone": "309-438-2496",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://twincityamatuerastronomers.org",
-    "zipcode": "TCAA c/o Duane Yockey , 508 Normal Ave"
+    "website": "http://twincityamatuerastronomers.org"
   },
   "twin sault astronomy club": {
     "address": "366 Boundary Road, Sault St. Marie, ONT P6A 5C1 Canada",
@@ -17611,14 +17611,14 @@
     "website": ""
   },
   "umpqua amateur astronomers": {
+    "address": "",
     "location": "Roseburg,Oregon",
     "name": "Umpqua Amateur Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.umpquaastronomers.org/UAA/",
-    "zipcode": ""
+    "website": "http://www.umpquaastronomers.org/UAA/"
   },
   "unione astrofili bresciani": {
     "address": "Civici Musei di Scienze, traversa XII, 172, Brescia BR, 25125 Italy",
@@ -18083,14 +18083,14 @@
     "website": ""
   },
   "ventura county astronomical society": {
+    "address": "P. O. Box 982",
     "location": "Simi Valley,California",
     "name": "Ventura County Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.vcas.org",
-    "zipcode": "P. O. Box 982"
+    "website": "http://www.vcas.org"
   },
   "verein f r volkst mliche astronomie essen e v": {
     "address": "Weberplatz 1, Essen, 45127 Germany",
@@ -18519,14 +18519,14 @@
     "website": ""
   },
   "von braun astronomical society": {
+    "address": "P. O. Box 1142",
     "location": "Huntsville,Alabama",
     "name": "Von Braun Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.vbas.org",
-    "zipcode": "P. O. Box 1142"
+    "website": "http://www.vbas.org"
   },
   "voyager astronomy club of moncton": {
     "address": "182 Sunshine Drive, Moncton, NB E1G 2E1 Canada",
@@ -18540,14 +18540,14 @@
     "website": ""
   },
   "wabash valley astronomical society": {
+    "address": "P.O. Box 2020",
     "location": "West Lafayette,Indiana",
     "name": "Wabash Valley Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.stargazing.net/wvas/",
-    "zipcode": "P.O. Box 2020"
+    "website": "http://www.stargazing.net/wvas/"
   },
   "wahnsiedler obs.": {
     "# members": "",
@@ -18609,14 +18609,14 @@
     "website": ""
   },
   "warren astronomical society": {
+    "address": "P. O. Box 1505",
     "location": "Warren,Michigan",
     "name": "Warren Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.warrenastro.org",
-    "zipcode": "P. O. Box 1505"
+    "website": "http://www.warrenastro.org"
   },
   "warren rupp obs.": {
     "# members": "",
@@ -18631,14 +18631,14 @@
     "website": "http://www.wro.org"
   },
   "warsaw astronomical society": {
+    "address": "1308 Sunset Drive",
     "location": "Winona Lake,Indiana",
     "name": "Warsaw Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://clubs.kconline.com/was/",
-    "zipcode": "1308 Sunset Drive"
+    "website": "http://clubs.kconline.com/was/"
   },
   "wega": {
     "address": "Guido Gezellelaan 71, Heverlee, 3001 Belgium",
@@ -18652,14 +18652,14 @@
     "website": ""
   },
   "wehr astronomical society": {
+    "address": "Wehr Nature Center, 9701 W. College Avenue",
     "location": "Franklin,Wisconsin",
     "name": "Wehr Astronomical Society",
     "phone": "(414) 425-8550",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.wehrastro.org",
-    "zipcode": "Wehr Nature Center, 9701 W. College Avenue"
+    "website": "http://www.wehrastro.org"
   },
   "weitkamp observatory": {
     "# members": "",
@@ -18686,14 +18686,14 @@
     "website": "http://www.ccas.ws"
   },
   "west kentucky amateur astronomers": {
+    "address": "",
     "location": "Kevil,Kentucky",
     "name": "West Kentucky Amateur Astronomers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://wkaa.net",
-    "zipcode": ""
+    "website": "http://wkaa.net"
   },
   "west lafayette observatory": {
     "# members": "",
@@ -18708,24 +18708,24 @@
     "website": "http://www.stargazing.net/wvas"
   },
   "west texas astronomers": {
+    "address": "",
     "location": "Midland,Texas",
     "name": "West Texas Astronomers",
     "phone": "432-683-2882",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.wtastro.org",
-    "zipcode": ""
+    "website": "http://www.wtastro.org"
   },
   "western colorado astronomy club": {
+    "address": "PO Box 40537",
     "location": "Grand Junction,Colorado",
     "name": "Western Colorado Astronomy Club",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.wcacastronomy.org",
-    "zipcode": "PO Box 40537"
+    "website": "http://www.wcacastronomy.org"
   },
   "western connecticut state u. observatory and planetarium": {
     "# members": "",
@@ -18740,14 +18740,14 @@
     "website": ""
   },
   "western region": {
+    "address": "",
     "location": ",",
     "name": "Western Region",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.vcas.org/wral/",
-    "zipcode": ""
+    "website": "http://www.vcas.org/wral/"
   },
   "western sydney amateur astronomy group inc": {
     "address": "UWS Nepean Centre for Astronomy, Werrington, NSW",
@@ -18761,24 +18761,24 @@
     "website": "http://wsaag.org"
   },
   "westminster astronomical society": {
+    "address": "P.O. Box 1231",
     "location": "Westminster,Maryland",
     "name": "Westminster Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.westminsterastro.org",
-    "zipcode": "P.O. Box 1231"
+    "website": "http://www.westminsterastro.org"
   },
   "whatcom association of celestial observers": {
+    "address": "P. O. Box 1721",
     "location": "Ferndale,Washington",
     "name": "Whatcom Association of Celestial Observers",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.whatcomastronomy.org",
-    "zipcode": "P. O. Box 1721"
+    "website": "http://www.whatcomastronomy.org"
   },
   "whitewater obs.": {
     "# members": "",
@@ -18957,14 +18957,14 @@
     "website": ""
   },
   "yakima astronomical society": {
+    "address": "",
     "location": "Yakima,Washington",
     "name": "Yakima Astronomical Society",
     "phone": "509-678-4379",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.perr.com/yvac.html",
-    "zipcode": ""
+    "website": "http://www.perr.com/yvac.html"
   },
   "yamanote star gazers": {
     "address": ",  Japan",
@@ -18990,14 +18990,14 @@
     "website": ""
   },
   "york county astronomical society": {
+    "address": "",
     "location": "York,Pennsylvania",
     "name": "York County Astronomical Society",
     "phone": "",
     "provenance": [
       "astroleague.com"
     ],
-    "website": "http://www.ycas.org",
-    "zipcode": ""
+    "website": "http://www.ycas.org"
   },
   "york observatory": {
     "# members": "",
