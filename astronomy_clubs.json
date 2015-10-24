@@ -122,6 +122,15 @@
     ],
     "website": ""
   },
+  "act observatory": {
+    "country": "USA",
+    "name": "ACT Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "OK",
+    "website": "http://www.astrotulsa.com"
+  },
   "adia": {
     "address": "P.zza Aldo Moro, 12 - 70044 - Polignano a Mare",
     "contact": "Riccardo Giuliani",
@@ -163,6 +172,27 @@
       "astroleague.com"
     ],
     "website": "/"
+  },
+  "advanced electro-optical system telescope": {
+    "country": "USA",
+    "name": "Advanced Electro-Optical System Telescope",
+    "notes": "3.7m telescope (Department of Defense)",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI"
+  },
+  "advanced technology solar telescope": {
+    "country": "USA",
+    "email": "atst@nso.edu",
+    "name": "Advanced Technology Solar Telescope",
+    "notes": "4m solar telescope",
+    "phone": "808-572-6888",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://atst.nso.edu/"
   },
   "aerospace employees association astronomy club": {
     "address": "",
@@ -641,6 +671,17 @@
     ],
     "website": ""
   },
+  "angell hall observatory": {
+    "address": "Angell Hall, UM campus",
+    "country": "USA",
+    "name": "Angell Hall Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MI",
+    "telescope": "16-inch Ritchey-Chretien; radio telescope",
+    "website": "http://www.lsa.umich.edu/astro/facilities/telescopes/angellhall"
+  },
   "anonymus astronomy club - astronomsko drustvo": {
     "address": "Brace Radic 34, HR-31550 Valpovo, Croatia",
     "contact": "Ivica Skokic",
@@ -718,6 +759,17 @@
     ],
     "website": "http://www.apo.nmsu.edu"
   },
+  "apache point observatories (apo)": {
+    "address": "2001 Apache Point Rd., NM 88349, USA",
+    "email": "gretchen@galileo.apo.nmsu.edu",
+    "name": "Apache Point Observatories (APO)",
+    "phone": "575-437-6822",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "ARC 3.5m, ARCSAT, SDSS-III, NMSU 1m telescopes",
+    "website": "http://www.apo.nmsu.edu"
+  },
   "apollo obs.": {
     "# members": "",
     "address": "Dayton Museum of Natural History2600 Deweese Pkwy.DaytonOhio 45414 USA",
@@ -729,6 +781,17 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "apollo observatory": {
+    "address": "Dayton Museum of Natural History, 2600 Deweese Pkwy, OH 45414, USA",
+    "name": "Apollo Observatory",
+    "notes": "Miami Valley Astronomical Society",
+    "phone": "513-275-7431",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "12-inch, 10-inch, (2) 8-inch reflectors; 5.5-inch refractors",
+    "website": "http://mvas.org/node/156"
   },
   "appalachian astronomy association": {
     "address": "",
@@ -771,6 +834,17 @@
       "astronomyclubs.com"
     ],
     "website": ""
+  },
+  "arc small aperture telescope (arcsat)": {
+    "address": "2001 Apache Point Road, NM 88349, USA",
+    "name": "ARC Small Aperture Telescope (ARCSAT)",
+    "notes": "part of Apache Point Observatories (APO)",
+    "phone": "575-437-6822",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "20-inch (0.5m) Cassegrain telescope",
+    "website": "http://www.apo.nmsu.edu/Telescopes/ARCSAT/"
   },
   "archenhold-sternwarte": {
     "# members": "",
@@ -827,6 +901,19 @@
     ],
     "website": "http://www.aoas.org"
   },
+  "arkansas sky observatory": {
+    "address": "10 Observatory Hill Drive, Petit Jean Mountain",
+    "email": "drclay@arksky.org",
+    "name": "Arkansas Sky Observatory",
+    "phone": "501-727-6339",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AR",
+    "telescope": "0.5m astrograph",
+    "website": "http://www.arksky.org",
+    "zip": "72110"
+  },
   "arkansas tech. observatory": {
     "# members": "",
     "address": "McEver HallArkansas Tech UniversityRussellvilleArkansas 72801-2222 USA",
@@ -860,6 +947,18 @@
       "astroleague.com"
     ],
     "website": "/boyce-astro.org/ana.html"
+  },
+  "aro 12m radio telescope (kp12m)": {
+    "country": "USA",
+    "name": "ARO 12m Radio Telescope (KP12m)",
+    "notes": "part of Kitt Peak National Observatories (KPNO) complex",
+    "phone": "520-318-8670",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "telescope": "12m radio telescope",
+    "website": "http://aro.as.arizona.edu/"
   },
   "aruba astro research int": {
     "address": "Congoweg 47, San Nicolas, Aruba Dutch Caribbean",
@@ -915,6 +1014,16 @@
       "astronomyclubs.com"
     ],
     "website": "http://www.astroasasac.com"
+  },
+  "ashton observatory": {
+    "address": "Ashton-Wildwood County Park, IA 50309, USA",
+    "email": "info@dmastronomy.com",
+    "name": "Ashton Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch Newtonian, 16-inch Schmidt-Cassegrain",
+    "website": "http://www.dmastronomy.com/ashton-observatory"
   },
   "ashton-wildwood obs.": {
     "# members": "",
@@ -3560,6 +3669,17 @@
     ],
     "website": "http://www.almerzem.com/mesaed"
   },
+  "astrophysical observatory at college of staten": {
+    "address": "CSI Willowbrook Campus, NY 10314, USA",
+    "email": "robbins@postbox.csi.cuny.edu",
+    "name": "Astrophysical Observatory at College of Staten",
+    "phone": "718-982-3260",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch Schmidt-Cassegrain",
+    "website": "http://csivc.csi.cuny.edu/supernova7/files/"
+  },
   "astrophysical observatory at the college of staten island": {
     "# members": "",
     "address": "2800 Victory Blvd.Building 6NStaten IslandNew York 10314 USA",
@@ -3571,6 +3691,17 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "astrophysical research consortium (arc) telescope": {
+    "address": "2001 Apache Point Road, NM 88349, USA",
+    "name": "Astrophysical Research Consortium (ARC) Telescope",
+    "notes": "part of Apache Point Observatories (APO)",
+    "phone": "575-437-6822",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "3.5m telescope",
+    "website": "http://www.apo.nmsu.edu/arc35m/"
   },
   "astropolis": {
     "address": "Klinichna str. 20, fl. 3 Kiev 03110 Ukraine",
@@ -3756,6 +3887,30 @@
     ],
     "website": "http://www.backbayastro.org/"
   },
+  "badlands observatory": {
+    "country": "USA",
+    "email": "badobs@gwtc.net",
+    "name": "Badlands Observatory",
+    "phone": "605-386-2105",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "SD",
+    "telescope": "26-inch Newtonian",
+    "website": "http://sdspacegrant.sdsmt.edu/bo.htm"
+  },
+  "baker observatory": {
+    "address": "1766 Old Hillcrest Road",
+    "country": "USA",
+    "name": "Baker Observatory",
+    "phone": "417-329-5570",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MO",
+    "telescope": "16-inch, 14-inch reflectors",
+    "website": "http://physics.missouristate.edu/bakerobservatory.htm"
+  },
   "baldwin observatory": {
     "# members": "",
     "address": "Aquinas College Physics Dept.Grand RapidsMichigan 49506 USA",
@@ -3767,6 +3922,30 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "ball state university observatory": {
+    "address": "Ball State University",
+    "country": "USA",
+    "name": "Ball State University Observatory",
+    "phone": "765-285-8860",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "IN",
+    "telescope": "16-inch reflector",
+    "website": "http://cms.bsu.edu/academics/collegesanddepartments/physicsandastronomy/planetariumobservatory/obser"
+  },
+  "ballreich observatory": {
+    "address": "County Road 33",
+    "country": "USA",
+    "name": "Ballreich Observatory",
+    "notes": "Sandusky Valley Amateur Astronomy Club",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "OH",
+    "telescope": "12.5-inch refractor",
+    "website": "http://www.phy.ilstu.edu/~wenning/McMillin/McMillin.html"
   },
   "balmikee campus": {
     "address": "Po.Box 12947, Kathmandu, Nepal",
@@ -3846,6 +4025,16 @@
     ],
     "website": "http://barnardstar.org"
   },
+  "barnard observatory": {
+    "address": "University of Mississippi",
+    "country": "USA",
+    "name": "Barnard Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MS",
+    "website": "http://southernstudies.olemiss.edu/2012/02/23/barnard-observatory/"
+  },
   "barnard-seyfert astronomical society": {
     "address": "P.O. Box 150713",
     "location": "Nashville,Tennessee",
@@ -3872,6 +4061,7 @@
     "name": "Baton Rouge Astronomical Society",
     "phone": "",
     "provenance": [
+      "astroleague.com",
       "astroleague.com"
     ],
     "website": "http://www.brastro.org/"
@@ -3929,6 +4119,16 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "beaver meadow observatory": {
+    "address": "1610 Welch Road, NY 14113, USA",
+    "name": "Beaver Meadow Observatory",
+    "phone": "716-629-3098",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "20-inch, 12-inch, 8-inch reflectors; 6-inch refractor",
+    "website": "http://www.buffaloastronomy.com/observatories.htm"
   },
   "behlen observatory": {
     "# members": "",
@@ -4029,6 +4229,16 @@
     "provenance": [
       "skyandtelescope.com"
     ],
+    "website": "http://www.bbso.njit.edu"
+  },
+  "big bear solar observatory (bbso)": {
+    "address": "40386 North Shore Lane, CA 92314, USA",
+    "name": "Big Bear Solar Observatory (BBSO)",
+    "phone": "909-866-4240",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "1.6m NST, 10cm FHDA solar telescopes",
     "website": "http://www.bbso.njit.edu"
   },
   "big bend astronomers": {
@@ -4163,6 +4373,26 @@
     ],
     "website": ""
   },
+  "blue hill meteorological observatory": {
+    "address": "1904 Canton Ave",
+    "name": "Blue Hill Meteorological Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MA",
+    "telescope": "Campbell&ndash;Stokes recorder",
+    "website": "http://www.bluehill.org/"
+  },
+  "blue mountain observatory": {
+    "country": "USA",
+    "name": "Blue Mountain Observatory",
+    "phone": "406-243-5179",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MT",
+    "website": "http://umt.edu/stories/2011/08/bluemtn.php"
+  },
   "blue ridge astronomy club": {
     "address": "P. O. Box 441",
     "location": "Forest,Virginia",
@@ -4226,6 +4456,18 @@
     ],
     "website": "http://www.boiseastro.org"
   },
+  "boothe memorial observatory": {
+    "address": "Boothe Memorial Park",
+    "country": "USA",
+    "name": "Boothe Memorial Observatory",
+    "notes": "Boothe Memorial Astronomical Society",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "CT",
+    "telescope": "16-inch Cassegrain reflector; 4-inch refractor",
+    "website": "http://bmas.org/"
+  },
   "boulder astronomy and space society": {
     "address": "PO Box 17203",
     "location": "Boulder,Colorado",
@@ -4235,6 +4477,17 @@
       "astroleague.com"
     ],
     "website": "http://www.boulderastro.org"
+  },
+  "bowman observatory": {
+    "address": "Milbank & East Elm, Julian Curtis Elementary School, CT 6830, USA",
+    "name": "Bowman Observatory",
+    "notes": "Astronomical Society of Greenwich",
+    "phone": "203-869-6786",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "12.5-inch Schmidt-Cassegrain",
+    "website": "http://www.seocom.com/asg/observa.html"
   },
   "bradley obs.": {
     "# members": "",
@@ -4247,6 +4500,30 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "bradley observatory": {
+    "address": "Agnes Scott College",
+    "country": "USA",
+    "email": "cdepree@agnesscott.edu",
+    "name": "Bradley Observatory",
+    "notes": "also 70-seat Delafield Planetarium",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "GA",
+    "telescope": "30-inch Beck telescope",
+    "website": "http://www.agnesscott.edu/bradleyobservatory/"
+  },
+  "bradstreet observatory": {
+    "address": "1300 Eagle Rd, Eastern Univ., PA 19087, USA",
+    "email": "dbradstr@eastern.edu",
+    "name": "Bradstreet Observatory",
+    "phone": "610-341-5945",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch SCT",
+    "website": "http://www.eastern.edu/academics/programs/astronomy-and-physics-department/history-bradstreet-observ"
   },
   "braeside observatory": {
     "# members": "",
@@ -4404,6 +4681,16 @@
     ],
     "website": ""
   },
+  "bucknell observatory": {
+    "address": "Bucknell Univ. campus, PA 17837, USA",
+    "name": "Bucknell Observatory",
+    "phone": "570-577-1207",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "10.5-inch refractor",
+    "website": "http://www.eg.bucknell.edu/physics/astronomy/observatory/"
+  },
   "bucks-mont astronomical association": {
     "address": "",
     "location": "Doylestown,Pennsylvania",
@@ -4425,6 +4712,18 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "burrell memorial observatory": {
+    "address": "Baldwin Wallace Univ.",
+    "country": "USA",
+    "name": "Burrell Memorial Observatory",
+    "phone": "440-826-2223",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "OH",
+    "telescope": "13.5-inch refractor",
+    "website": "http://www.bw.edu/academics/phy/ast/"
   },
   "byhaugen observatorium": {
     "# members": "",
@@ -4505,6 +4804,17 @@
     ],
     "website": ""
   },
+  "c.e. kenneth mees observatory": {
+    "address": "D6604 East Gannett Hill Road, NY 14512, USA",
+    "email": "cosmos@astro.pas.rochester.edu",
+    "name": "C.E. Kenneth Mees Observatory",
+    "phone": "585-987-5330",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24-inch Cassegrain; 12-inch Dobsonian",
+    "website": "http://www.rochesterastronomy.org/node/1507"
+  },
   "c.p.e.n. sivry observatoire public": {
     "# members": "",
     "address": "route de Mons, 52Sivry-Rance 6470 Belgium",
@@ -4563,6 +4873,17 @@
     ],
     "website": ""
   },
+  "caltech submillimeter observatory": {
+    "country": "USA",
+    "name": "Caltech Submillimeter Observatory",
+    "notes": "10.4m submillimeter-wave telescope",
+    "phone": "808-935-9853",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://cso.caltech.edu/"
+  },
   "calvin college observatory": {
     "# members": "",
     "address": "Physics and Astronomy Department, Calvin College, 3201 Burton St. SEGrand RapidsMichigan 49546 USA",
@@ -4575,6 +4896,15 @@
     ],
     "website": "http://www.calvin.edu/academic/phys/observatory/"
   },
+  "cameron park observatory": {
+    "address": "6699 Campus Drive, CA 95667, USA",
+    "name": "Cameron Park Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "2 14-inch telescopes",
+    "website": "http://www.communityobservatory.com"
+  },
   "campocatino astronomical observatory": {
     "# members": "",
     "address": "IDA Italian SectionVia Fosse Ardeatine 234Frosinone 03100 Italy",
@@ -4586,6 +4916,18 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "canada-france-hawaii telescope": {
+    "country": "USA",
+    "email": "info@cfht.hawaii.edu",
+    "name": "Canada-France-Hawaii Telescope",
+    "notes": "3.6m telescope",
+    "phone": "808-885-7944",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://www.cfht.hawaii.edu"
   },
   "canada-france-hawaii telescope corp.": {
     "# members": "",
@@ -4666,6 +5008,19 @@
     ],
     "website": "http://www.caritasfsc.edu.hk/"
   },
+  "carma": {
+    "address": "Cedar Flat",
+    "country": "USA",
+    "name": "CARMA",
+    "notes": "Combined Array for Research in Millimeter-wave Astronomy (CARMA)",
+    "phone": "760-938-2075  x129",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "CA",
+    "telescope": "6 x 10.4m, 9 x 6.1m, 8 x 3.5m millimeter-wave radio telescopes",
+    "website": "http://www.mmarray.org"
+  },
   "casa   club astronomi santri assalaam": {
     "address": "Pabelan Kartasura Sukoharjo - Surakarta Central Java",
     "contact": "AR Sugeng Riyadi",
@@ -4708,6 +5063,16 @@
       "astroleague.com"
     ],
     "website": "http://www.cedar-astronomers.org"
+  },
+  "centennial observatory": {
+    "address": "315 Falls Avenue, ID 83301, USA",
+    "name": "Centennial Observatory",
+    "phone": "208-732-6655",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24-inch Ritchey-Chretien reflector",
+    "website": "http://herrett.csi.edu/astronomy/observatory/index.asp"
   },
   "central appalachian astronomy club": {
     "address": "P. O. Box 1862",
@@ -4945,6 +5310,16 @@
     ],
     "website": "http://www.cosc.org"
   },
+  "chabot observatory & science center": {
+    "address": "10000 Skyline Blvd, CA 94619, USA",
+    "name": "Chabot Observatory & Science Center",
+    "phone": "510-336-7300",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "36-inch reflector; 20-inch & 8-inch refractor telescopes",
+    "website": "http://www.chabotspace.org/observatories.htm"
+  },
   "chamberlin & mt. evans observatories": {
     "# members": "",
     "address": "Physics & Astronomy Dept.Univ. of DenverDenverColorado 80208 USA",
@@ -4956,6 +5331,16 @@
       "skyandtelescope.com"
     ],
     "website": "http://www.du.edu/~rstencel"
+  },
+  "chamberlin observatory": {
+    "address": "2930 E. Warren Ave, CO 80208, USA",
+    "name": "Chamberlin Observatory",
+    "phone": "303-871-5172",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "20-inch Clark refractor",
+    "website": "http://mysite.du.edu/~rstencel/Chamberlin/"
   },
   "champaign-urbana astronomical society": {
     "address": "c/o Staerkel Planetarium, 2400 West Bradley Ave",
@@ -5000,6 +5385,17 @@
     ],
     "website": ""
   },
+  "charles e. daniel observatory": {
+    "address": "402 Roper Mountain Rd., SC 29615, USA",
+    "email": "education@ropermountain.org",
+    "name": "Charles E. Daniel Observatory",
+    "phone": "864-355-8900",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "23-inch refractor",
+    "website": "http://www.ropermountain.org/whats-here/daniel-observatory"
+  },
   "charles e. daniel observatory and t.c. hooper planetarium": {
     "# members": "",
     "address": "402 Roper Mountain Rd.GreenvilleSouth Carolina 29615 USA",
@@ -5023,6 +5419,15 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "charles s. morris observatory": {
+    "address": "Manchester College, S Orchard Dr, IN 46962, USA",
+    "name": "Charles S. Morris Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "10-inch reflector",
+    "website": "http://www.manchester.edu/Common/VisitingManchester/campus_map/observatory.htm"
   },
   "charlottesville astronomical society": {
     "address": "",
@@ -5056,6 +5461,17 @@
     ],
     "website": ""
   },
+  "cherry grove observatory": {
+    "address": "8485 520th St., MN 55946, USA",
+    "email": "HeinerV@aol.com",
+    "name": "Cherry Grove Observatory",
+    "notes": "part of Eagle Creek Observatories",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24-inch, 12-inch, 10-inch reflectors",
+    "website": "http://www.mnastro.org/facilities/cgo.htm"
+  },
   "chesmont astronomical society": {
     "address": "",
     "location": "Pottstown,Pennsylvania",
@@ -5072,6 +5488,7 @@
     "name": "Chester County Astronomical Society",
     "phone": "",
     "provenance": [
+      "astroleague.com",
       "astroleague.com"
     ],
     "website": "http://www.ccas.us"
@@ -5095,6 +5512,17 @@
       "astroleague.com"
     ],
     "website": "http://www.chicagoastronomicalsociety.org"
+  },
+  "chico community observatory": {
+    "address": "Upper Bidwell Park",
+    "country": "USA",
+    "name": "Chico Community Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "CA",
+    "telescope": "14-inch SCT telescope",
+    "website": "http://www.chicoobservatory.com"
   },
   "chidi friend club of nigeria": {
     "address": "5 umuzike",
@@ -5160,6 +5588,19 @@
       "astroleague.com"
     ],
     "website": "http://www.cinastro.org"
+  },
+  "cincinnati observatory": {
+    "address": "3489 Observatory Place",
+    "email": "dean@cincinnatiobservatory.org",
+    "name": "Cincinnati Observatory",
+    "phone": "513-321-5186",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "OH",
+    "telescope": "16-inch, 11-inch refractors",
+    "website": "http://www.cincinnatiobservatory.org",
+    "zip": "45208"
   },
   "circolo astrofili bergamaschi": {
     "address": "via Martinelli 11, Aviatico Fraz. Ganda BG, 24020 Italy",
@@ -5314,6 +5755,17 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "clarence jones observatory": {
+    "address": "10 Tuxedo Avenue, TN 37403, USA",
+    "email": "jack-pitkin@utc.edu",
+    "name": "Clarence Jones Observatory",
+    "phone": "423-425-4518",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "20.5-inch Cassegrain",
+    "website": "http://www.utc.edu/physics-geology-astronomy/observatory/"
   },
   "clemson area amateur astronomers": {
     "address": "",
@@ -5947,6 +6399,15 @@
     ],
     "website": ""
   },
+  "cordell-lorenz observatory": {
+    "address": "Univ of the South, 735 Univ Ave., TN 37383, USA",
+    "name": "Cordell-Lorenz Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "12.5-inch reflector, 6-inch Clark refractor",
+    "website": "http://www.sewanee.edu/physics/OBSERVATORY/observatory.html"
+  },
   "corfu astronomical society": {
     "address": "Municipality's Theater, 49100, Corfu, Greece",
     "contact": "Aristotelis Kotinas",
@@ -6047,6 +6508,18 @@
     ],
     "website": "http://www.geocites.com/janethallmark/astro1.html"
   },
+  "crow observatory": {
+    "address": "Crow Hall, WU Hilltop Campus",
+    "country": "USA",
+    "name": "Crow Observatory",
+    "phone": "314-935-6250",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MO",
+    "telescope": "6-inch refractor",
+    "website": "http://physics.wustl.edu/resources/observatories/crow-observatory"
+  },
   "cumberland astronomical society": {
     "address": "P. O. Box 1733",
     "location": "Gallatin,Tennessee",
@@ -6079,6 +6552,16 @@
     ],
     "website": ""
   },
+  "custer observatory": {
+    "address": "1115 Main Bayview Rd, NY 11971, USA",
+    "name": "Custer Observatory",
+    "phone": "631-765-2626",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "25-inch, 20-inch Newtonians + 20 other telescopes",
+    "website": "http://custerobservatory.org"
+  },
   "cyprus astronomical society": {
     "address": "Nicosia, Cyprus",
     "contact": "Marios Iordanou",
@@ -6100,6 +6583,19 @@
       "astronomyclubs.com"
     ],
     "website": "http://www.bootes.org"
+  },
+  "dark sky obervatory (dso)": {
+    "country": "USA",
+    "email": "catondb@appstate.edu",
+    "name": "Dark Sky Obervatory (DSO)",
+    "notes": "20 miles NE of Boone",
+    "phone": "828-262-2446",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "NC",
+    "telescope": "32-inch, 18-inch, 17-inch, 14-inch telescopes",
+    "website": "http://dso.appstate.edu/"
   },
   "dark-sky switzerland": {
     "address": "Neuackerstr. 2, Zollikerberg, 8125 Switzerland",
@@ -6123,6 +6619,28 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "darling hill observatory (dho)": {
+    "address": "Warren St, NY 13159, USA",
+    "email": "rosemary@suhep.phy.syr.edu",
+    "name": "Darling Hill Observatory (DHO)",
+    "phone": "315-475-7032",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch Newtonian",
+    "website": "http://www.syracuse-astro.org/about-darling-hill-observatory/"
+  },
+  "david cole observatory": {
+    "address": "Cobb Astro Park",
+    "country": "USA",
+    "name": "David Cole Observatory",
+    "notes": "Barnstable High School",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MA",
+    "telescope": "14-inch, 12-inch, (2) 11-inch, 10-inch reflectors"
   },
   "david dunlap obs.": {
     "# members": "",
@@ -6170,6 +6688,17 @@
       "skyandtelescope.com"
     ],
     "website": "http://www.astro.nwu.edu"
+  },
+  "dearborn observatory": {
+    "address": "2131 Tech Drive, NW University, IL 60208-2900, USA",
+    "email": "monica.brown@northwestern.edu",
+    "name": "Dearborn Observatory",
+    "phone": "847-491-7650",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "18.5-inch refracting telescope",
+    "website": "http://ciera.northwestern.edu/observatory.php"
   },
   "decatur area astronomy club": {
     "address": "39 Whippoorwill Dr.",
@@ -6321,6 +6850,15 @@
       "skyandtelescope.com"
     ],
     "website": "30 members"
+  },
+  "detroit observatory": {
+    "address": "1398 E. Ann Street, UM campus, MI 48109, USA",
+    "name": "Detroit Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "12.5-inch refractor",
+    "website": "http://bentley.umich.edu/observatory/"
   },
   "devon and campus obs.": {
     "# members": "",
@@ -6636,6 +7174,18 @@
     ],
     "website": "http://www.astrohbg.org"
   },
+  "efsc observatory": {
+    "address": "1519 Clearlake Rd, FL 32922, USA",
+    "email": "fergusonj@easternflorida.edu",
+    "name": "EFSC Observatory",
+    "notes": "Eastern Florida State College",
+    "phone": "21-433-7373",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24-inch Ritchey-Chretien",
+    "website": "http://www.easternflorida.edu/community-resources/planetarium/observatory/"
+  },
   "egyptian astronomy club   eac": {
     "address": "Egypt - Cairo_ Nasr City _ 12A St. Hafeez Ramadam - Makram Ebeid",
     "contact": "Al-Shaimaa Saad",
@@ -6646,6 +7196,17 @@
       "astronomyclubs.com"
     ],
     "website": "http://www.facebook.com/group.php?gid=13937491321"
+  },
+  "eileen collins observatory": {
+    "address": "Dike Way, Spencer Hill Campus, NY 14830, USA",
+    "email": "dann@corning-cc.edu",
+    "name": "Eileen Collins Observatory",
+    "phone": "607-962-9494",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "20-inch, 16-inch reflectors",
+    "website": "https://www.corning-cc.edu/locations/observatory"
   },
   "eisenhower observatory": {
     "# members": "",
@@ -6959,6 +7520,17 @@
     ],
     "website": ""
   },
+  "fan mountain observatory": {
+    "address": "Fan Mountain",
+    "country": "USA",
+    "name": "Fan Mountain Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "VA",
+    "telescope": "40-inch, 31-inch, 24-inch reflectors, 10-inch refractor",
+    "website": "http://www.astro.virginia.edu/research/observatories/FanMt.php"
+  },
   "fargo-moorhead astronomy club": {
     "address": "MSUM Planetarium, Minn. State University Moorhead",
     "location": "Moorhead,Minnesota",
@@ -6981,6 +7553,27 @@
     ],
     "website": "http://www.nekaal.org"
   },
+  "farpoint observatory": {
+    "address": "12965 Mission Valley Road, KS 66423, USA",
+    "email": "farpoint@kansas.net",
+    "name": "Farpoint Observatory",
+    "phone": "785-806-2070",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "27-inch reflector",
+    "website": "http://www.nekaal.org/doku.php?id=farpoint_observatory"
+  },
+  "faulkes telescope n.": {
+    "country": "USA",
+    "name": "Faulkes Telescope N.",
+    "notes": "2m telescope",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://www.faulkes-telescope.com"
+  },
   "feriensternwarte calina": {
     "# members": "",
     "address": "Postfach 8Carona/TI 6914 Switzerland",
@@ -6993,6 +7586,18 @@
     ],
     "website": ""
   },
+  "fick observatory": {
+    "country": "USA",
+    "name": "Fick Observatory",
+    "phone": "515-294-3668",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "IA",
+    "telescope": "24-inch, 14-inch, 10-inch telescopes; 8.5m radio telescope",
+    "website": "http://www.public.iastate.edu/~astro/fickwww/",
+    "zip": "50011"
+  },
   "five college radio astronomy observatory": {
     "# members": "",
     "address": "Univ. of MassachusettsAmherstMassachusetts 1003 USA",
@@ -7004,6 +7609,16 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "five college radio astronomy observatory (fcrao)": {
+    "address": "Quabbin Reservoir, MA 1003, USA",
+    "name": "Five College Radio Astronomy Observatory (FCRAO)",
+    "phone": "413-545-0789",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "14m millimeter-wave telescope",
+    "website": "http://www.astro.umass.edu/~fcrao/"
   },
   "five star club": {
     "address": "Umuorlu isu in Nwangele Imo state of Nigeria",
@@ -7026,6 +7641,16 @@
     ],
     "website": "http://www.flintriverastronomy.org/"
   },
+  "fmu observatory": {
+    "address": "E Palmetto St, Francis Marion Univ., SC 29501, USA",
+    "name": "FMU Observatory",
+    "phone": "803-661-1250",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "14-inch, 8-inch, 3.5-inch telescopes",
+    "website": "http://astro.fmarion.edu/observe/"
+  },
   "foggy bottom obs.": {
     "# members": "",
     "address": "Dept. of Physics and AstronomyColgate UniversityHamiltonNew York 13346 USA",
@@ -7037,6 +7662,17 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "foggy bottom observatory (fbo)": {
+    "address": "Dept. of Physics, Colgate Univ, NY 13346, USA",
+    "email": "tbalonek@colgate.edu",
+    "name": "Foggy Bottom Observatory (FBO)",
+    "phone": "315-228-7215",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch reflector",
+    "website": "http://observatory.colgate.edu/foggybot/foggybot.html"
   },
   "foothill college obs.": {
     "# members": "",
@@ -7071,6 +7707,16 @@
       "astroleague.com"
     ],
     "website": "http://www.fordastronomyclub.com"
+  },
+  "ford observatory": {
+    "address": "Ithaca College campus, NY 12082, USA",
+    "name": "Ford Observatory",
+    "phone": "274-3012",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch Cassegrain",
+    "website": "http://www.ithaca.edu/briotta/observatory/index.html"
   },
   "forsyth astronomical society": {
     "address": "P.O. Box 30128",
@@ -7206,6 +7852,19 @@
     ],
     "website": ""
   },
+  "fred lawrence whipple observatories": {
+    "country": "USA",
+    "email": "dbrocious@cfa.harvard.edu",
+    "name": "Fred Lawrence Whipple Observatories",
+    "notes": "Site of MMT, VERITAS, MEarth, HAT, and Tillinghast telescopes",
+    "phone": "520-670-5707",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "website": "http://linmax.sao.arizona.edu/help/FLWO/whipple.html",
+    "zip": "85645"
+  },
   "fredericia astronomiske forening": {
     "address": "Thorsvej 14, Fredericia, 7000 Denmark",
     "contact": "Claes Larsen",
@@ -7229,6 +7888,20 @@
     ],
     "website": ""
   },
+  "fremont peak observatory": {
+    "address": "San Juan Canyon Rd",
+    "country": "USA",
+    "email": "info@fpoa.net",
+    "name": "Fremont Peak Observatory",
+    "notes": "Fremont Peak Observatory Association",
+    "phone": "831-623-2465",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "CA",
+    "telescope": "30-inch telescope",
+    "website": "http://fpoa.net"
+  },
   "french village observatory": {
     "# members": "1",
     "address": "5, Third St.Tupper LakeNew York 12986 USA",
@@ -7250,6 +7923,17 @@
       "astroleague.com"
     ],
     "website": "http://pmo-sun.uoregon.edu/~pmo/"
+  },
+  "frosty drew observatory": {
+    "address": "61 Park Lane, RI 2813, USA",
+    "email": "astronomer@frostydrew.org",
+    "name": "Frosty Drew Observatory",
+    "phone": "401-596-7688",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch SCT, 10-inch & 8-inch Dobsonians",
+    "website": "http://frostydrew.org/observatory/"
   },
   "frosty drew observatory & sky theatre": {
     "# members": "",
@@ -7274,6 +7958,16 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "fuertes observatory": {
+    "address": "North Campus, Cornell Univ., NY 14853-6801, USA",
+    "name": "Fuertes Observatory",
+    "phone": "607-255-3557",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "12-inch Brashear refractor; 10-inch Dobsonian",
+    "website": "http://coursewiki.astro.cornell.edu/Fuertes/WebHome"
   },
   "funda-ia astronomica rom na": {
     "address": "Strada Cu-itul de Argint nr. 5, Bucure ti, 75212 Romania",
@@ -7374,6 +8068,17 @@
     ],
     "website": "http://galwayastronomyclub.ie/"
   },
+  "gemini observatory n.": {
+    "country": "USA",
+    "name": "Gemini Observatory N.",
+    "notes": "8.1m telescope",
+    "phone": "808-974-2500",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://www.gemini.edu/"
+  },
   "george obs.": {
     "# members": "",
     "address": "Brazos Bend State Park21901 FM 762NeedvilleTexas 77461 USA",
@@ -7385,6 +8090,28 @@
       "skyandtelescope.com"
     ],
     "website": "http://www.hmns.mus.tx.us/hmns/fact_sheets/george_observ.html"
+  },
+  "george observatory": {
+    "address": "Brazos Bend State Park, 21901 FM 762, TX 77461, USA",
+    "name": "George Observatory",
+    "notes": "36-inch, 18-inch, 14-inch, 11-inch telescopes",
+    "phone": "713-639-4629",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "website": "www.georgeobservatory.org"
+  },
+  "georgetown university observatory": {
+    "address": "37th & O St NW",
+    "name": "Georgetown University Observatory",
+    "notes": "aka Heyden Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "DC",
+    "telescope": "12-inch refractor",
+    "website": "http://maps.georgetown.edu/observatory/",
+    "zip": "20007"
   },
   "georgia astronomy club": {
     "address": "I. Chavchavadze Avenue 62/31, Tbilisi, 380062",
@@ -7478,6 +8205,17 @@
     ],
     "website": ""
   },
+  "glen d. riley observatory (gdro)": {
+    "address": "Naperville Springbrook Water Reclamation plant",
+    "country": "USA",
+    "name": "Glen D. Riley Observatory (GDRO)",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "IL",
+    "telescope": "12.5-inch, 10-inch reflectors",
+    "website": "http://stargazing.net/naa/gdro.htm"
+  },
   "goddard astronomy club": {
     "address": "",
     "location": ",Maryland",
@@ -7499,6 +8237,16 @@
       "skyandtelescope.com"
     ],
     "website": "http://www.astro.indiana.edu/"
+  },
+  "goethe link observatory": {
+    "address": "8403 Observatory Road, IN 46151, USA",
+    "email": "jshepherd@linkobservatory.org",
+    "name": "Goethe Link Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "36-inch reflector, 10-inch astrograph",
+    "website": "http://www.astro.indiana.edu/goethelink.shtml"
   },
   "golden pond obs.": {
     "# members": "",
@@ -7523,6 +8271,54 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "goldendale observatory": {
+    "address": "1602 Observatory Dr., WA 98620, USA",
+    "email": "goldendale.observatory@parks.wa.gov",
+    "name": "Goldendale Observatory",
+    "notes": "certified Dark Sky Park",
+    "phone": "509-773-3141",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24.5-inch Cassegrain telescope",
+    "website": "http://www.parks.wa.gov/512/Goldendale-Observatory"
+  },
+  "goldstone observatory (gdscc)": {
+    "address": "93 Goldstone Road, CA 92310, USA",
+    "email": "tours@gdscc.nasa.gov",
+    "name": "Goldstone Observatory (GDSCC)",
+    "notes": "Goldstone Deep Space Communications Complex",
+    "phone": "760-255-8688",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "70m, 4 x 34m radio telescopes",
+    "website": "http://www.gdscc.nasa.gov"
+  },
+  "good hope observatory": {
+    "address": "US Rt. 19, WV 26302, USA",
+    "email": "info@caacwv.com",
+    "name": "Good Hope Observatory",
+    "notes": "Central Appalachian Astronomy Club",
+    "phone": "(304) 745-4842",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch Schmidt-Cassegrain, 6.5-inch refractor",
+    "website": "http://www.caacwv.com/observatory.htm"
+  },
+  "goodsell observatory": {
+    "address": "Carleton College",
+    "country": "USA",
+    "name": "Goodsell Observatory",
+    "notes": "16-inch Brashear, 8-inch Clark refractors",
+    "phone": "507-222-4383",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MN",
+    "website": "http://apps.carleton.edu/campus/observatory/"
   },
   "gordon d. crowell astrophysical obs.": {
     "# members": "",
@@ -7618,6 +8414,27 @@
     ],
     "website": ""
   },
+  "grant o. gale observatory": {
+    "address": "10 Ave, Grinnell College, IA 50112, USA",
+    "email": "cadmus@grinnell.edu",
+    "name": "Grant O. Gale Observatory",
+    "phone": "515-269-3016",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24-inch Cassegrain telescope",
+    "website": "http://www.grinnell.edu/about/visit/spaces/grant-o-gale-observatory"
+  },
+  "grasslands & sabino canyon observatory": {
+    "address": "5100 N. Sabino Foothills Dr., AZ 85715, USA",
+    "email": "tbh@3towers.com",
+    "name": "Grasslands & Sabino Canyon Observatory",
+    "phone": "520-749-2224",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "website": "http://www.3towers.com"
+  },
   "grasslands obs. and sabino canyon obs.": {
     "# members": "",
     "address": "5100 N. Sabino Foothills Dr.TucsonArizona 85715 USA",
@@ -7639,6 +8456,47 @@
       "astroleague.com"
     ],
     "website": ""
+  },
+  "green bank 140 foot telescope": {
+    "address": "Green Bank Science Center, WV 24944, USA",
+    "name": "Green Bank 140 Foot Telescope",
+    "phone": "304-456-2011",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "43m radio telescope",
+    "website": "https://public.nrao.edu/telescopes/140-foot"
+  },
+  "green bank interferometer (gbi)": {
+    "address": "Green Bank Science Center, WV 24944, USA",
+    "name": "Green Bank Interferometer (GBI)",
+    "phone": "304-456-2011",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "3 x 26m radio telescopes",
+    "website": "https://science.nrao.edu/facilities/gbt/other-telescopes/gbi"
+  },
+  "green bank solar radio burst spectrometer": {
+    "address": "Green Bank Science Center, WV 24944, USA",
+    "name": "Green Bank Solar Radio Burst Spectrometer",
+    "phone": "304-456-2011",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "45ft radio telescope",
+    "website": "https://science.nrao.edu/facilities/gbt/other-telescopes/45foot"
+  },
+  "green bank telescope (gbt)": {
+    "address": "Green Bank Science Center, WV 24944, USA",
+    "name": "Green Bank Telescope (GBT)",
+    "notes": "part of National Radio Astronomy Observatory (NRAO)",
+    "phone": "304-456-2011",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "100m radio telescope",
+    "website": "https://science.nrao.edu/facilities/gbt"
   },
   "green mountain obs.": {
     "# members": "",
@@ -7706,6 +8564,17 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "griffith observatory": {
+    "address": "2800 E. Observatory Rd, CA 90027, USA",
+    "name": "Griffith Observatory",
+    "notes": "home of Samuel Oschin Planetarium",
+    "phone": "213-473-0800",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "12-inch Zeiss refractor, 3 solar telescopes",
+    "website": "http://www.griffithobservatory.org"
   },
   "groupe astro de foyer des jeunes d havelange": {
     "address": "Av. H. Dunant, Brussels, 1140 Belgium",
@@ -8478,6 +9347,16 @@
     ],
     "website": ""
   },
+  "haggart observatory": {
+    "address": "19600 Molalla Ave, OR 97045, USA",
+    "name": "Haggart Observatory",
+    "phone": "503-594-6044",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24-inch reflector",
+    "website": "http://www.clackamas.edu/Haggart_Observatory.aspx"
+  },
   "haleakala amateur astronomers": {
     "address": "",
     "location": "Maui,Hawaii",
@@ -8579,6 +9458,16 @@
     ],
     "website": "http://www.chara.gsu.edu"
   },
+  "hard labor creek observatory": {
+    "address": "Hard Labor Creek Park, GA 30303, USA",
+    "name": "Hard Labor Creek Observatory",
+    "phone": "404-413-6047",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "0.61m, 0.51m telescopes",
+    "website": "http://www.chara.gsu.edu/HLCO/"
+  },
   "harford county astronomical society": {
     "address": "P.O. Box 906",
     "location": "Bel Air,Maryland",
@@ -8588,6 +9477,18 @@
       "astroleague.com"
     ],
     "website": "http://www.harfordastro.org"
+  },
+  "harold e. taylor observatory": {
+    "address": "S Pomona Rd",
+    "name": "Harold E. Taylor Observatory",
+    "phone": "609-652-4520",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "NJ",
+    "telescope": "16-inch SCT reflector",
+    "website": "http://intraweb.stockton.edu/eyos/page.cfm?siteID=89&pageID;=80",
+    "zip": "08205"
   },
   "harry astronomy club": {
     "address": "14/5 I.T.I Road, Aligarh, UP-202001",
@@ -8611,6 +9512,28 @@
       "skyandtelescope.com"
     ],
     "website": "http://www.hartrao.ac.za"
+  },
+  "hartung boothroyd observatory": {
+    "address": "Mount Pleasant",
+    "country": "USA",
+    "name": "Hartung Boothroyd Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "NY",
+    "telescope": "25-inch Houck",
+    "website": "http://coursewiki.astro.cornell.edu/Astro4410/HartungBoothroydObservatory"
+  },
+  "harvard college observatory (hco)": {
+    "address": "Harvard College",
+    "name": "Harvard College Observatory (HCO)",
+    "phone": "617-495-9059",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MA",
+    "telescope": "15-inch refractor",
+    "website": "http://www.cfa.harvard.edu/hco"
   },
   "harvard-smithsonian center for astrophysics": {
     "# members": "",
@@ -8660,6 +9583,27 @@
     ],
     "website": ""
   },
+  "hat creek radio observatory (hcro)": {
+    "address": "42231 Bidwell Rd, CA 96040, USA",
+    "name": "Hat Creek Radio Observatory (HCRO)",
+    "notes": "75 miles E of Redding",
+    "phone": "530-335-2364",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "42-dish Allen Telescope Array (ATA)",
+    "website": "http://www.sri.com/research-development/specialized-facilities/hat-creek-radio-observatory"
+  },
+  "hat network": {
+    "country": "USA",
+    "name": "HAT Network",
+    "notes": "6 x 11cm telescopes",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "website": "https://www.cfa.harvard.edu/~gbakos/HAT/"
+  },
   "hawaiian astronomical society": {
     "address": "P.O. Box 17671",
     "location": "Honolulu,Hawaii",
@@ -8669,6 +9613,30 @@
       "astroleague.com"
     ],
     "website": "http://www.hawastsoc.org/"
+  },
+  "haystack observatory": {
+    "address": "1 Millstone Road, MA 1886, USA",
+    "email": "info@haystack.mit.edu",
+    "name": "Haystack Observatory",
+    "phone": "781-981-5400",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "37m Haystack, 18.3m Westford radio telescopes",
+    "website": "http://www.haystack.mit.edu/"
+  },
+  "hector j. robinson observatory": {
+    "address": "1650 Champaign",
+    "country": "USA",
+    "email": "hjrobservatory@gmail.com",
+    "name": "Hector J. Robinson Observatory",
+    "phone": "313-389-0200",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MI",
+    "telescope": "14-inch SCT",
+    "website": "http://www.lincolnparkpublicschools.com/web/index.php?page=home&iduser;=326"
   },
   "hegyhati csillagvizsgalo  -  hegyhati observatory": {
     "address": "H-9915 HEGYHATSAL, Fo u. 19.",
@@ -8725,6 +9693,19 @@
     ],
     "website": "http://www.helas.gr/"
   },
+  "henry barber research observatory": {
+    "country": "USA",
+    "email": "schweighauser.charles@uis.edu",
+    "name": "Henry Barber Research Observatory",
+    "phone": "217-786-6720",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "IL",
+    "telescope": "20-inch, 16-inch Cassegrain  telescopes",
+    "website": "https://edocs.uis.edu/jmart5/www/barber/index.html",
+    "zip": "62793-9243"
+  },
   "henry c. gibson obs.": {
     "# members": "",
     "address": "South Florida Science Museum4801 Dreher Trail N.West Palm BeachFlorida 33405 USA",
@@ -8736,6 +9717,18 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "hidden valley observatory": {
+    "address": "4715 Hidden Valley Rd",
+    "country": "USA",
+    "email": "sparker@rap.midco.net",
+    "name": "Hidden Valley Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "SD",
+    "telescope": "12.5-inch reflector",
+    "website": "http://ggladfelter.net/BHAS/HVO.htm"
   },
   "high desert astronomical society, inc.": {
     "address": "17500 Mana Road",
@@ -8789,6 +9782,19 @@
     ],
     "website": "http://hac.wku.edu"
   },
+  "hirsch observatory": {
+    "address": "Jonsson-Rowland  science center, Rensselaer Polytechnic Institute",
+    "country": "USA",
+    "email": "jcassidy@prudentialmanor.com",
+    "name": "Hirsch Observatory",
+    "phone": "518-423-3510",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "NY",
+    "telescope": "16-inch Boller & Chivens",
+    "website": "http://www.rpi.edu/dept/phys/observatory/index.html"
+  },
   "historical and astronomical association": {
     "address": "Poziarna 1644/10, Puchov 02001",
     "contact": "Jakub Kapus",
@@ -8823,6 +9829,27 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "hobbs observatory": {
+    "address": "Beaver Creek Reserve, S-1 County Rd K, WI 54742, USA",
+    "name": "Hobbs Observatory",
+    "phone": "715-877-2212",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24-inch, 14-inch telescopes",
+    "website": "http://cvastro.org"
+  },
+  "holcomb observatory": {
+    "address": "4600 Sunset, Butler Univ, IN 46208, USA",
+    "email": "holcomb@tekel.butler.edu",
+    "name": "Holcomb Observatory",
+    "phone": "317-940-8333",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "38-inch Cassegrain",
+    "website": "http://www.butler.edu/holcomb-observatory/"
   },
   "holmes community college observatory": {
     "# members": "",
@@ -8859,6 +9886,18 @@
       "skyandtelescope.com"
     ],
     "website": "http://www.williams.edu/Astronomy"
+  },
+  "hopkins observatory": {
+    "address": "33 Lab Campus Drive",
+    "name": "Hopkins Observatory",
+    "phone": "413-597-2482",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MA",
+    "telescope": "7-inch refractor",
+    "website": "http://astronomy.williams.edu/hopkins-observatory/",
+    "zip": "01267"
   },
   "horizon planetary observatory": {
     "# members": "",
@@ -8925,6 +9964,17 @@
       "astroleague.com"
     ],
     "website": "http://www.howardastro.org"
+  },
+  "howell observatory": {
+    "address": "E Line Rd, MSU",
+    "country": "USA",
+    "name": "Howell Observatory",
+    "phone": "662-325-2806",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MS",
+    "website": "http://www.physics.msstate.edu/resources/observatory.php"
   },
   "hrvatski astronomski savez - croatian astronomical union": {
     "address": "Zagrebacka 2, HR-51550 Mali Losinj, Hrvatska/Croatia",
@@ -9258,6 +10308,16 @@
     ],
     "website": ""
   },
+  "jack c. davis observatory": {
+    "address": "2699 Van Patten Drive, NV 89703, USA",
+    "name": "Jack C. Davis Observatory",
+    "phone": "775-445-3311",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch, 14-inch, 10-inch telescopes",
+    "website": "http://www.wnc.edu/observatory/"
+  },
   "jackson astronomical association": {
     "address": "P. O. Box 766",
     "location": "Clinton,Mississippi",
@@ -9267,6 +10327,17 @@
       "astroleague.com"
     ],
     "website": "http://www.jacksonastro.org"
+  },
+  "james & barbara moore observatory": {
+    "address": "26300 Airport Road, Edison State College",
+    "country": "USA",
+    "name": "James & Barbara Moore Observatory",
+    "phone": "941-637-3518",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "FL",
+    "website": "https://www.edison.edu/charlotte/observatory"
   },
   "james and barbara moore observatory": {
     "# members": "",
@@ -9291,6 +10362,27 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "james c. veen observatory": {
+    "address": "3308 Kissing Rock Rd., MI 49331, USA",
+    "email": "graaa@graaa.org",
+    "name": "James C. Veen Observatory",
+    "notes": "Grand Rapids Amateur Astronomical Association",
+    "phone": "616-897-7065",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch, 14-inch Schmidt-Cassegrains; 17-inch Dobsonian"
+  },
+  "james clerk maxwell telescope": {
+    "country": "USA",
+    "name": "James Clerk Maxwell Telescope",
+    "notes": "15m submillimeter-wave telescope",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://www.jach.hawaii.edu/JCMT/"
   },
   "james lipp observatory": {
     "# members": "",
@@ -9374,6 +10466,17 @@
     ],
     "website": ""
   },
+  "jewett observatory": {
+    "address": "Observatory Drive, Washington State University, WA 99164, USA",
+    "email": "physics@wsu.edu",
+    "name": "Jewett Observatory",
+    "phone": "509-335-1698",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "12-inch refractor",
+    "website": "http://astro.wsu.edu/observatory.html"
+  },
   "jogja astro club  jac": {
     "address": "Jl. Gejayan Soropadan CC XII / 4 Yogyakarta 55283",
     "contact": "Mutoha Arkanuddin",
@@ -9433,6 +10536,17 @@
     ],
     "website": ""
   },
+  "john c. hook memorial observatory": {
+    "address": "Indiana State Univ., IN 47809, USA",
+    "email": "jfoster19@sycamores.indstate.edu",
+    "name": "John C. Hook Memorial Observatory",
+    "phone": "812-237-2444",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "14-inch, 10-inch reflectors",
+    "website": "https://indstate.edu/ees/Observatory.htm"
+  },
   "john h. witte obs.": {
     "# members": "",
     "address": "Big Hollow ParkP.O. Box 14West BurlingtonIowa 52601 USA",
@@ -9457,6 +10571,29 @@
     ],
     "website": "http://www.mccarthyobservatory.org/obsmain/obs001.htm"
   },
+  "john j. mccarthy observatory (jjmo)": {
+    "address": "Route 7, New Milford High School",
+    "country": "USA",
+    "email": "mccarthy.observatory@gmail.com",
+    "name": "John J. McCarthy Observatory (JJMO)",
+    "phone": "860-946-0312",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "CT",
+    "telescope": "16-inch, 10-inch, 8-inch, 7-inch telescopes",
+    "website": "http://www.mccarthyobservatory.org"
+  },
+  "john payson williston observatory": {
+    "address": "206 Kendade, Mount Holyoke campus, MA 01075, USA",
+    "name": "John Payson Williston Observatory",
+    "phone": "413-538-2114",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24-inch Ritchey-Chretien reflector, 8-inch Clark refractor",
+    "website": "https://www.mtholyoke.edu/acad/astronomy/williston"
+  },
   "john w. h. simpson obs.": {
     "# members": "",
     "address": "P.O. Box 2017PrincetonNew Jersey 8543 USA",
@@ -9468,6 +10605,16 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "john w. h. simpson observatory": {
+    "address": "Nature Center, Washington Crossing Park, NJ 8543, USA",
+    "name": "John W. H. Simpson Observatory",
+    "phone": "609-737-2575",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "14-inch reflector, 6.25-inch refractor",
+    "website": "http://www.princetonastronomy.org/insidewc.html"
   },
   "jordanian astronomical society": {
     "address": "P.o.Box.141568, AMMAN 11814 , ,  Jordan",
@@ -9492,6 +10639,27 @@
     ],
     "website": "http://www.nmc.edu/~rogers/"
   },
+  "joseph h. rogers observatory": {
+    "address": "1753 Birmley Rd, NMC campus, MI 49684, USA",
+    "name": "Joseph H. Rogers Observatory",
+    "phone": "231-946-1787",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "14-inch reflector",
+    "website": "https://www.nmc.edu/resources/observatory/"
+  },
+  "joseph j. casby observatory": {
+    "address": "1553 Stagecoach Trail S., MN 55001, USA",
+    "name": "Joseph J. Casby Observatory",
+    "notes": "part of Eagle Creek Observatory",
+    "phone": "952-467-2426",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "10-inch refractor",
+    "website": "http://www.mnastro.org/facilities/casby.htm"
+  },
   "juarez astronomical society": {
     "address": "Juarez Autonomous University, Engineering Dept., Juarez,  Mexico",
     "contact": "Francisco Salvador Ramirez",
@@ -9502,6 +10670,16 @@
       "astronomyclubs.com"
     ],
     "website": ""
+  },
+  "judson b. coit memorial observatory": {
+    "address": "Boston Univ, 725 Commonwealth Ave., MA 2215, USA",
+    "name": "Judson B. Coit Memorial Observatory",
+    "phone": "617-353-2630",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "14-inch, 10-inch reflectors; 6.5-inch refractor",
+    "website": "http://www.bu.edu/astronomy/astronomy-department-facilities/teaching-facilities/judson-b-coit-observ"
   },
   "judson boardman coit memorial obs.": {
     "# members": "",
@@ -9580,6 +10758,15 @@
     ],
     "website": "http://www.kaowichita.com/"
   },
+  "kansas wesleyan observatory": {
+    "address": "100 E. Claflin, Kansas Wesleyan U, KS 67401, USA",
+    "name": "Kansas Wesleyan Observatory",
+    "phone": "785-827-5541",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch telescope"
+  },
   "kansas wesleyan univ. obs.": {
     "# members": "",
     "address": "100 E. ClaflinSalinaKansas 67401 USA",
@@ -9602,6 +10789,18 @@
       "astronomyclubs.com"
     ],
     "website": "http://www.kaasts.com"
+  },
+  "karl g. jansky very large array (vla)": {
+    "address": "P.O. Box O, NM 87801, USA",
+    "email": "info@nrao.edu",
+    "name": "Karl G. Jansky Very Large Array (VLA)",
+    "notes": "part of National Radio Astronomy Observatories (NRAO)",
+    "phone": "575-835-7000",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "27 x 25m radio telescopes",
+    "website": "http://www.vla.nrao.edu"
   },
   "karlskrona astronomifa rening": {
     "address": "N. MA\u0014llebacksgrA\u000fnd 2, Karlskrona, 371 34 Sweden",
@@ -9635,6 +10834,15 @@
     ],
     "website": "http://www.keasa.org"
   },
+  "keasa observatory": {
+    "address": "Kokee Park, HI 96765, USA",
+    "name": "KEASA Observatory",
+    "notes": "US Naval facility",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "website": "http://www.keasa.org/"
+  },
   "keeble obs.": {
     "# members": "",
     "address": "Randolph-Macon CollegeAshlandVirginia 23005 USA",
@@ -9646,6 +10854,17 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "keeble observatory": {
+    "address": "Calhoun St, Randolph-Macon College, VA 23005, USA",
+    "email": "gspagna@rmc.edu",
+    "name": "Keeble Observatory",
+    "phone": "804-752-3210",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "12-inch reflector, 3m radio telescope",
+    "website": "http://www.rmc.edu/Academics/physics/keeble.aspx"
   },
   "keene amateur astronomers": {
     "address": "",
@@ -9679,6 +10898,17 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "kennon observatory": {
+    "address": "Dept. of Physics, Univ. of Mississippi",
+    "country": "USA",
+    "name": "Kennon Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MS",
+    "telescope": "15-inch reflector, 5-inch refractor",
+    "website": "http://www.olemiss.edu/research/atmospheric_physics/PhysBldgs1.html"
   },
   "kennymetta": {
     "address": "93,jln sj 32,selayang jaya",
@@ -9769,6 +10999,15 @@
     ],
     "website": ""
   },
+  "kingsburg observatory": {
+    "address": "1099 18th Ave, CA 93631, USA",
+    "name": "Kingsburg Observatory",
+    "phone": "559-292-2753",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "website": "http://nightsky.jpl.nasa.gov/event-view.cfm?Event_ID=33125"
+  },
   "kingston centre  rasc": {
     "address": "Box 1793, Kingston, ON K7L 5J6 Canada",
     "contact": "John Hurley",
@@ -9789,6 +11028,18 @@
       "astroleague.com"
     ],
     "website": "/"
+  },
+  "kirkwood observatory": {
+    "address": "Indiana University",
+    "country": "USA",
+    "name": "Kirkwood Observatory",
+    "phone": "812-855-7736",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "IN",
+    "telescope": "12-inch refractor, solar telescope",
+    "website": "http://www.astro.indiana.edu/kirkwood.shtml"
   },
   "kiski astronomers": {
     "address": "",
@@ -9845,6 +11096,20 @@
       "skyandtelescope.com"
     ],
     "website": "http://www.noao.edu"
+  },
+  "kitt peak national observatories (kpno)": {
+    "country": "USA",
+    "email": "kpno@noao.edu",
+    "name": "Kitt Peak National Observatories (KPNO)",
+    "notes": "Division of National Optical Astronomy Observatory (NOAO)",
+    "phone": "520-318-8600",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "telescope": "22 optical and 2 radio telescopes",
+    "website": "http://www.noao.edu/kpno/",
+    "zip": "85726"
   },
   "klubi i prishtines": {
     "address": "Kosova, UNMIK, Prishtina",
@@ -9909,6 +11174,16 @@
       "astroleague.com"
     ],
     "website": "http://www.kopernikastro.org"
+  },
+  "kopernik observatory": {
+    "address": "698 Underwood Road, NY 13850, USA",
+    "email": "info@kopernik.org",
+    "name": "Kopernik Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "20-inch, 14-inch reflectors; 6-inch refractor",
+    "website": "http://www.kopernik.org/"
   },
   "kosmandu astronomical society": {
     "address": "Kathmandu",
@@ -10045,6 +11320,16 @@
     ],
     "website": "http://laverdadinternacional.com"
   },
+  "ladd observatory": {
+    "address": "210 Doyle Avenue, RI 02906, USA",
+    "name": "Ladd Observatory",
+    "phone": "401-863-2323",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "12-inch refractor",
+    "website": "http://www.brown.edu/Departments/Physics/Ladd/"
+  },
   "lahore astronomical society": {
     "address": ",  Pakistan",
     "contact": "Muhammad Naveed",
@@ -10067,6 +11352,16 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "lake afton public observatory": {
+    "address": "1845 Fairmount, KS 67260-0032, USA",
+    "name": "Lake Afton Public Observatory",
+    "phone": "316-978-7827",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch telescope",
+    "website": "http://webs.wichita.edu/lapo/"
   },
   "landelijk samenwerkende volkssterrenwachten": {
     "# members": "",
@@ -10091,6 +11386,18 @@
     ],
     "website": "http://langitselatan.com"
   },
+  "lanihuli observatory": {
+    "address": "Windward Community College",
+    "country": "USA",
+    "email": "ciotti@hawaii.edu",
+    "name": "Lanihuli Observatory",
+    "notes": "radio telescope",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://jupiter.wcc.hawaii.edu/newradiojove/lanihuli.html"
+  },
   "laramie astronomical society and space observers": {
     "address": "1860 North 23rd Street",
     "location": "Laramie,Wyoming",
@@ -10100,6 +11407,17 @@
       "astroleague.com"
     ],
     "website": "http://www.lariat.org/LASSO"
+  },
+  "large binocular telescope observatory (lbt)": {
+    "country": "USA",
+    "name": "Large Binocular Telescope Observatory (LBT)",
+    "notes": "part of Mt. Graham International Observatories (MGIO)",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "telescope": "2 x 8.4m telescopes",
+    "website": "http://www.lbto.org"
   },
   "las brisas obs.": {
     "# members": "",
@@ -10112,6 +11430,18 @@
       "skyandtelescope.com"
     ],
     "website": "http://www.LBO.teuton.org"
+  },
+  "las brisas observatory": {
+    "address": "Las Brisas ranch, CO 80934, USA",
+    "email": "w0rw1@msn.com",
+    "name": "Las Brisas Observatory",
+    "notes": "11 miles W of Pikes Peak",
+    "phone": "719-632-2829",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "14-inch SCT",
+    "website": "http://www.lbo.teuton.org"
   },
   "las vegas astronomical society": {
     "address": "c/o CSN Planetarium, Sort Code S1A, 3200 E. Cheyenne Ave",
@@ -10146,6 +11476,15 @@
     ],
     "website": ""
   },
+  "laws observatory": {
+    "address": "Astronomy & Physics Bldg, UMC, MO 65211, USA",
+    "name": "Laws Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch SCT telescope",
+    "website": "http://www.cmaaastro.com/localobservatories.html"
+  },
   "leander mccormick obs.": {
     "# members": "",
     "address": "Univ. of VirginiaP.O. Box 3818CharlottesvilleVirginia 22903 USA",
@@ -10157,6 +11496,17 @@
       "skyandtelescope.com"
     ],
     "website": "http://www.astro.virginia.edu/"
+  },
+  "leander mccormick observatory": {
+    "address": "Univ. of Virginia campus, VA 22903, USA",
+    "email": "pai@faraday.clas.virginia.edu",
+    "name": "Leander McCormick Observatory",
+    "phone": "434-924-7494",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "26-inch & 6-inch Clark refractors, 10-inch reflector",
+    "website": "http://www.astro.virginia.edu/research/observatories/McCormick.php"
   },
   "lebanese astronomy group": {
     "address": "Beirut, Lebanon",
@@ -10180,6 +11530,16 @@
     ],
     "website": ""
   },
+  "leeward college observatory": {
+    "address": "Leeward Community College, HI 96782, USA",
+    "email": "skwok@hawaii.edu",
+    "name": "Leeward College Observatory",
+    "phone": "808-455-0261",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "website": "http://www.spacegrant.hawaii.edu/leeward.hsgc.html"
+  },
   "leicester university observatory": {
     "# members": "",
     "address": "Astronomy Group, University of LeicesterUniversity Rd.Leicester LE1 7RH United Kingdom",
@@ -10202,6 +11562,19 @@
       "astronomyclubs.com"
     ],
     "website": "http://www.uni-leipzig.de/~stern/"
+  },
+  "leitner family observatory": {
+    "address": "355 Prospect Street, Yale Univ.",
+    "country": "USA",
+    "email": "info@leitnerobservatory.org",
+    "name": "Leitner Family Observatory",
+    "phone": "203-285-8840",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "CT",
+    "telescope": "16-inch reflector, 8-inch Reed refractor",
+    "website": "http://leitnerobservatory.org"
   },
   "lenore and walter hawley observatory": {
     "# members": "",
@@ -10270,6 +11643,16 @@
     ],
     "website": ""
   },
+  "leuschner observatory": {
+    "address": "4927 Happy Valley Road, CA 94549, USA",
+    "name": "Leuschner Observatory",
+    "phone": "415-642-5275",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "30-inch optical, 3.6m radio telescopes",
+    "website": "http://ugastro.berkeley.edu/leuschner/"
+  },
   "lick observatory": {
     "# members": "",
     "address": "P.O. Box 85Mount HamiltonCalifornia 95140 USA",
@@ -10281,6 +11664,29 @@
       "skyandtelescope.com"
     ],
     "website": "http://www.ucolick.org"
+  },
+  "ligo livingston observatory": {
+    "address": "19100 LIGO Lane, LA 70754, USA",
+    "name": "LIGO Livingston Observatory",
+    "notes": "giaime@ligo-la.caltech.edu",
+    "phone": "225-686-3100",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "laser interferometer gravitational-wave observatory (LIGO)",
+    "website": "http://www.ligo-la.caltech.edu/"
+  },
+  "ligo observatory": {
+    "address": "Hanford Nuclear Reservation",
+    "country": "USA",
+    "email": "lsc-epo@ligo.org",
+    "name": "LIGO Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "WA",
+    "telescope": "4000m laser interferometer gravitational-wave observatory (LIGO)",
+    "website": "http://www.ligo.org"
   },
   "lillehammer astronomiske forening": {
     "address": "P.O. Box 57, Lillehammer, 2601 Norway",
@@ -10357,6 +11763,20 @@
     ],
     "website": "http://www.lgdso.com/LGDSO/Home.html"
   },
+  "loines observatory": {
+    "address": "59 Milk Street",
+    "email": "vladimir@mmo.org",
+    "name": "Loines Observatory",
+    "notes": "Maria Mitchell Association",
+    "phone": "508-228-9273",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MA",
+    "telescope": "24-inch reflector, 7.5-inch Clark refractor",
+    "website": "http://www.mariamitchell.org/visit/loines-observatory",
+    "zip": "02554"
+  },
   "lollands astronomiske forening": {
     "address": "Sdr. Boulevard 90, Maribo, 4930 Denmark",
     "contact": "Ulla Midjord",
@@ -10378,6 +11798,18 @@
       "astronomyclubs.com"
     ],
     "website": "http://www.rasc.ca/london"
+  },
+  "long wavelength array (lwa)": {
+    "country": "USA",
+    "name": "Long Wavelength Array (LWA)",
+    "notes": "under construction",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "NM",
+    "telescope": "53-station radio array with 256 antennas each",
+    "website": "http://lwa.phys.unm.edu/",
+    "zip": "87801"
   },
   "longmont astronomical society": {
     "address": "P.O. Box 806",
@@ -10412,6 +11844,16 @@
       "skyandtelescope.com"
     ],
     "website": "http://users.twave.net/jafowiz/lmo.htm"
+  },
+  "lucille miller observatory": {
+    "address": "North C Avenue, NC 28610, USA",
+    "name": "Lucille Miller Observatory",
+    "phone": "828-850-6433",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "25-inch, 11-inch, (2) 10-inch, (2) 8-inch telescopes",
+    "website": "http://www.catawbasky.org/lmo/dirmap.asp"
   },
   "ludvika astronomiska f rening": {
     "address": "Kyndelstigen 9, Ludvika, 771 43 Sweden",
@@ -10481,6 +11923,17 @@
     ],
     "website": ""
   },
+  "macalester college observatory": {
+    "address": "1600 Grand Avenue, Olin-Rice Hall, MN 55105, USA",
+    "email": "spangardk@macalester.edu",
+    "name": "Macalester College Observatory",
+    "phone": "651-696-6105",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch telescope",
+    "website": "http://www.macalester.edu/academics/physics/teachingresearch/facilities/observatory/"
+  },
   "macarthur astronomical society": {
     "address": "PO Box 17 Minto 2566",
     "contact": "John Rombi",
@@ -10546,6 +11999,29 @@
     ],
     "website": ""
   },
+  "manastash ridge observatory (mro)": {
+    "address": "Manastash Ridge",
+    "country": "USA",
+    "email": "laws@astro.washington.edu",
+    "name": "Manastash Ridge Observatory (MRO)",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "WA",
+    "telescope": "30-inch Boller and Chivens telescope",
+    "website": "http://www.astro.washington.edu/users/laws/MRO/home.page/"
+  },
+  "margaret m. jacoby observatory": {
+    "address": "400 East Ave, Knight Campus, RI 2886, USA",
+    "email": "bbritton@ccri.edu",
+    "name": "Margaret M. Jacoby Observatory",
+    "phone": "401-825-2259",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch telescope",
+    "website": "http://www.ccri.edu/physics/observatory.html"
+  },
   "maria mitchell obs.": {
     "# members": "",
     "address": "3 Vestal St.NantucketMassachusetts 02554 USA",
@@ -10568,6 +12044,17 @@
     ],
     "website": "http://www.geocities.com/sstobbelaar/MASmembership.html"
   },
+  "martz observatory": {
+    "address": "176 Robbin Hill Rd, NY 14738, USA",
+    "email": "martzobservatory@hotmail.com",
+    "name": "Martz Observatory",
+    "phone": "716-569-3689",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24-inch inch Newtonian",
+    "website": "http://www.martzobservatory.org/"
+  },
   "maryland space grant consortium obs.": {
     "# members": "",
     "address": "Bloomberg Center for Physics and AstronomyThe Johns Hopkins University, 3400 N. Charles St.BaltimoreMaryland 21218 USA",
@@ -10579,6 +12066,16 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "maryland space grant observatory": {
+    "address": "3400 N. Charles St, John Hopkins Univ., MD 21218, USA",
+    "name": "Maryland Space Grant Observatory",
+    "phone": "410-516--6525",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "20-inch reflector",
+    "website": "http://md.spacegrant.org/index.php?page=maryland-space-grant-observatory"
   },
   "mason star gazers": {
     "address": "410 Post Hill",
@@ -10602,6 +12099,18 @@
     ],
     "website": ""
   },
+  "mauna loa observatory": {
+    "country": "USA",
+    "email": "John.E.Barnes@noaa.gov",
+    "name": "Mauna Loa Observatory",
+    "notes": "NOAA atmospheric research",
+    "phone": "808-933-6965",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://www.esrl.noaa.gov/gmd/obop/mlo/"
+  },
   "may born club nigeria": {
     "address": "35 OBAFEMI AWOLOWO WAY,IKEJA,LAGOS ,NIGERIA",
     "contact": "MR JOEL MAY",
@@ -10612,6 +12121,27 @@
       "astronomyclubs.com"
     ],
     "website": ""
+  },
+  "mayall 4m telescope": {
+    "country": "USA",
+    "name": "Mayall 4M Telescope",
+    "notes": "part of Kitt Peak National Observatories (KPNO) complex",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "telescope": "4m telescope",
+    "website": "http://www.noao.edu/outreach/kptour/mayall.html"
+  },
+  "maynard f. jordan observatory": {
+    "address": "Memorial Union, Univ. of Maine, ME 04469, USA",
+    "name": "Maynard F. Jordan Observatory",
+    "phone": "207-581-1348",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "8-inch Clark refractor",
+    "website": "http://www.galaxymaine.com/OB/OB.htm"
   },
   "mccollum obs.": {
     "# members": "",
@@ -10625,6 +12155,16 @@
     ],
     "website": ""
   },
+  "mccollum observatory": {
+    "address": "Dept. of Earth Science, Univ. of Northern Iowa, IA 50614, USA",
+    "email": "morgans@uni.edu",
+    "name": "McCollum Observatory",
+    "phone": "319-273-2389",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "website": "http://www.uni.edu/earth/content/observatory-visit"
+  },
   "mcdonald obs.": {
     "# members": "",
     "address": "P.O. Box 1337Fort DavisTexas 79734 USA",
@@ -10637,6 +12177,18 @@
     ],
     "website": "http://www.as.utexas.edu"
   },
+  "mcdonald observatory": {
+    "address": "3640 Dark Sky Drive, TX 79734, USA",
+    "email": "news@mcdonaldobservatory.org",
+    "name": "McDonald Observatory",
+    "notes": "9.2m Hobby-Eberly Telescope on nearby Mt. Fowlkes",
+    "phone": "512-475-6763",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "2.7m, 2.1m, 2.1m, 0.9m, 0.8m telescopes",
+    "website": "http://mcdonaldobservatory.org"
+  },
   "mckim obs.": {
     "# members": "",
     "address": "De Pauw Univ.GreencastleIndiana 46135 USA",
@@ -10648,6 +12200,80 @@
       "skyandtelescope.com"
     ],
     "website": "http://www.depauw.edu/phys/mckim.htm"
+  },
+  "mckim observatory": {
+    "address": "DePauw Avenue, De Pauw Univ., IN 46135, USA",
+    "name": "McKim Observatory",
+    "phone": "765-658-4661",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "9.5-inch Clark refractor",
+    "website": "http://www.depauw.edu/academics/departments-programs/physics-astronomy/mckim-observatory/"
+  },
+  "mcmath-pierce solar telescope": {
+    "country": "USA",
+    "name": "McMath-Pierce Solar Telescope",
+    "notes": "part of Kitt Peak National Observatories (KPNO) complex",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "telescope": "1.6m solar telescope",
+    "website": "http://nsokp.nso.edu/mp/"
+  },
+  "mdm observatory": {
+    "country": "USA",
+    "name": "MDM Observatory",
+    "notes": "part of Kitt Peak National Observatories (KPNO) complex",
+    "phone": "520-318-8661",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "telescope": "2.4m Hiltner & 1.3m McGraw-Hill telescopes",
+    "website": "https://dept.astro.lsa.umich.edu/obs/mdm/"
+  },
+  "mead observatory": {
+    "address": "701 Front Ave, Columbia State University, GA 31901, USA",
+    "name": "Mead Observatory",
+    "notes": "Coca-Cola Space Center",
+    "phone": "706-649-1477",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch telescope",
+    "website": "http://www.ccssc.org/observatory.html"
+  },
+  "mearth project": {
+    "country": "USA",
+    "name": "MEarth Project",
+    "notes": "8 x 16\" telescopes",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "website": "http://www.cfa.harvard.edu/MEarth/"
+  },
+  "mees solar observatory": {
+    "country": "USA",
+    "name": "MEES Solar Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://www.ifa.hawaii.edu/haleakalanew/observatories.shtml"
+  },
+  "mehalso observatory": {
+    "address": "Otto Behrend Science Bldg, Penn State",
+    "country": "USA",
+    "name": "Mehalso Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "PA",
+    "telescope": "16-inch, 12-inch reflectors",
+    "website": "http://psbehrend.psu.edu/school-of-science/laboratory-facilities/mehalso-observatory-astronomy"
   },
   "melbourne astronomical society": {
     "address": "",
@@ -10671,6 +12297,39 @@
     ],
     "website": ""
   },
+  "melton memorial observatory": {
+    "address": "1429 Greene Street, Univ. of SC, SC 29208, USA",
+    "email": "melton@physics.sc.edu",
+    "name": "Melton Memorial Observatory",
+    "phone": "803-777-4180",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "website": "http://boson.physics.sc.edu/~melton"
+  },
+  "mendenhall observatory": {
+    "country": "USA",
+    "email": "pos@okstate.edu",
+    "name": "Mendenhall Observatory",
+    "phone": "405-744-5785",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "OK",
+    "telescope": "24-inch, 14-inch telescopes",
+    "website": "http://www.physics.okstate.edu/observatory/",
+    "zip": "74078"
+  },
+  "menke observatory": {
+    "address": "Wapsi River campground, IA 52803, USA",
+    "email": "MitchellRobertC@sau.edu",
+    "name": "Menke Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "14-inch, 12-inch telescopes",
+    "website": "http://web.sau.edu/astronomy/menke/"
+  },
   "merritt astronomical society": {
     "address": "34356 Mendham St",
     "contact": "Paul Greenhalgh (Vice President)",
@@ -10692,6 +12351,18 @@
       "astronomyclubs.com"
     ],
     "website": ""
+  },
+  "meyer-womble observatory": {
+    "address": "Mt. Evans Rd",
+    "country": "USA",
+    "name": "Meyer-Womble Observatory",
+    "notes": "37 miles W of Denver",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "CO",
+    "telescope": "0.7m Meyer Binocular Telescope",
+    "website": "http://mysite.du.edu/~rstencel/MtEvans/"
   },
   "miami valley astronomical society": {
     "address": "",
@@ -10878,6 +12549,18 @@
     ],
     "website": ""
   },
+  "millstone hill observatory": {
+    "address": "1 Millstone Road",
+    "country": "USA",
+    "name": "Millstone Hill Observatory",
+    "notes": "part of Haystack Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MA",
+    "telescope": "67m, 46m scatter radio telescopes",
+    "website": "http://www.haystack.edu/atm/mho/"
+  },
   "millstream astronomy club": {
     "address": "",
     "location": "Findlay,Ohio",
@@ -10918,6 +12601,16 @@
       "astroleague.com"
     ],
     "website": "http://www.mnastro.org"
+  },
+  "mira weaver student observatory": {
+    "address": "200 8th St, CA 93933, USA",
+    "name": "MIRA Weaver Student Observatory",
+    "phone": "831-883-1000",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "14-inch SCT telescope",
+    "website": "http://www.mira.org/museum/wso.htm"
   },
   "mission  avishkar": {
     "address": "C/o-69-Godavari,Ulkanagari,Aurangabad, Maharastra,INDIA",
@@ -10998,6 +12691,19 @@
     ],
     "website": "http://skywatch.brainiac.com/astroland/"
   },
+  "modine-benstead observatory": {
+    "address": "63rd Drive & Planck Rd",
+    "country": "USA",
+    "name": "Modine-Benstead Observatory",
+    "notes": "Racine Astronomical Society",
+    "phone": "262-878-2774",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "WI",
+    "telescope": "16-inch, 14-inch telescopes",
+    "website": "http://www.rasastro.org/observatory.htm"
+  },
   "moerser astronomische organisation": {
     "address": "Postfach 101811, Moers, 47408 Germany",
     "contact": "Helmut Groell",
@@ -11053,6 +12759,40 @@
     ],
     "website": "http://www.astronomieschule.de"
   },
+  "moore observatory": {
+    "address": "Horner Wildlife Refuge",
+    "country": "USA",
+    "name": "Moore Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "KY",
+    "telescope": "24-inch Ritchie-Chretien, 20-inch telescopes",
+    "website": "http://www.astro.louisville.edu/moore/"
+  },
+  "morehead 21 antenna": {
+    "address": "235 Martindale Drive (MSU campus)",
+    "name": "Morehead 21 Antenna",
+    "phone": "606-783-2381",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "KY",
+    "telescope": "21m radio telescope",
+    "website": "http://www.moreheadstate.edu/content_template.aspx?id=11367",
+    "zip": "40351"
+  },
+  "morgan county observatory": {
+    "address": "8989 Winchester Grade Rd (Rt 13), WV 25411, USA",
+    "email": "dynsol@crosslink.net",
+    "name": "Morgan County Observatory",
+    "phone": "304-258-1013",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch dual Cassegrain/Newtonian",
+    "website": "http://www.nitesky.org"
+  },
   "morgan county observatory foundation": {
     "# members": "",
     "address": "81 Sparrow TrailBerkeley SpringsWest Virginia 25411 USA",
@@ -11065,6 +12805,17 @@
     ],
     "website": ""
   },
+  "morgan-monroe observatory": {
+    "address": "Morgan&ndash;Monroe State Forest",
+    "country": "USA",
+    "name": "Morgan-Monroe Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "IN",
+    "telescope": "1.25m Ritchey&ndash;Chretien, 16-inch Cassegrain",
+    "website": "http://www.astro.indiana.edu/morgan_monroe.shtml"
+  },
   "mornington peninsula astronomical society": {
     "address": "P.O. Box 596, Frankston, 3199, Victoria, Australia",
     "contact": "Peter Skilton",
@@ -11075,6 +12826,19 @@
       "astronomyclubs.com"
     ],
     "website": "http://www.mpas.websyte.com.au"
+  },
+  "morrison observatory": {
+    "address": "700 Park Road",
+    "country": "USA",
+    "email": "kwclark@centralmethodist.edu",
+    "name": "Morrison Observatory",
+    "phone": "660-248-6383",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MO",
+    "telescope": "12.25-inch Clark refractor",
+    "website": "http://www.centralmethodist.edu/about/morrison.php"
   },
   "mount diablo observatory assn.": {
     "# members": "",
@@ -11100,6 +12864,29 @@
     ],
     "website": ""
   },
+  "mount laguna observatory (mlo)": {
+    "address": "Morris Ranch Rd, CA 92182-1221, USA",
+    "email": "angione@mintaka.sdsu.edu",
+    "name": "Mount Laguna Observatory (MLO)",
+    "notes": "45 miles east of San Diego",
+    "phone": "619-594-6182",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "50-in Claud, 40-in MLO, 24-in Smith, 21-inch Buller telescopes",
+    "website": "http://mintaka.sdsu.edu/MLO/FACILITIES/Facilities.html"
+  },
+  "mount lemmon observatory (mlo)": {
+    "country": "USA",
+    "name": "Mount Lemmon Observatory (MLO)",
+    "notes": "part of Steward Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "telescope": "1.5m Steward, 1.5m MLOF, 1m CSS, 1m KASI telescopes",
+    "website": "http://en.wikipedia.org/wiki/Mount_Lemmon_Observatory"
+  },
   "mount stony brook obs.": {
     "# members": "",
     "address": "Suny Stony BrookDept. of Earth & Space ScienceStony BrookNew York 11794-2100 USA",
@@ -11111,6 +12898,29 @@
       "skyandtelescope.com"
     ],
     "website": "http://sbast3.ess.sunysb.edu/astro/home.html"
+  },
+  "mount stony brook observatory": {
+    "address": "Earth & Space Science Bldg, NY 11794, USA",
+    "email": "fwalter@astro.sunysb.edu",
+    "name": "Mount Stony Brook Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "14-inch Schmidt&ndash;Cassegrain",
+    "website": "http://www.astro.sunysb.edu/observer/mtsb.html"
+  },
+  "mount wilson observatory (mwo)": {
+    "address": "Mt Wilson Red Box Rd",
+    "country": "USA",
+    "name": "Mount Wilson Observatory (MWO)",
+    "notes": "32 miles NE of Los Angeles",
+    "phone": "626-440-9016",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "CA",
+    "telescope": "100-in, 60-in telescopes; solar tower, IR interferometer; CHARA array",
+    "website": "http://www.mtwilson.edu"
   },
   "mountain area research section": {
     "address": "",
@@ -11145,6 +12955,16 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "msu observatory": {
+    "address": "4299 Pavilion Dr, Michigan State Univ., MI 48910, USA",
+    "name": "MSU Observatory",
+    "phone": "517-353-4540",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24-inch reflector",
+    "website": "http://www.pa.msu.edu/astro/observ/"
   },
   "msu-iit astronomical society": {
     "address": "The Astronomical Society of the Iligan Institute of Technology of Mindanao State University",
@@ -11191,6 +13011,32 @@
     ],
     "website": ""
   },
+  "mt. cuba astronomical observatory": {
+    "address": "1610 Hillside Mill Road",
+    "email": "mtcuba@udel.edu",
+    "name": "Mt. Cuba Astronomical Observatory",
+    "notes": "ucational and research programs",
+    "phone": "302-654-6407",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "DE",
+    "telescope": "24-inch SCT, 4.5-inch refractor",
+    "website": "http://www.mountcuba.org",
+    "zip": "19807"
+  },
+  "mt. graham international observatories (mgio)": {
+    "country": "USA",
+    "name": "Mt. Graham International Observatories (MGIO)",
+    "notes": "division of Steward Observatory",
+    "phone": "928-428-2739",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "telescope": "LBT, 10m SMT, VATT radio telescopes",
+    "website": "http://mgio.arizona.edu"
+  },
   "mt. shasta stargazers": {
     "address": "",
     "location": "Mt. Shasta,California",
@@ -11200,6 +13046,15 @@
       "astroleague.com"
     ],
     "website": "http://www.mtshastastargazers.com"
+  },
+  "mtsu observatory": {
+    "address": "WPS Building, Middle Tennessee State Univ., TN 37132, USA",
+    "name": "MTSU Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch Schmidt-Cassegrain",
+    "website": "http://www.mtsu.edu/physics/ClassicalObservatory.php"
   },
   "muelimatt": {
     "# members": "",
@@ -11280,6 +13135,16 @@
     ],
     "website": ""
   },
+  "n. a. richardson observatory": {
+    "address": "San Bernardino Valley College, 701 S. Mount Vernon Ave., CA 92410, USA",
+    "name": "N. A. Richardson Observatory",
+    "phone": "909-384-4400",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch telescope",
+    "website": "http://www.valleycollege.edu/about-sbvc/facilities/observatory"
+  },
   "nabalu club": {
     "address": "",
     "contact": "Elden",
@@ -11357,6 +13222,17 @@
     ],
     "website": "http://www.naperastro.org"
   },
+  "nasa infrared telescope facility": {
+    "country": "USA",
+    "name": "NASA Infrared Telescope Facility",
+    "notes": "3.0m infrared telescope",
+    "phone": "808-956-8108",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://irtfweb.ifa.hawaii.edu/"
+  },
   "national capital astronomers": {
     "address": "",
     "location": ",District of Columbia",
@@ -11379,6 +13255,15 @@
     ],
     "website": "http://www.noao.edu"
   },
+  "national optical astronomy observatory": {
+    "address": "P.O. Box 26732, AZ 85726, USA",
+    "name": "National Optical Astronomy Observatory",
+    "phone": "520-318-8000",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "website": "http://www.noao.edu"
+  },
   "national radio astronomy obs.": {
     "# members": "",
     "address": "P.O. Box 2Green BankWest Virginia 24944 USA",
@@ -11391,6 +13276,17 @@
     ],
     "website": "http://www.nrao.edu"
   },
+  "national solar observatory (nso) dst": {
+    "address": "3010 Coronal Loop, NM 88349, USA",
+    "email": "sp@sunspot.noao.edu",
+    "name": "National Solar Observatory (NSO) DST",
+    "phone": "575-434-7000",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "60-inch Dunn Solar Telescope (DST)",
+    "website": "http://nsosp.nso.edu"
+  },
   "navajyoti youth club": {
     "address": "mahrahar 8, kalikasthan-rupandehi",
     "contact": "lalir bahadur shahi",
@@ -11401,6 +13297,16 @@
       "astronomyclubs.com"
     ],
     "website": ""
+  },
+  "naylor observatory": {
+    "address": "670 Observatory Dr., PA 17339, USA",
+    "name": "Naylor Observatory",
+    "notes": "Astronomical Society of Harrisburg",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "17-inch,(2) 14-inch, 12.5-inch reflectors",
+    "website": "http://www.astrohbg.org/ASH-i/Naylor_Observatory_info.html"
   },
   "ndu astronomy club": {
     "address": "Notre Dame University, Main Campus, Science Department, Zouk Mosbeh, Lebanon",
@@ -11532,6 +13438,17 @@
       "astroleague.com"
     ],
     "website": "/www.nhastro.org"
+  },
+  "new mexico state university (nmsu) telescope": {
+    "address": "2001 Apache Point Road, NM 88349, USA",
+    "name": "New Mexico State University (NMSU) Telescope",
+    "notes": "part of Apache Point Observatories (APO)",
+    "phone": "575-437-6822",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "1m robotic telescope",
+    "website": "http://nmsu1m.apo.nmsu.edu/1m/"
   },
   "newcastle university observatory": {
     "# members": "",
@@ -11675,6 +13592,17 @@
     ],
     "website": ""
   },
+  "north georgia college observatory (ngao)": {
+    "address": "3000 Dawsonville Hwy, GA 30597, USA",
+    "email": "observatory@ung.edu",
+    "name": "North Georgia College Observatory (NGAO)",
+    "phone": "706-864-8642",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch, 12-inch, 10-inch, 8-inch telescopes",
+    "website": "http://ung.edu/observatory/"
+  },
   "north houston astronomy club": {
     "address": "Kingwood College, 20000 Kingwood Drive",
     "location": "Kingwood,Texas",
@@ -11779,6 +13707,16 @@
       "astronomyclubs.com"
     ],
     "website": ""
+  },
+  "northern skies observatory": {
+    "address": "Peacham Elementary School, VT 05862, USA",
+    "name": "Northern Skies Observatory",
+    "notes": "Northeast Kingdom Astronomy Foundation",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "17-inch reflector",
+    "website": "http://www.nkaf.org"
   },
   "northern sky astronomical society": {
     "address": "",
@@ -11889,6 +13827,26 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "o'brien observatory": {
+    "address": "621 Nason Hill Rd N, MN 55047, USA",
+    "name": "O'Brien Observatory",
+    "phone": "651-433-3425",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "30-inch Cassegrain",
+    "website": "https://www.physics.umn.edu/outreach/reu/observatory.html"
+  },
+  "oak ridge observatory": {
+    "address": "40 Pinnacle Road, Harvard, MA 01451, USA",
+    "name": "Oak Ridge Observatory",
+    "notes": "aka George R. Agassiz Station",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "61-inch reflector, 84m radio telescope",
+    "website": "http://tdc-www.harvard.edu/oakridge/oakridge/"
   },
   "oakland astronomy club": {
     "address": "9496 Longmeadow St.",
@@ -12377,6 +14335,19 @@
     ],
     "website": "http://www.ovas.org"
   },
+  "oil region astronomical observatory": {
+    "address": "Two Mile Run County Park, Lockwood area",
+    "country": "USA",
+    "name": "Oil Region Astronomical Observatory",
+    "notes": "Oil Region Astronomical Society",
+    "phone": "814-437-2525",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "PA",
+    "telescope": "14-inch SCT",
+    "website": "http://www.oras.org/obsphoto.htm"
+  },
   "oil region astronomical society, inc.": {
     "address": "P. O. Box 1253",
     "location": "Oil City,Pennsylvania",
@@ -12575,6 +14546,26 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "orchard hill observatory": {
+    "address": "Amherst Campus, UM, MA 1002, USA",
+    "name": "Orchard Hill Observatory",
+    "phone": "413-545-0111",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch Cassegrain telescope",
+    "website": "http://www.astro.umass.edu/~orchardhill/"
+  },
+  "oregon observatory at sunriver": {
+    "address": "57245 River Road, OR 97707, USA",
+    "name": "Oregon Observatory at Sunriver",
+    "phone": "541-598-4406",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "30-inch, 20-inch, 18-inch, 14-inch, 11-inch, solar telescopes",
+    "website": "http://www.oregonobservatory.org"
   },
   "orion (oak ridge isochronous observation network)": {
     "address": "P. O. Box 7114",
@@ -13046,6 +15037,16 @@
     ],
     "website": "http://www.oaog.ca/"
   },
+  "otter creek observatory": {
+    "address": "850 Otter Creek Park Road",
+    "name": "Otter Creek Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "KY",
+    "website": "http://legacy.jefferson.kctcs.edu/observatory/",
+    "zip": "40108"
+  },
   "otter creek park observatory": {
     "# members": "",
     "address": "850 Otter Creek Park RoadBrandenburgKentucky 40108 USA",
@@ -13091,6 +15092,19 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "owens valley radio observatory (ovro)": {
+    "address": "Leighton Lane",
+    "country": "USA",
+    "name": "Owens Valley Radio Observatory (OVRO)",
+    "notes": "6 miles NE of Big Pine",
+    "phone": "760-938 2075",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "CA",
+    "telescope": "40m, 6.1m C-BASS, 2.1m KSRBL radio telescopes",
+    "website": "http://www.ovro.caltech.edu"
   },
   "ozarks amateur astronomers club": {
     "address": "901 S. National Ave, Missouri State University - Physics",
@@ -13179,6 +15193,15 @@
     ],
     "website": ""
   },
+  "pacific northwest regional observatory": {
+    "address": "Braden Farm, WA 99352, USA",
+    "name": "Pacific Northwest Regional Observatory",
+    "notes": "moved from Rattlesnake Mtn",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "30-inch Cassegrain telescope"
+  },
   "pakistan amateur astronomers": {
     "address": "A-444, Block-7, Gulistan-e-Jauhar, Karachi, Pakistan",
     "contact": "Dr. Muhammad Akbar Hussain Siddiqui",
@@ -13213,6 +15236,17 @@
     ],
     "website": ""
   },
+  "palomar observatory": {
+    "address": "35899 Canfield Rd, CA 92060, USA",
+    "name": "Palomar Observatory",
+    "notes": "90 miles SE of Los Angeles",
+    "phone": "760-742-2119",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "200-inch Hale, 48-inch Samuel Oschin, 24-inch, 18-inch telescopes",
+    "website": "http://www.astro.caltech.edu/palomar/"
+  },
   "palouse astronomical society": {
     "address": "",
     "location": "Pullman,Washington",
@@ -13222,6 +15256,18 @@
       "astroleague.com"
     ],
     "website": "http://www.palouseastro.wsu.edu"
+  },
+  "pan-starrs": {
+    "country": "USA",
+    "email": "pan-starrs@ifa.hawaii.edu",
+    "name": "Pan-STARRS",
+    "notes": "Two 1.8m telescopes (PS1, PS2)",
+    "phone": "808-988-8960",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://pan-starrs.ifa.hawaii.edu/public/home.html"
   },
   "panhandle astronomy club": {
     "address": "P.O. Box 987",
@@ -13244,6 +15290,17 @@
     ],
     "website": ""
   },
+  "patterson observatory (po)": {
+    "address": "University of Arizona South",
+    "country": "USA",
+    "name": "Patterson Observatory (PO)",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "telescope": "20-inch Ritchey-Chretien telescope",
+    "website": "http://www.hacastronomy.com/obs/po/"
+  },
   "paul p. feder observatory": {
     "# members": "",
     "address": "Regional Science CenterMinnesota State University MoorheadMoorheadMinnesota 56563 USA",
@@ -13255,6 +15312,27 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "paul robinson observatory": {
+    "address": "Observatory Road, Voorhees State Park, NJ 08829-0214, USA",
+    "name": "Paul Robinson Observatory",
+    "phone": "908-638-8500",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "26-inch, 12.5-inch, 10-inch, 8-inch telescopes",
+    "website": "http://www.njaa.org"
+  },
+  "peach mountain observatory": {
+    "address": "Stinchfield Woods",
+    "country": "USA",
+    "name": "Peach Mountain Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MI",
+    "telescope": "24-inch optical, 26m radio telescope",
+    "website": "http://www.umich.edu/~lowbrows/theclub/mcmath.html"
   },
   "penobscot valley stargazers": {
     "address": "72 Carmel Road South",
@@ -13336,6 +15414,16 @@
     ],
     "website": "http://www.perkins-observatory.org"
   },
+  "perkins observatory": {
+    "address": "Wesleyan Univ., OH 43015, USA",
+    "name": "Perkins Observatory",
+    "phone": "740-363-1257",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "32-inch telescope",
+    "website": "hthttp://perkins.owu.edu"
+  },
   "peterborough astronomical association": {
     "address": "10 Hazel Cres. R.R.#8 , Peterborough, ON K9J 6X9",
     "contact": "Rick Stankiewicz",
@@ -13346,6 +15434,15 @@
       "astronomyclubs.com"
     ],
     "website": "http://www.peterboroughastronomy.com"
+  },
+  "peyton observatory": {
+    "address": "Peyton Hall, Princeton University, NJ 8544, USA",
+    "name": "Peyton Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "12-inch Schmidt-Cassegrain",
+    "website": "http://www.astro.princeton.edu/observatory/publicobserving.php"
   },
   "philippine astronomical society": {
     "address": "Manila Observatory, Loyola Heights, Diliman, Quezon City",
@@ -13404,6 +15501,16 @@
     ],
     "website": ""
   },
+  "pikes peak observatory (future)": {
+    "address": "P.O. Box 49444, CO 80949, USA",
+    "email": "DKlebe@DU.edu",
+    "name": "Pikes Peak Observatory (future)",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "IR telescope",
+    "website": "http://www.uccs.edu/~ppo/PPOmain.html"
+  },
   "pine bluff observatory": {
     "# members": "",
     "address": "4065 Observatory Rd.Cross PlainsWisconsin 53528 USA",
@@ -13428,6 +15535,16 @@
     ],
     "website": ""
   },
+  "pine mountain observatory": {
+    "address": "Pine Mountain, OR 97401, USA",
+    "name": "Pine Mountain Observatory",
+    "notes": "26 miles SE of Bend",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "32-inch, 24-inch, 15-inch telescopes",
+    "website": "http://pmo-sun.uoregon.edu/"
+  },
   "pisgah astronomical research institute": {
     "# members": "NA",
     "address": "1 PARI DriveRosmanNorth Carolina 28772 USA",
@@ -13439,6 +15556,19 @@
       "skyandtelescope.com"
     ],
     "website": "www.pari.edu"
+  },
+  "pisgah astronomical research institute (pari)": {
+    "address": "Macedonia Church Road",
+    "country": "USA",
+    "name": "Pisgah Astronomical Research Institute (PARI)",
+    "notes": "15 miles NWof Brevard",
+    "phone": "828-862-5554",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "NC",
+    "telescope": "16-, 14-, 12-, 10-inch optical; (2) 26m, 12m, 4.6m radio telescopes",
+    "website": "http://www.pari.edu"
   },
   "planetario  museo di storia naturale del mediterraneo": {
     "address": "Via Roma, 234, Livorno",
@@ -13723,6 +15853,18 @@
     ],
     "website": "http://www.prescottastronomyclub.org"
   },
+  "prescott observatory": {
+    "country": "USA",
+    "email": "brian.rachford@erau.edu",
+    "name": "Prescott Observatory",
+    "phone": "928-777-3971",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "telescope": "12-inch Schmidt-Cassegrain, 14-inch CCD, radio telescopes",
+    "website": "http://prescott.erau.edu/about/observatory/observatory.html"
+  },
   "prince chinedu okanumee": {
     "address": "no 7 nwafor lane nkpor agu",
     "contact": "prince",
@@ -13757,6 +15899,16 @@
     ],
     "website": ""
   },
+  "principia observatory": {
+    "address": "1 Maybeck Place, IL 62028, USA",
+    "name": "Principia Observatory",
+    "phone": "618-374-2131",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch Ritchey-Chretien",
+    "website": "http://www.principiacollege.edu/observatory"
+  },
   "privatsternwarte m. zeller": {
     "# members": "",
     "address": "Steingrubenweg 219Riehen 4125 Switzerland",
@@ -13780,6 +15932,28 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "psu-greenbush astrophysical observatory": {
+    "address": "Greenbush campus, KS 66743, USA",
+    "name": "PSU-Greenbush Astrophysical Observatory",
+    "phone": "620-235-4391",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24-inch reflector telescope",
+    "website": "http://sciencecenter.greenbush.org/astrophysical-observatory.html"
+  },
+  "puckett observatory": {
+    "country": "USA",
+    "email": "tpuckett@mindspring.com",
+    "name": "Puckett Observatory",
+    "phone": "404-281-5686",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "GA",
+    "telescope": "24-inch, 14-inch telescopes",
+    "website": "http://www.cometwatch.com/"
   },
   "pulsar  society of friends of frombork planetarium": {
     "address": "ul. Katedralna 8, P.O. Box 6, Frombork, 14-530 Poland",
@@ -13870,6 +16044,17 @@
     ],
     "website": "http://www.rasastro.org"
   },
+  "rafes urban astronomy center (ruac)": {
+    "address": "Dept. of Physics, TX 76203, USA",
+    "email": "astrolab@unt.edu",
+    "name": "Rafes Urban Astronomy Center (RUAC)",
+    "phone": "940-565-2626",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "(2) 16-inch, (4) 8-inch telescopes",
+    "website": "http://astronomy.unt.edu/ruac.html"
+  },
   "raiffeisen volkssternwarte mariazellerland": {
     "# members": "",
     "address": "A-8630 MariazellHelleportweg Austria",
@@ -13915,6 +16100,16 @@
       "astroleague.com"
     ],
     "website": "http://www.raleighastro.org/rac"
+  },
+  "ralph buice observatory": {
+    "address": "156 Heaton Park Drive, NE, GA 30307, USA",
+    "name": "Ralph Buice Observatory",
+    "phone": "678-874-7102",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "36-inch telescope",
+    "website": "http://fsc.fernbank.edu/observatory.htm"
   },
   "rancho bernardo/murrieta astronomical society": {
     "address": "",
@@ -14015,6 +16210,25 @@
     ],
     "website": ""
   },
+  "red barn observatory": {
+    "name": "Red Barn Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "GA",
+    "telescope": "0.3m, 0.25m telescopes",
+    "website": "http://www.cometary.net/"
+  },
+  "red buttes observatory (rbo)": {
+    "country": "USA",
+    "name": "Red Buttes Observatory (RBO)",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "WY",
+    "telescope": "24-inch reflector",
+    "website": "http://www.uwyo.edu/rbo/red%20buttes%20observatory/welcome.html"
+  },
   "red chilena de astronom a": {
     "address": ",  Chile",
     "contact": "Eduardo Unda-Sanzana",
@@ -14105,6 +16319,16 @@
     ],
     "website": ""
   },
+  "reynolds observatory": {
+    "address": "Hatch Rd, Potsdam Airport, NY 13699, USA",
+    "email": "jthomas@clarkson.edu",
+    "name": "Reynolds Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "12-inch reflector",
+    "website": "http://www.clarkson.edu/physics/observatory/index.html"
+  },
   "ricard obs.": {
     "# members": "",
     "address": "Dept. of PhysicsSanta Clara Univ.Santa ClaraCalifornia 95053 USA",
@@ -14170,6 +16394,19 @@
     ],
     "website": "http://www.rrastro.org"
   },
+  "rit observatory": {
+    "address": "645 John St",
+    "country": "USA",
+    "email": "mwrsps@rit.edu",
+    "name": "RIT Observatory",
+    "phone": "585-475-2538",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "NY",
+    "telescope": "14-inch, 12-inch telescopes",
+    "website": "http://www.rit.edu/cos/observatory/"
+  },
   "ritchie observatory": {
     "# members": "",
     "address": "P.O. Box 10914Brainbridge IslandWashington 98110 USA",
@@ -14181,6 +16418,17 @@
       "skyandtelescope.com"
     ],
     "website": "http://bicomnet.com/ritchieobs/"
+  },
+  "ritter observatory": {
+    "address": "Univ. of Toledo",
+    "country": "USA",
+    "name": "Ritter Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "OH",
+    "telescope": "1.06 m reflector",
+    "website": "http://astro1.panet.utoledo.edu/~wwritter/obs_home.html"
   },
   "river bend astronomy club": {
     "address": "c/o Gary Kronk",
@@ -14223,6 +16471,30 @@
       "astroleague.com"
     ],
     "website": "http://www.rvasclub.org"
+  },
+  "robert a. schommer observatory": {
+    "address": "Serin Physics Lab, Rutgers Busch Campus",
+    "country": "USA",
+    "email": "pryor@physics.rutgers.edu.",
+    "name": "Robert A. Schommer Observatory",
+    "notes": "http://observatory.rutgers.edu/",
+    "phone": "732-735-5483",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "NJ",
+    "telescope": "20-inch telescope"
+  },
+  "robert brownlee observatory": {
+    "country": "USA",
+    "name": "Robert Brownlee Observatory",
+    "notes": "operated by Mountain Skies Astronomical Society",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "CA",
+    "telescope": "16-inch SCT telescope",
+    "website": "http://www.mountain-skies.org/RBO.html"
   },
   "robert ferguson observatory": {
     "# members": "100+",
@@ -14271,6 +16543,17 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "robinson observatory (ro)": {
+    "address": "12727 Ara Drive, UFC Campus, FL 32816-2385, USA",
+    "email": "planets@physics.ucf.edu",
+    "name": "Robinson Observatory (RO)",
+    "phone": "407-823-2805",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "20-inch Ritchey-Chretien",
+    "website": "http://planets.ucf.edu/observatory"
   },
   "rochester astronomy club": {
     "address": "",
@@ -14333,6 +16616,17 @@
       "astroleague.com"
     ],
     "website": "http://www.rosecityastronomers.org"
+  },
+  "rosemary hill observatory": {
+    "country": "USA",
+    "name": "Rosemary Hill Observatory",
+    "phone": "352-294-1870",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "FL",
+    "telescope": "30-inch Tinsley, 18-inch Ritchey-Chretien",
+    "website": "http://www.astro.ufl.edu/information/rho.html"
   },
   "roswell astronomy club": {
     "address": "Robert H. Goddard Planetarium, 11th & North Main",
@@ -14586,6 +16880,17 @@
     ],
     "website": ""
   },
+  "san fernando observatory (sfo)": {
+    "address": "14031 San Fernando Rd, CA 91342, USA",
+    "email": "physics@galileo.csun.edu",
+    "name": "San Fernando Observatory (SFO)",
+    "phone": "818-367-9333",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "2 solar telescopes",
+    "website": "http://www.csun.edu/sfo/"
+  },
   "san francisco state univ. obs.": {
     "# members": "",
     "address": "Dept. of Physics and AstronomySan FranciscoCalifornia 94132 USA",
@@ -14618,6 +16923,17 @@
     ],
     "website": "http://www.smcas.com"
   },
+  "san pedro valley observatory": {
+    "address": "1311 South Astronomers Rd, AZ 85602, USA",
+    "email": "vegasky@azstarnet.com",
+    "name": "San Pedro Valley Observatory",
+    "notes": "formerly Vega-Bray Observatory",
+    "phone": "888-455-6934",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "website": "https://www.arizona-observatory.com"
+  },
   "sandusky valley amateur astronomy club": {
     "address": "",
     "location": "Tiffin,Ohio",
@@ -14649,6 +16965,17 @@
       "skyandtelescope.com"
     ],
     "website": "www.sanskruti-vadodaa.com"
+  },
+  "sara observatory": {
+    "address": "Florida International University, FL 33199, USA",
+    "email": "webbj@fiu.edu",
+    "name": "SARA Observatory",
+    "phone": "(305) 348-3964",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24-inch",
+    "website": "http://www.fiu.edu/~webbj/Webb.html"
   },
   "sarnia centre  rasc": {
     "address": "160 George Street, Apt 1914, Sarnia, ON N7T 7VA Canada",
@@ -14911,6 +17238,29 @@
     ],
     "website": ""
   },
+  "sfa observatory": {
+    "address": "651 County Road 124",
+    "country": "USA",
+    "name": "SFA Observatory",
+    "phone": "936-569-0102",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "TX",
+    "telescope": "41-inch, 18-inch, 10-inch, 8-inch telescopes",
+    "website": "http://www.physics.sfasu.edu/observatory/obs.htm"
+  },
+  "sfsu observatory": {
+    "address": "Thorton Hall, San Francisco State Univ., CA 94132, USA",
+    "name": "SFSU Observatory",
+    "notes": "home to Charles Hagar Planetarium",
+    "phone": "415-338-1852",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch, 12-inch, 10-inch telescopes",
+    "website": "http://www.physics.sfsu.edu/astronomy/observatory/"
+  },
   "shah abdol azim holy shrine observatory and planetarium": {
     "# members": "",
     "address": "Shah Abdol Azim Holy shrineRey - Tehran Iran",
@@ -14956,6 +17306,16 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "shattuck observatory": {
+    "address": "Observatory Rd, Dartmouth College, NH 3755, USA",
+    "name": "Shattuck Observatory",
+    "phone": "603-646-9100",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "9.5-inch refractor",
+    "website": "http://www.dartmouth.edu/~physics/news/observing.html"
   },
   "sheboygan astronomical society, inc.": {
     "address": "P. O. Box 1373",
@@ -15009,6 +17369,17 @@
       "skyandtelescope.com"
     ],
     "website": "http://www.physics.emich.edu/sherzer"
+  },
+  "sherzer observatory": {
+    "address": "303 Strong Hall, E Michigan Univ., MI 48197, USA",
+    "email": "nvance@emich.edu",
+    "name": "Sherzer Observatory",
+    "phone": "734-487-4146",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "14-inch, multiple 10-inch & 8-inch reflectors; 4-inch Clark refractor",
+    "website": "http://www.emich.edu/physicsastronomy/facilities/sherzer.php//www.physics.emich.edu/sherzer"
   },
   "shirin observatory and science center": {
     "# members": "",
@@ -15174,6 +17545,17 @@
     ],
     "website": ""
   },
+  "sloan digital sky survey iii (sdss-iii)": {
+    "address": "2001 Apache Point Road, NM 88349, USA",
+    "name": "Sloan Digital Sky Survey III (SDSS-III)",
+    "notes": "part of Apache Point Observatories (APO)",
+    "phone": "575-437-6822",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "2.5m Ritchey-Chretien telescope",
+    "website": "http://www.sdss3.org"
+  },
   "smaa  sociedad metropolitana de astronomia aficionada": {
     "address": "Santiago",
     "contact": "Luis Quezada",
@@ -15195,6 +17577,27 @@
       "astronomyclubs.com"
     ],
     "website": "http://www.smaa.cl"
+  },
+  "smith observatory": {
+    "address": "620 Castle St",
+    "country": "USA",
+    "name": "Smith Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "NY",
+    "telescope": "10-inch Warner & Swasey refractor",
+    "website": "http://www.smithobservatory.org"
+  },
+  "smithsonian astrophysical observatory (sao)": {
+    "address": "60 Garden St., MA 2138, USA",
+    "email": "pubaffairs@cfa.harvard.edu",
+    "name": "Smithsonian Astrophysical Observatory (SAO)",
+    "phone": "617-495-7461",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "website": "http://www.cfa.harvard.edu/sao/"
   },
   "smoky mountain astronomical society": {
     "address": "P. O. Box 53265",
@@ -15757,6 +18160,27 @@
     ],
     "website": "http://www.maocity.narod.ru"
   },
+  "sola fide observatory": {
+    "address": "JC Hormel Nature Center",
+    "country": "USA",
+    "name": "Sola Fide Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MN",
+    "telescope": "10-inch refractor",
+    "website": "http://www.spamtownusa.com/imstar/solafide.html"
+  },
+  "solarc telescope": {
+    "country": "USA",
+    "name": "SOLARC Telescope",
+    "notes": "0.5m solar telescope",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://www.ifa.hawaii.edu/haleakalanew/observatories.shtml"
+  },
   "solna astronomiska f rening": {
     "address": "Box 2238, Solna, 171 02 Sweden",
     "contact": "Erik Fredriksson",
@@ -15791,6 +18215,17 @@
       "skyandtelescope.com"
     ],
     "website": "http://lyra.colorado.edu/sbo"
+  },
+  "sommers-bausch observatory (sbo)": {
+    "address": "Univ. of Colorado, CO 80309, USA",
+    "email": "fabio.mezzalira@colorado.edu",
+    "name": "Sommers-Bausch Observatory (SBO)",
+    "phone": "303-492-6732",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24-inch, 18-inch, 16-inch, solar telescope",
+    "website": "http://lyra.colorado.edu/sbo/"
   },
   "sonnenobservatorium bad salzschlirf": {
     "address": "Dr. Martiny Str. 1, 36364 Bad Salzschlirf Germany",
@@ -15878,6 +18313,18 @@
       "astronomyclubs.com"
     ],
     "website": "http://www.seqas.org"
+  },
+  "south harrison observatory": {
+    "address": "South Harrison Park Dr",
+    "country": "USA",
+    "email": "henry.sipes@samtec.com",
+    "name": "South Harrison Observatory",
+    "phone": "270-668-2103",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "IN",
+    "website": "http://legacy.jefferson.kctcs.edu/observatory/"
   },
   "south plains astronomy club": {
     "address": "",
@@ -15988,6 +18435,7 @@
     "name": "Southern Oregon Skywatchers",
     "phone": "",
     "provenance": [
+      "astroleague.com",
       "astroleague.com"
     ],
     "website": ""
@@ -16130,6 +18578,27 @@
     ],
     "website": "http://stellafane.org"
   },
+  "sproul observatory": {
+    "address": "Swarthmore College",
+    "country": "USA",
+    "name": "Sproul Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "PA",
+    "telescope": "24-inch reflector",
+    "website": "http://www.cs.swarthmore.edu/program/history/sproul.html"
+  },
+  "ssu observatory": {
+    "address": "Sonoma State University, CA 94928, USA",
+    "name": "SSU Observatory",
+    "phone": "707-664-2267",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "14-inch telescope",
+    "website": "http://www.phys-astro.sonoma.edu/publicviewingnight.shtml"
+  },
   "st  john astronomy club": {
     "address": "390 Kingsville Rd., St. John, NB E2M 4T2 Canada",
     "contact": "Adrien Bordage",
@@ -16195,6 +18664,31 @@
       "astroleague.com"
     ],
     "website": "http://www.slasonline.org"
+  },
+  "stamford observatory": {
+    "address": "39 Scofieldtown Rd, CT 06903, USA",
+    "email": "mpowell@stamfordmuseum.org",
+    "name": "Stamford Observatory",
+    "notes": "Stamford Museum & Nature Center",
+    "phone": "203-322-1646",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "22-inch telescope",
+    "website": "http://www.stamfordmuseum.org"
+  },
+  "stansbury park observatory": {
+    "address": "Stansbury Park",
+    "country": "USA",
+    "name": "Stansbury Park Observatory",
+    "notes": "27 miles W of Salt Lake City",
+    "phone": "435-882-1209",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "UT",
+    "telescope": "32-inch, 16-inch telescopes",
+    "website": "http://slas.us/spoc2.htm"
   },
   "star astronomy club": {
     "address": "S-1 , E-8/234 TRILANGA COLONY BHOPAL",
@@ -16464,6 +18958,17 @@
     ],
     "website": ""
   },
+  "stellafane observatory": {
+    "address": "Breezy Hill Road",
+    "country": "USA",
+    "name": "Stellafane Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "VT",
+    "telescope": "12-inch Porter Turret telescope",
+    "website": "http://stellafane.org/"
+  },
   "stephen f. wessling observatory": {
     "# members": "35",
     "address": "6523 W Baseline RdFremontMichigan 49412 USA",
@@ -16475,6 +18980,16 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "stephens observatory": {
+    "address": "Carnegie Science Bldg, Bates College",
+    "country": "USA",
+    "name": "Stephens Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "ME",
+    "telescope": "12-inch Newtonian"
   },
   "sterg tlands astronomiska s llskap": {
     "address": "",
@@ -16788,6 +19303,17 @@
     ],
     "website": ""
   },
+  "stokesville observatory": {
+    "address": "Stokesville Campground, VA 24482, USA",
+    "name": "Stokesville Observatory",
+    "notes": "SHENANDOAH VALLEY STARGAZERS",
+    "phone": "540-248-0981",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "14-inch telescope",
+    "website": "http://www.valleystargazers.com/stoke.htm"
+  },
   "stonebelt stargazers": {
     "address": "P.O. Box 1112",
     "location": "Bedford,Indiana",
@@ -16797,6 +19323,19 @@
       "astroleague.com"
     ],
     "website": "http://mainbyte.com/stargazers/index.html"
+  },
+  "stony ridge observatory (sro)": {
+    "address": "Angeles National Forest",
+    "country": "USA",
+    "email": "webmaster@stony-ridge.org",
+    "name": "Stony Ridge Observatory (SRO)",
+    "notes": "Open by appointment only",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "CA",
+    "telescope": "0.76m, 0.3m, 15cm telescopes",
+    "website": "http://stony-ridge.org"
   },
   "stratford astronomy group": {
     "address": "STRATFORD, ON Canada",
@@ -16820,6 +19359,52 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "stull observatory": {
+    "address": "Alfred University",
+    "country": "USA",
+    "email": "tootgd@alfred.edu",
+    "name": "Stull Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "NY",
+    "telescope": "32-inch, 20-inch, (2) 16-inch reflectors; 9-inch refractor; radio telescope"
+  },
+  "subaru telescope": {
+    "country": "USA",
+    "email": "pr_inquiry@subarutelescope.org",
+    "name": "Subaru Telescope",
+    "notes": "8.2m telescope",
+    "phone": "808-934-7788",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://www.naoj.org"
+  },
+  "submillimeter array": {
+    "country": "USA",
+    "email": "pmailhot@cfa.harvard.edu",
+    "name": "Submillimeter Array",
+    "notes": "Eight 6m submillimeter-wave telescopes",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://www.cfa.harvard.edu/sma/"
+  },
+  "submillimeter telescope (smt)": {
+    "country": "USA",
+    "name": "Submillimeter Telescope (SMT)",
+    "notes": "part of Mt. Graham International Observatories (MGIO)",
+    "phone": "520-621-4328",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "telescope": "10m submillimeter radio telescope",
+    "website": "http://aro.as.arizona.edu"
   },
   "sudbury astronomy club": {
     "address": "28 Catherine P3L 1H3 Sudbury, ON Canada",
@@ -16886,6 +19471,15 @@
     ],
     "website": "http://www.coastastronomy.ca"
   },
+  "suny oneonta college observatory": {
+    "address": "College Camp, NY 13820, USA",
+    "name": "SUNY Oneonta College Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "40-inch Newtonian; 16-inch, 14-inch Schmidt-Cassegrains",
+    "website": "http://www.oneonta.edu/observatory/"
+  },
   "suny-geneseo telescope facility": {
     "# members": "",
     "address": "1 College CircleGeneseoNew York 14454 USA",
@@ -16943,6 +19537,18 @@
     ],
     "website": ""
   },
+  "swasey observatory": {
+    "address": "Denison Univ.",
+    "name": "Swasey Observatory",
+    "phone": "614-587-6477",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "OH",
+    "telescope": "9-inch refractor",
+    "website": "http://denison.edu/get-to-know-denison/swasey-observatory",
+    "zip": "43023"
+  },
   "sydney city skywatchers": {
     "address": "Sydney Observatory, Watson Road, The Rocks, 2000",
     "contact": "Mike Chapman",
@@ -16977,6 +19583,18 @@
     ],
     "website": ""
   },
+  "table mountain observatory (tmo)": {
+    "address": "24490 Table Mountain Rd, CA 92397, USA",
+    "email": "Pamela.C.Glatfelter@jpl.nasa.gov",
+    "name": "Table Mountain Observatory (TMO)",
+    "notes": "Operated by NASA JPL",
+    "phone": "760-249-3650",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "1.02m Ponoma College telescope, 0.6m telescope",
+    "website": "http://tmf-web.jpl.nasa.gov"
+  },
   "tac - al (the astronomy connection)": {
     "address": "",
     "location": "Salinas,California",
@@ -16996,6 +19614,18 @@
       "astroleague.com"
     ],
     "website": "http://www.stargazers.org"
+  },
+  "tamke-allan observatory (tao)": {
+    "address": "Caney Creek Road",
+    "country": "USA",
+    "name": "Tamke-Allan Observatory (TAO)",
+    "notes": "Roane State Community College",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "TN",
+    "telescope": "12-inch reflector, 8-inch refractor, 15m radio telescope",
+    "website": "http://www.roanestate.edu/obs/"
   },
   "tampereen ursa ry": {
     "address": "PL 18, Tampere, 33501 Finland",
@@ -17040,6 +19670,18 @@
     ],
     "website": "http://www.taurushill.net"
   },
+  "taylor observatory": {
+    "address": "5725 Oak Hills Lane, CA 95451, USA",
+    "email": "bmcintyre@lakecoe.org",
+    "name": "Taylor Observatory",
+    "notes": "also home to Norton Planetarium",
+    "phone": "707-262-4121",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch telescope",
+    "website": "http://www.lake-coe.k12.ca.us/programs/taylor_observatory"
+  },
   "taylor observatory and planetarium": {
     "# members": "",
     "address": "5725 Oak Hills LaneKelseyvilleCalifornia 95451 USA",
@@ -17073,6 +19715,19 @@
     ],
     "website": "/"
   },
+  "ten acre observatory (tao)": {
+    "address": "Rt 2 Box 154",
+    "email": "orion2c@aol.com",
+    "name": "Ten Acre Observatory (TAO)",
+    "phone": "405-899-4016",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "OK",
+    "telescope": "13-inch telescope",
+    "website": "http://www.optcorp.com/articles/ten-acre-observatory-oklahoma",
+    "zip": "74878"
+  },
   "texas a&m observatory": {
     "# members": "",
     "address": "Department of Physics and Astronomy 4242 TAMU College Station, TX 77843-4242 USA",
@@ -17084,6 +19739,16 @@
       "skyandtelescope.com"
     ],
     "website": "http://observatory.tamu.edu/"
+  },
+  "texas a&m; observatory": {
+    "address": "Physics Dept, MS 4242, TX 77843, USA",
+    "email": "don@tamu.edu",
+    "name": "Texas A&M; Observatory",
+    "phone": "979-845-0536",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "website": "http://observatory.tamu.edu"
   },
   "texas astronomical society of dallas": {
     "address": "P. O Box 25162,Preston Station",
@@ -17294,6 +19959,38 @@
     ],
     "website": "http://thaiastro.nectec.or.th"
   },
+  "theodor jacobsen observatory (tjo)": {
+    "address": "University of Washington",
+    "country": "USA",
+    "name": "Theodor Jacobsen Observatory (TJO)",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "WA",
+    "telescope": "6-inch refractor",
+    "website": "http://www.astro.washington.edu/groups/outreach/tjo/"
+  },
+  "thirty meter telescope (2022)": {
+    "country": "USA",
+    "name": "Thirty Meter Telescope (2022)",
+    "notes": "30m IR-optical-UV telescope. First light 2022.",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://www.tmt.org"
+  },
+  "thomas g. cupillari observatory": {
+    "address": "Hack Road, PA 18440, USA",
+    "email": "tom.cupillari@keystone.edu",
+    "name": "Thomas G. Cupillari Observatory",
+    "phone": "570-945-8402",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "20-inch, 11-inch, 10-inch reflectors",
+    "website": "http://www.keystone.edu/Observatory/"
+  },
   "thrace amateur astronomy club": {
     "address": "I. Mpetsou 5 68100 Alexandroupoli, Greece",
     "contact": "Dimitris Prasopoulos",
@@ -17316,6 +20013,17 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "three college observatory": {
+    "address": "5106 Thompson Mill Road, NC 27253, USA",
+    "email": "danford@uncg.edu",
+    "name": "Three College Observatory",
+    "phone": "336-334-3242",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "0.81m reflector",
+    "website": "http://physics.uncg.edu/tco/"
   },
   "thunder bay observatory": {
     "address": "RR#3, Thunder Bay",
@@ -17370,6 +20078,16 @@
       "astroleague.com"
     ],
     "website": "http://toledoastronomy.org"
+  },
+  "tomchin observatory": {
+    "address": "135 Willey Street, WV Univ, WV 26506, USA",
+    "email": "jel2wvnvaxa.wvnet.edu",
+    "name": "Tomchin Observatory",
+    "phone": "304-293-4961",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "website": "http://planetarium.wvu.edu"
   },
   "tomchin planetarium": {
     "# members": "",
@@ -17598,6 +20316,27 @@
     ],
     "website": ""
   },
+  "u.s. naval observatory (nofs)": {
+    "address": "10391 W Naval Observatory Rd, AZ 86001, USA",
+    "name": "U.S. Naval Observatory (NOFS)",
+    "phone": "928-779 5132",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "6 telescopes from 0.2m - 1.8m",
+    "website": "http://www.nofs.navy.mil"
+  },
+  "u.s. naval observatory (usno)": {
+    "address": "3450 Massachusetts Ave. NW, DC 20392, USA",
+    "email": "USNO_PAO@navy.mil",
+    "name": "U.S. Naval Observatory (USNO)",
+    "phone": "202-762-1467",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "26-inch refractor",
+    "website": "http://www.usno.navy.mil/USNO"
+  },
   "uccs obs.": {
     "# members": "",
     "address": "Physics Dept., Univ. of Colorado/Colorado SpringsP.O. Box 7150Colorado SpringsColorado 80933 USA",
@@ -17610,6 +20349,39 @@
     ],
     "website": ""
   },
+  "uh 0.9m telescope": {
+    "country": "USA",
+    "email": "heacox@hawaii.edu",
+    "name": "UH 0.9m Telescope",
+    "notes": "0.9m telescope",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://www.astro.uhh.hawaii.edu/NewEducationalTelescope.php"
+  },
+  "uh 2.2m telescope": {
+    "country": "USA",
+    "email": "feedback2@ifa.hawaii.edu",
+    "name": "UH 2.2m Telescope",
+    "notes": "2.2m telescope",
+    "phone": "808 932-2300",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://www.ifa.hawaii.edu/88inch/"
+  },
+  "uk infrared telescope": {
+    "country": "USA",
+    "name": "UK Infrared Telescope",
+    "notes": "3.8m telescope",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://www.jach.hawaii.edu/UKIRT/"
+  },
   "umpqua amateur astronomers": {
     "address": "",
     "location": "Roseburg,Oregon",
@@ -17619,6 +20391,41 @@
       "astroleague.com"
     ],
     "website": "http://www.umpquaastronomers.org/UAA/"
+  },
+  "una observatory": {
+    "address": "University of North Alabama, AL 35632, USA",
+    "email": "rmblake@una.edu",
+    "name": "UNA Observatory",
+    "phone": "256-765-4284",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "14-inch telescope",
+    "website": "http://www.una.edu/planetarium"
+  },
+  "und space studies observatory": {
+    "address": "Univ. of North Dakota",
+    "country": "USA",
+    "email": "Hardersen@space.edu",
+    "name": "UND Space Studies Observatory",
+    "phone": "701-777-4896",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "ND",
+    "telescope": "3 Internet-controllable SCT telescopes",
+    "website": "http://observatory.space.edu"
+  },
+  "unh observatory": {
+    "address": "Spinney Lane, Univ. of New Hampshire, NH 3824, USA",
+    "email": "unh.observer@unh.edu",
+    "name": "UNH Observatory",
+    "notes": "14-inch telescope",
+    "phone": "603-862-1950",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "website": "http://physics.unh.edu/observatory"
   },
   "unione astrofili bresciani": {
     "address": "Civici Musei di Scienze, traversa XII, 172, Brescia BR, 25125 Italy",
@@ -17698,6 +20505,25 @@
     ],
     "website": ""
   },
+  "univ of florida observatory": {
+    "address": "Museum Rd, UF Campus, FL 32611, USA",
+    "name": "Univ of Florida Observatory",
+    "phone": "352-294-1870",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "12.5-inch, 12-inch, 8-inch reflectors; 8-inch Clark refractor",
+    "website": "http://www.astro.ufl.edu/information/cto.html"
+  },
+  "univ of georgia observatory": {
+    "address": "Physics Bldg, UGA Campus, GA 30602, USA",
+    "name": "Univ of Georgia Observatory",
+    "phone": "706-542-2485",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "website": "https://www.physast.uga.edu/observatory"
+  },
   "univ. of british columbia obs.": {
     "# members": "",
     "address": "2219 Main MallVancouverBritish Columbia V6T 1Z4 Canada",
@@ -17746,6 +20572,19 @@
     ],
     "website": "http://www.astro.umd.edu/openhouse/"
   },
+  "univ. of maryland observatory": {
+    "address": "Metzerott Road",
+    "email": "warnerem@astro.umd.edu",
+    "name": "Univ. of Maryland Observatory",
+    "phone": "301-405-6555",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MD",
+    "telescope": "20-inch, 14-inch reflectors; 8-inch, 7-inch refractors",
+    "website": "http://www.astro.umd.edu/openhouse/",
+    "zip": "20742"
+  },
   "univ. of new hampshire obs.": {
     "# members": "",
     "address": "Physics Dept.Demeritt HallDurhamNew Hampshire 03824 USA",
@@ -17770,6 +20609,15 @@
     ],
     "website": ""
   },
+  "univ. of nm observatory": {
+    "address": "Dept of Physics, 800 Yale NE, NM 87131, USA",
+    "name": "Univ. of NM Observatory",
+    "phone": "505-277-2616",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "website": "http://www.phys.unm.edu/~egates/TAAS/campusobs.htm"
+  },
   "univ. of north texas astronomy obs.": {
     "# members": "",
     "address": "Dept. of PhysicsDentonTexas 76203 USA",
@@ -17793,6 +20641,17 @@
       "skyandtelescope.com"
     ],
     "website": "http://observatory.astro.upenn.edu"
+  },
+  "univ. of pennsylvania observatory": {
+    "address": "David Rittenhouse Laboratory, 209 S. 33rd Street, PA 19104, USA",
+    "email": "sdicker@physics.upenn.edu",
+    "name": "Univ. of Pennsylvania Observatory",
+    "phone": "215-898-8152",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "(2) 10-inch, 8-inch reflector",
+    "website": "http://www.physics.upenn.edu/observer/"
   },
   "univ. of saskatchewan obs.": {
     "# members": "",
@@ -17829,6 +20688,17 @@
     ],
     "website": "http://star-www.st-and.ac.uk/astronomy"
   },
+  "university of alabama observatory": {
+    "address": "Gallalee Hall, University of Alabama",
+    "country": "USA",
+    "name": "University of Alabama Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AL",
+    "telescope": "20-inch, 17-inch, 16-inch telescopes",
+    "website": "http://astronomy.ua.edu/Public.html"
+  },
   "university of florida teaching obs.": {
     "# members": "",
     "address": "P.O. Box 112055Dept. of AstronomyGainesvilleFlorida 32611-2055 USA",
@@ -17853,6 +20723,17 @@
     ],
     "website": ""
   },
+  "university of illinois observatory": {
+    "address": "103 Astronomy Bldg, 1002 W. Green St., IL 61801, USA",
+    "email": "astronomy@illinois.edu",
+    "name": "University of Illinois Observatory",
+    "phone": "217-333-3090",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "12-inch Brashear refractor",
+    "website": "http://www.astro.illinois.edu/about/observatory/"
+  },
   "university of london observatory": {
     "# members": "",
     "address": "Dept. of Physics & Astronomy553 Watford Way NW7 2QS United Kingdom",
@@ -17876,6 +20757,17 @@
       "skyandtelescope.com"
     ],
     "website": "http://www.physics.unl.edu/directory/gaskell/stdobs.html"
+  },
+  "university of oklahoma observatory": {
+    "address": "Univ. of Oklahoma",
+    "country": "USA",
+    "name": "University of Oklahoma Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "OK",
+    "telescope": "16-inch reflector",
+    "website": "http://observatory.ou.edu/Welcome.html"
   },
   "university of the philippines astronomical society": {
     "address": "PAGASA Astronomical Observatory, University of the Philippines, Diliman Quezon City Philippines",
@@ -18037,6 +20929,16 @@
     ],
     "website": ""
   },
+  "van vleck observatory": {
+    "address": "96 Foss Hill Dr, Wesleyan Univ., CT 06459-0123, USA",
+    "name": "Van Vleck Observatory",
+    "phone": "860-685-2131",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24-inch & 16-inch reflectors; 20-inch Clark refractor",
+    "website": "http://www.wesleyan.edu/astro/events/"
+  },
   "vancouver centre  rasc": {
     "address": "1100 Chestnut St., Vancouver, BC V6J 3J9 Canada",
     "contact": "Bill Ronald",
@@ -18047,6 +20949,41 @@
       "astronomyclubs.com"
     ],
     "website": "http://www.rasc.ca/vancouver"
+  },
+  "vanderbilt dyer observatory": {
+    "address": "1000 Oman Dr, Vanderbilt Univ., TN 37027, USA",
+    "email": "hallxxds@ctrvax.vanderbilt.edu",
+    "name": "Vanderbilt Dyer Observatory",
+    "phone": "615-373-4897",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "8.5-inch refractor",
+    "website": "http://dyer.vanderbilt.edu"
+  },
+  "vassar college observatory": {
+    "address": "Vassar College",
+    "country": "USA",
+    "name": "Vassar College Observatory",
+    "phone": "845-437-7340",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "NY",
+    "telescope": "32-inch, 20-inch reflectors; 8-inch refractor",
+    "website": "http://physicsandastronomy.vassar.edu/facilities/observatory.html"
+  },
+  "vatican advanced technology telescope (vatt)": {
+    "country": "USA",
+    "name": "Vatican Advanced Technology Telescope (VATT)",
+    "notes": "part of Mt. Graham International Observatories (MGIO)",
+    "phone": "520-621-6043",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "telescope": "1.8m optical telescope",
+    "website": "http://vaticanobservatory.org/VATT/"
   },
   "vega astronomical assn": {
     "address": "Berzsenyi u. 8, Zalaegerszeg, 8900 Hungary",
@@ -18136,6 +21073,16 @@
     ],
     "website": "http://www.vvs.be"
   },
+  "veritas array": {
+    "country": "USA",
+    "name": "VERITAS Array",
+    "notes": "4 x 12m gamma-ray telescopes",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "website": "http://veritas.sao.arizona.edu"
+  },
   "vernonia peak obs.": {
     "# members": "",
     "address": "55371 McDonald Rd.VernoniaOregon 97064 USA",
@@ -18147,6 +21094,17 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "vernonia peak observatory (vpo)": {
+    "address": "55371 McDonald Rd., OR 97064, USA",
+    "email": "sandym@teleport.com",
+    "name": "Vernonia Peak Observatory (VPO)",
+    "phone": "503-429-2430",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24-inch, 12.5-inch telescopes",
+    "website": "http://www.nwag.portland.or.us/"
   },
   "very large array radio telescope and very long baseline array radio telescope": {
     "# members": "",
@@ -18160,6 +21118,39 @@
     ],
     "website": ""
   },
+  "very long baseline array": {
+    "country": "USA",
+    "name": "Very Long Baseline Array",
+    "notes": "25m radio telescope (one of ten globally)",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://www.vlba.nrao.edu/"
+  },
+  "very small array (vsa)": {
+    "country": "USA",
+    "name": "Very Small Array (VSA)",
+    "notes": "part of SETI League Project Argus",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "PA",
+    "telescope": "8 x 3-5m radio telescopes",
+    "website": "http://www.setileague.org/argus/"
+  },
+  "vestal street observatory": {
+    "address": "3 Vestal Street",
+    "country": "USA",
+    "name": "Vestal Street Observatory",
+    "phone": "508-228-9273",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MA",
+    "telescope": "17-inch Plane Wave Dall-Kirkham telescope",
+    "website": "https://www.mariamitchell.org/visit/vestal-street-observatory"
+  },
   "vestfold astronomical association": {
     "address": "PB 82, Homestrand, 3080 Norway",
     "contact": "Bent Haraldson",
@@ -18170,6 +21161,17 @@
       "astronomyclubs.com"
     ],
     "website": ""
+  },
+  "villanova observatory": {
+    "address": "Mendel Science Center, Villanova Univ., PA 19085, USA",
+    "email": "astronomy@ast.vill.edu",
+    "name": "Villanova Observatory",
+    "notes": "Villanova Astronomical Society",
+    "phone": "610-519-4820",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "website": "http://www.students.villanova.edu/vas/observatory.html"
   },
   "villanova univ. obs.": {
     "# members": "",
@@ -18539,6 +21541,18 @@
     ],
     "website": ""
   },
+  "w. m. keck observatory": {
+    "country": "USA",
+    "email": "advancement@keckobservatory.org",
+    "name": "W. M. Keck Observatory",
+    "notes": "two 10m telescopes - Keck 1 & Keck 2",
+    "phone": "808-885-7887",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "HI",
+    "website": "http://www.keckobservatory.org"
+  },
   "wabash valley astronomical society": {
     "address": "P.O. Box 2020",
     "location": "West Lafayette,Indiana",
@@ -18560,6 +21574,18 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "wahnsiedler observatory": {
+    "address": "Lynnville Park, IN 47733, USA",
+    "email": "ssc1eas@cs.com",
+    "name": "Wahnsiedler Observatory",
+    "notes": "Evansville Astronomical Society",
+    "phone": "812-985-9115",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "14-inch, 12.5-inch reflectors; 6-inch solar scope",
+    "website": "http://evansvilleastro.org/abouteas.htm"
   },
   "wallace astrophysical observatory": {
     "# members": "",
@@ -18596,6 +21622,16 @@
     ],
     "website": ""
   },
+  "warkoczewski observatory": {
+    "address": "800 E. 52nd Street, UMKC Campus, MO 64110, USA",
+    "name": "Warkoczewski Observatory",
+    "phone": "(913) 208-0924",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-in Newtonian, 14-in SCT",
+    "website": "http://cas.umkc.edu/physics/warko/"
+  },
   "warner & swasey obs.": {
     "# members": "",
     "address": "Dept. of AstronomyCase Western Reserve Univ.ClevelandOhio 44106-7215 USA",
@@ -18607,6 +21643,17 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "warner & swasey observatory": {
+    "country": "USA",
+    "name": "Warner & Swasey Observatory",
+    "notes": "part of Kitt Peak National Observatories (KPNO) complex",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "telescope": "24-inch Burrell Schmidt; 9.5-inch refractor telescopes",
+    "website": "http://www.noao.edu/image_gallery/html/im0341.html"
   },
   "warren astronomical society": {
     "address": "P. O. Box 1505",
@@ -18630,6 +21677,17 @@
     ],
     "website": "http://www.wro.org"
   },
+  "warren rupp observatory": {
+    "address": "Hidden Hollow, OH 44901, USA",
+    "name": "Warren Rupp Observatory",
+    "notes": "Richland Astronomical Society",
+    "phone": "419-462-2385",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "36-inch Newtonian",
+    "website": "http://www.wro.org"
+  },
   "warsaw astronomical society": {
     "address": "1308 Sunset Drive",
     "location": "Winona Lake,Indiana",
@@ -18639,6 +21697,18 @@
       "astroleague.com"
     ],
     "website": "http://clubs.kconline.com/was/"
+  },
+  "washburn observatory": {
+    "address": "475 N. Charter Street, UW-Madison College",
+    "country": "USA",
+    "name": "Washburn Observatory",
+    "phone": "608-262 3071",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "WI",
+    "telescope": "15.6-inch telescope",
+    "website": "http://www.astro.wisc.edu/the-public/public-observing-at-washburn/?Washburn/"
   },
   "wega": {
     "address": "Guido Gezellelaan 71, Heverlee, 3001 Belgium",
@@ -18707,6 +21777,18 @@
     ],
     "website": "http://www.stargazing.net/wvas"
   },
+  "west mountain observatory (wmo)": {
+    "address": "West Mountain",
+    "country": "USA",
+    "name": "West Mountain Observatory (WMO)",
+    "notes": "14 miles SW of Provo",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "UT",
+    "telescope": "0.9m, 0.5m, 0.3m reflectors",
+    "website": "http://wmo.byu.edu"
+  },
   "west texas astronomers": {
     "address": "",
     "location": "Midland,Texas",
@@ -18770,6 +21852,27 @@
     ],
     "website": "http://www.westminsterastro.org"
   },
+  "westside observatory": {
+    "address": "181 White St, WCSU Westside campus, CT 6810, USA",
+    "name": "Westside Observatory",
+    "notes": "20-inch Ritchey-Chretien",
+    "phone": "203-837-8669",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "website": "http://www.wcsu.edu/graduate/eps/obsws.asp"
+  },
+  "westview observatory": {
+    "address": "Shawnee Rd",
+    "country": "USA",
+    "name": "Westview Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "OH",
+    "telescope": "8-inch Meade Schmidt Newtonian",
+    "website": "http://westviewobservatory.weebly.com/"
+  },
   "whatcom association of celestial observers": {
     "address": "P. O. Box 1721",
     "location": "Ferndale,Washington",
@@ -18779,6 +21882,28 @@
       "astroleague.com"
     ],
     "website": "http://www.whatcomastronomy.org"
+  },
+  "wheaton college observatory": {
+    "address": "Science Center Building, Wheaton College",
+    "country": "USA",
+    "name": "Wheaton College Observatory",
+    "phone": "508-286-3979",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MA",
+    "telescope": "(3) 14-inch, (6) 12-inch reflectors",
+    "website": "http://wheatoncollege.edu/astronomy/observatory/"
+  },
+  "whispering pine observatories (wpo)": {
+    "country": "USA",
+    "name": "Whispering Pine Observatories (WPO)",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AR",
+    "telescope": "36-inch, 16-inch, 12-inch, 10-inch, 8-inch, 6-inch telescopes",
+    "website": "http://www.whisperingpineobservatories.com"
   },
   "whitewater obs.": {
     "# members": "",
@@ -18792,6 +21917,19 @@
     ],
     "website": ""
   },
+  "whitewater observatory": {
+    "address": "S Whiton St, Univ. of Wisconsin-Whitewater",
+    "email": "rybskip@uww.edu",
+    "name": "Whitewater Observatory",
+    "phone": "262-472-1067",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "WI",
+    "telescope": "41cm Ritchie-Cretien",
+    "website": "http://academics.uww.edu/physics/events.php",
+    "zip": "53190"
+  },
   "whitin obs.": {
     "# members": "",
     "address": "Wellesley College106 Central St.WellesleyMassachusetts 02181 USA",
@@ -18803,6 +21941,27 @@
       "skyandtelescope.com"
     ],
     "website": "http://www.astro.wellesley.edu"
+  },
+  "whitin observatory": {
+    "address": "Wellesley College, 106 Central St., MA 2181, USA",
+    "name": "Whitin Observatory",
+    "phone": "781-283-2726",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24-inch reflector, 12-inch & 6-inch Clark refractors",
+    "website": "http://www.wellesley.edu/astronomy/whitin"
+  },
+  "widener university observatory": {
+    "address": "Kirkbride Hall, Widener Univ.",
+    "country": "USA",
+    "name": "Widener University Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "PA",
+    "telescope": "16-inch SCT",
+    "website": "http://www.science.widener.edu/observatory/"
   },
   "wiener arbeitsgemeinschaft fa r astronomie  waa": {
     "address": "Fraungrubergasse 3/1/7, 1120 Austria",
@@ -18825,6 +21984,27 @@
       "astronomyclubs.com"
     ],
     "website": "http://www.wko.dk"
+  },
+  "wilder observatory": {
+    "address": "Amherst College, MA 1002, USA",
+    "name": "Wilder Observatory",
+    "phone": "413-542-2138",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "18-inch Clark refractor",
+    "website": "https://www.amherst.edu/aboutamherst/magazine/nooks/wilder"
+  },
+  "wildhaven observatory": {
+    "address": "E. O'Rear Road",
+    "country": "USA",
+    "name": "Wildhaven Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "MO",
+    "telescope": "7.5-inch refractor",
+    "website": "http://www.cmaaastro.com/wildhavenobservatory.html"
   },
   "wilhelm-foerster-sternwarte auf dem insulaner": {
     "# members": "",
@@ -18850,6 +22030,17 @@
     ],
     "website": ""
   },
+  "willard l. eccles observatory": {
+    "address": "Frisco Peak",
+    "country": "USA",
+    "name": "Willard L. Eccles Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "UT",
+    "telescope": "32-inch telescope",
+    "website": "http://www.physics.utah.edu/weo/"
+  },
   "william bucknell obs.": {
     "# members": "",
     "address": "Dept. of PhysicsLewisburgPennsylvania 17837 USA",
@@ -18874,6 +22065,27 @@
     ],
     "website": ""
   },
+  "william miller sperry observatory": {
+    "address": "Union County College, 1033 Springfield Ave., NJ 7016, USA",
+    "email": "info@asterism.org",
+    "name": "William Miller Sperry Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "24-inch reflector, 10-inch refractor",
+    "website": "http://www.asterism.org/jsp/observatory.jsp"
+  },
+  "williams observatory": {
+    "address": "Gardner-Webb Univ, NC 2807, USA",
+    "email": "dolive@gardner-webb.edu",
+    "name": "Williams Observatory",
+    "phone": "704-406-3804",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "20-inch telescope",
+    "website": "http://www.ccastro.org/observatory.html"
+  },
   "windsor centre  rasc": {
     "address": "671 Inman Sideroad, R.R. #2, Ruthven, ON N0P 2G0 Canada",
     "contact": "Frank J. Shepley",
@@ -18884,6 +22096,16 @@
       "astronomyclubs.com"
     ],
     "website": "http://www.rasc.ca/windsor"
+  },
+  "winer observatory": {
+    "address": "22 Milky Way, AZ 85637, USA",
+    "name": "Winer Observatory",
+    "phone": "520-264-8013",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "28-inch PlanWave, 20-inch DEMONIX 14.5\" telescopes",
+    "website": "http://www.winer.org"
   },
   "winfree obs.": {
     "# members": "",
@@ -18897,6 +22119,17 @@
     ],
     "website": "http://faculty.rmwc.edu/tmichalik"
   },
+  "winfree observatory": {
+    "address": "Randolph-Macon Woman's College, VA 24503, USA",
+    "email": "tmichalik@rmwc.edu",
+    "name": "Winfree Observatory",
+    "phone": "804-947-8489",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "14-inch Schmidt-Cassegrain, 6-inch Brashear refractor",
+    "website": "http://faculty.randolphcollege.edu/tmichalik/abtwnfre.htm"
+  },
   "winnipeg centre  rasc": {
     "address": "Box 2694, Winnipeg, MB R3C 4B3 Canada",
     "contact": "Stan Runge",
@@ -18907,6 +22140,43 @@
       "astronomyclubs.com"
     ],
     "website": "http://www.rasc.ca/winnipeg"
+  },
+  "witte observatory": {
+    "address": "18832 152nd Avenue",
+    "name": "Witte Observatory",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "IA",
+    "telescope": "12-inch Clark telescope",
+    "website": "http://www.dmcounty.com/index.aspx?NID=516",
+    "zip": "52601"
+  },
+  "wiyn 0.9m observatory": {
+    "country": "USA",
+    "email": "hmathis@noao.edu",
+    "name": "WIYN 0.9m Observatory",
+    "notes": "part of Kitt Peak National Observatories (KPNO) complex",
+    "phone": "520-318-8588",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "telescope": "0.9m telescope",
+    "website": "http://www.noao.edu/0.9m/"
+  },
+  "wiyn 3.5m observatory": {
+    "country": "USA",
+    "email": "nbird@noao.edu",
+    "name": "WIYN 3.5m Observatory",
+    "notes": "part of Kitt Peak National Observatories (KPNO) complex",
+    "phone": "520-318-8279",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "state": "AZ",
+    "telescope": "3.5m telescope",
+    "website": "http://www.noao.edu/wiyn/"
   },
   "woodside obs. and planetarium": {
     "# members": "",
@@ -18932,6 +22202,16 @@
     ],
     "website": ""
   },
+  "worley observatory": {
+    "address": "353 Ockley Dr., LA 71105, USA",
+    "name": "Worley Observatory",
+    "phone": "318-673-7827",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "16-inch Newtonian reflector, 6-inch refractor",
+    "website": "http://shreveportastronomy.com/index7.html"
+  },
   "worth hill observatory": {
     "# members": "",
     "address": "Seacombe HouseWorth Matravers BH19 3LF United Kingdom",
@@ -18955,6 +22235,15 @@
       "skyandtelescope.com"
     ],
     "website": ""
+  },
+  "wyoming infrared observatory (wiro)": {
+    "address": "Jelm Mountain, WY 82071, USA",
+    "name": "Wyoming Infrared Observatory (WIRO)",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "2.3m reflector telescope",
+    "website": "http://physics.uwyo.edu/~chip/wiro/"
   },
   "yakima astronomical society": {
     "address": "",
@@ -19088,6 +22377,16 @@
       "astronomyclubs.com"
     ],
     "website": ""
+  },
+  "yuba city astronomical observatory": {
+    "address": "3503 South Harbor Boulevard, CA 92704, USA",
+    "name": "Yuba City Astronomical Observatory",
+    "phone": "714-957-0600",
+    "provenance": [
+      "go-astronomy.com"
+    ],
+    "telescope": "11-inch telescope",
+    "website": "http://www.ycao.org"
   },
   "zafaranie educational observatory (z.e.o)": {
     "# members": "",
